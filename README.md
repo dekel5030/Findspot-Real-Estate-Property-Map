@@ -55,3 +55,11 @@ This project displays real estate properties on Google Maps using a Flask backen
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Screenshots
+
+![Tel aviv property map](data/tlv_map.png)
+
+![property_info_window](data/property_info_window.png)
+
+
