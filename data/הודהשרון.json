@@ -1,0 +1,422 @@
+[
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "שאר העיר",
+            "street": "סמ הר גילה",
+            "number": "3"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, שאר העיר, סמ הר גילה 3"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "שאר העיר",
+            "street": "רמתיים",
+            "number": "93"
+        },
+        "price": "7000",
+        "room_count": "5.5",
+        "square_meters": "150",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, שאר העיר, רמתיים 93"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "רמתיים",
+            "street": "הבנים",
+            "number": "6"
+        },
+        "price": "2500",
+        "room_count": "5",
+        "square_meters": "150",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, רמתיים, הבנים 6"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "מגדיאל",
+            "street": "הדרים",
+            "number": "32"
+        },
+        "price": "5100",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, מגדיאל, הדרים 32"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "רמתיים",
+            "street": "שרת משה",
+            "number": "27"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, רמתיים, שרת משה 27"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "רמתיים",
+            "street": "משאבים",
+            "number": "18"
+        },
+        "price": "4100",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, רמתיים, משאבים 18"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "רמתיים",
+            "street": "ההסתדרות",
+            "number": "8"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "81",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, רמתיים, ההסתדרות 8"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "מגדיאל",
+            "street": "רעות",
+            "number": "16"
+        },
+        "price": "6200",
+        "room_count": "3",
+        "square_meters": "105",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, מגדיאל, רעות 16"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "מגדיאל",
+            "street": "הדרים",
+            "number": "N/A"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, מגדיאל, הדרים"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "רמתיים",
+            "street": "ישורון",
+            "number": "N/A"
+        },
+        "price": "7200",
+        "room_count": "4",
+        "square_meters": "107",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, רמתיים, ישורון"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "רמות מנחם",
+            "street": "טווס",
+            "number": "4"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, רמות מנחם, טווס 4"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "רמות מנחם",
+            "street": "טווס",
+            "number": "4"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, רמות מנחם, טווס 4"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "שיכון גיורא",
+            "street": "הנרייטה סאלד",
+            "number": "3"
+        },
+        "price": "4250",
+        "room_count": "2",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, שיכון גיורא, הנרייטה סאלד 3"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "רמתיים",
+            "street": "בני ברית",
+            "number": "10"
+        },
+        "price": "6800",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, רמתיים, בני ברית 10"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "רמתיים",
+            "street": "הבנים",
+            "number": "5"
+        },
+        "price": "6300",
+        "room_count": "3.5",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, רמתיים, הבנים 5"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "שאר העיר",
+            "street": "בן גמלא יהושע",
+            "number": "33"
+        },
+        "price": "5900",
+        "room_count": "4",
+        "square_meters": "116",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, שאר העיר, בן גמלא יהושע 33"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "רמתיים",
+            "street": "בן גוריון",
+            "number": "8"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, רמתיים, בן גוריון 8"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "רמתיים",
+            "street": "בן גוריון",
+            "number": "5"
+        },
+        "price": "6200",
+        "room_count": "4",
+        "square_meters": "116",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, רמתיים, בן גוריון 5"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "גיל עמל",
+            "street": "קציר (אפריים)",
+            "number": "24"
+        },
+        "price": "3800",
+        "room_count": "5",
+        "square_meters": "130",
+        "floor": "17",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, גיל עמל, קציר (אפריים) 24"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "נווה נאמן",
+            "street": "החשמונאים",
+            "number": "22"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, נווה נאמן, החשמונאים 22"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "רמתיים",
+            "street": "בני ברית",
+            "number": "10"
+        },
+        "price": "6800",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, רמתיים, בני ברית 10"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "מגדיאל",
+            "street": "רעות",
+            "number": "23"
+        },
+        "price": "7000",
+        "room_count": "5",
+        "square_meters": "110",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, מגדיאל, רעות 23"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "שאר העיר",
+            "street": "בן גמלא יהושע",
+            "number": "11"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "155",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, שאר העיר, בן גמלא יהושע 11"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "רמתיים",
+            "street": "הבנים",
+            "number": "6"
+        },
+        "price": "2500",
+        "room_count": "5",
+        "square_meters": "150",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, רמתיים, הבנים 6"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "שאר העיר",
+            "street": "סמ הר גילה",
+            "number": "3"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, שאר העיר, סמ הר גילה 3"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "רמתיים",
+            "street": "בן גוריון",
+            "number": "26"
+        },
+        "price": "5200",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, רמתיים, בן גוריון 26"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "מתחם 200",
+            "street": "שד הנשיאים",
+            "number": "6"
+        },
+        "price": "9000",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, מתחם 200, שד הנשיאים 6"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "מגדיאל",
+            "street": "הצנחנים",
+            "number": "5"
+        },
+        "price": "7550",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, מגדיאל, הצנחנים 5"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "שאר העיר",
+            "street": "סמ הר גילה",
+            "number": "3"
+        },
+        "price": "7000",
+        "room_count": "5.5",
+        "square_meters": "150",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, שאר העיר, סמ הר גילה 3"
+    },
+    {
+        "location": {
+            "city": "הוד השרון",
+            "area": "מתחם 200",
+            "street": "שד הנשיאים",
+            "number": "6"
+        },
+        "price": "9000",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "הוד השרון, מתחם 200, שד הנשיאים 6"
+    }
+]

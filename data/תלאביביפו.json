@@ -1,0 +1,2802 @@
+[
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "שד נורדאו",
+            "number": "66"
+        },
+        "price": "6700",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, שד נורדאו 66"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "ניר אביב",
+            "street": "שד ששת הימים",
+            "number": "2"
+        },
+        "price": "5200",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, ניר אביב, שד ששת הימים 2"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "כפר שלם",
+            "street": "דרך ההגנה",
+            "number": "140"
+        },
+        "price": "6390",
+        "room_count": "2",
+        "square_meters": "90",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, כפר שלם, דרך ההגנה 140"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יד אליהו",
+            "street": "הגבור האלמוני",
+            "number": "N/A"
+        },
+        "price": "7900",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יד אליהו, הגבור האלמוני"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "מרכז העיר",
+            "street": "יבנה",
+            "number": "N/A"
+        },
+        "price": "8900",
+        "room_count": "4",
+        "square_meters": "93",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, מרכז העיר, יבנה"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "סוקולוב",
+            "number": "33"
+        },
+        "price": "7250",
+        "room_count": "2.5",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, סוקולוב 33"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "בית אל",
+            "number": "8"
+        },
+        "price": "2900",
+        "room_count": "5",
+        "square_meters": "110",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, בית אל 8"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "ביצרון",
+            "street": "שד ההשכלה",
+            "number": "17"
+        },
+        "price": "8400",
+        "room_count": "2.5",
+        "square_meters": "80",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, ביצרון, שד ההשכלה 17"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "שטרוק",
+            "number": "17"
+        },
+        "price": "6500",
+        "room_count": "2",
+        "square_meters": "54",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, שטרוק 17"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "מרכז העיר",
+            "street": "קרית ספר",
+            "number": "N/A"
+        },
+        "price": "5800",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, מרכז העיר, קרית ספר"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "כיכר המדינה",
+            "street": "בן סרוק",
+            "number": "14"
+        },
+        "price": "7500",
+        "room_count": "2",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, כיכר המדינה, בן סרוק 14"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "גורדון",
+            "number": "N/A"
+        },
+        "price": "8200",
+        "room_count": "2",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, גורדון"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "סוקולוב",
+            "number": "28"
+        },
+        "price": "7700",
+        "room_count": "3",
+        "square_meters": "71",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, סוקולוב 28"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "סוקולוב",
+            "number": "28"
+        },
+        "price": "7700",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, סוקולוב 28"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "ארבע ארצות",
+            "number": "13"
+        },
+        "price": "9000",
+        "room_count": "4",
+        "square_meters": "83",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, ארבע ארצות 13"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "פלורנטין",
+            "street": "צ’o;לנוב",
+            "number": "48"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "84",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, פלורנטין, צ’o;לנוב 48"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "מרכז העיר",
+            "street": "לבונטין",
+            "number": "15"
+        },
+        "price": "8750",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, מרכז העיר, לבונטין 15"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "מרכז העיר",
+            "street": "המלך ג’o;ורג’o;",
+            "number": "78"
+        },
+        "price": "7400",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, מרכז העיר, המלך ג’o;ורג’o; 78"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "אבן גבירול",
+            "number": "167"
+        },
+        "price": "7300",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, אבן גבירול 167"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "ארבע ארצות",
+            "number": "15"
+        },
+        "price": "7500",
+        "room_count": "3",
+        "square_meters": "53",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, ארבע ארצות 15"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "שפירא",
+            "street": "מסילת ישרים",
+            "number": "N/A"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "38",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, שפירא, מסילת ישרים"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "שד נורדאו",
+            "number": "66"
+        },
+        "price": "7000",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, שד נורדאו 66"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "המושבה האמריקאית-גרמנית",
+            "street": "אילת",
+            "number": "4"
+        },
+        "price": "12000",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, המושבה האמריקאית-גרמנית, אילת 4"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "מונטיפיורי",
+            "street": "ישראל ב\"ק",
+            "number": "4"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, מונטיפיורי, ישראל ב\"ק 4"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "שד מסריק",
+            "number": "N/A"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, שד מסריק"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יפו",
+            "street": "שבטי ישראל",
+            "number": "45"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יפו, שבטי ישראל 45"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "פלורנטין",
+            "street": "דרך יפו",
+            "number": "N/A"
+        },
+        "price": "4500",
+        "room_count": "1",
+        "square_meters": "25",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, פלורנטין, דרך יפו"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נחלת יצחק",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "11800",
+        "room_count": "4.5",
+        "square_meters": "112",
+        "floor": "13",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נחלת יצחק"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "מרכז העיר",
+            "street": "רמב\"ם",
+            "number": "N/A"
+        },
+        "price": "5400",
+        "room_count": "1",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, מרכז העיר, רמב\"ם"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "כרם התימנים",
+            "street": "רבי מאיר",
+            "number": "N/A"
+        },
+        "price": "3300",
+        "room_count": "1",
+        "square_meters": "25",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, כרם התימנים, רבי מאיר"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "התקווה",
+            "street": "קהילת ניו יורק",
+            "number": "N/A"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, התקווה, קהילת ניו יורק"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה חן",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "78",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה חן"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "מרכז העיר",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "30000",
+        "room_count": "3",
+        "square_meters": "120",
+        "floor": "10",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, מרכז העיר"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "הירקון",
+            "number": "N/A"
+        },
+        "price": "9500",
+        "room_count": "4",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, הירקון"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "אזורי חן",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "12500",
+        "room_count": "4",
+        "square_meters": "116",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, אזורי חן"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "מרכז העיר",
+            "street": "לילינבלום",
+            "number": "N/A"
+        },
+        "price": "6150",
+        "room_count": "1",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, מרכז העיר, לילינבלום"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הדר יוסף",
+            "street": "קהילת ורשה",
+            "number": "91"
+        },
+        "price": "3500",
+        "room_count": "1",
+        "square_meters": "30",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הדר יוסף, קהילת ורשה 91"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "קצנלסון יצחק",
+            "number": "N/A"
+        },
+        "price": "10900",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, קצנלסון יצחק"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "תל חיים",
+            "street": "דרך השלום",
+            "number": "81"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, תל חיים, דרך השלום 81"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון החדש",
+            "street": "בלוך דוד",
+            "number": "50"
+        },
+        "price": "9900",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון החדש, בלוך דוד 50"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "המשתלה",
+            "street": "אלכסנדר סשה ארגוב",
+            "number": "64"
+        },
+        "price": "11000",
+        "room_count": "4",
+        "square_meters": "109",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, המשתלה, אלכסנדר סשה ארגוב 64"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "פלורנטין",
+            "street": "השוק",
+            "number": "23"
+        },
+        "price": "4000",
+        "room_count": "1",
+        "square_meters": "40",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, פלורנטין, השוק 23"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "7900",
+        "room_count": "3",
+        "square_meters": "95",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה שאנן",
+            "street": "הקונגרס",
+            "number": "N/A"
+        },
+        "price": "4600",
+        "room_count": "3",
+        "square_meters": "64",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה שאנן, הקונגרס"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה שאנן",
+            "street": "הקונגרס",
+            "number": "N/A"
+        },
+        "price": "6200",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה שאנן, הקונגרס"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון החדש",
+            "street": "דפנה",
+            "number": "N/A"
+        },
+        "price": "9500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון החדש, דפנה"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "בבלי",
+            "street": "הכנסת הגדולה",
+            "number": "17"
+        },
+        "price": "6500",
+        "room_count": "2.5",
+        "square_meters": "61",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, בבלי, הכנסת הגדולה 17"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה אליעזר",
+            "street": "צלילי חנינא",
+            "number": "N/A"
+        },
+        "price": "5800",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה אליעזר, צלילי חנינא"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "בבלי",
+            "street": "הכנסת הגדולה",
+            "number": "17"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "61",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, בבלי, הכנסת הגדולה 17"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "שכונת התקווה",
+            "street": "דעואל",
+            "number": "N/A"
+        },
+        "price": "4200",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, שכונת התקווה, דעואל"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "בבלי",
+            "street": "הכנסת הגדולה",
+            "number": "11"
+        },
+        "price": "8000",
+        "room_count": "3.5",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, בבלי, הכנסת הגדולה 11"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "לב תל אביב",
+            "street": "לבונטין",
+            "number": "1"
+        },
+        "price": "3400",
+        "room_count": "1",
+        "square_meters": "35",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, לב תל אביב, לבונטין 1"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "פלורנטין",
+            "street": "הרב פרנקל",
+            "number": "55"
+        },
+        "price": "4200",
+        "room_count": "1",
+        "square_meters": "40",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, פלורנטין, הרב פרנקל 55"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יפו",
+            "street": "הדואר",
+            "number": "14"
+        },
+        "price": "8000",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יפו, הדואר 14"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "סמולנסקין",
+            "number": "7"
+        },
+        "price": "16000",
+        "room_count": "5",
+        "square_meters": "133",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, סמולנסקין 7"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה חן",
+            "street": "מעפילי אגוז",
+            "number": "89"
+        },
+        "price": "6500",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה חן, מעפילי אגוז 89"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה חן",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "6200",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה חן"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "דרך השלום 81",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "5000",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, דרך השלום 81"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה עופר",
+            "street": "קורקידי",
+            "number": "6"
+        },
+        "price": "5100",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה עופר, קורקידי 6"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "שטנד",
+            "number": "14"
+        },
+        "price": "4600",
+        "room_count": "1",
+        "square_meters": "22",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, שטנד 14"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "לב תל אביב",
+            "street": "ויצמן",
+            "number": "92"
+        },
+        "price": "6600",
+        "room_count": "2.5",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, לב תל אביב, ויצמן 92"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה כפיר",
+            "street": "הרב אלנקווה",
+            "number": "N/A"
+        },
+        "price": "5400",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה כפיר, הרב אלנקווה"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "מרכז העיר",
+            "street": "רנ\"ק",
+            "number": "1"
+        },
+        "price": "4000",
+        "room_count": "1",
+        "square_meters": "25",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, מרכז העיר, רנ\"ק 1"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "פלורנטין",
+            "street": "החלוצים",
+            "number": "50"
+        },
+        "price": "12000",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, פלורנטין, החלוצים 50"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נאות אפקה ב",
+            "street": "שלונסקי",
+            "number": "33"
+        },
+        "price": "7900",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נאות אפקה ב, שלונסקי 33"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "מרכז העיר",
+            "street": "שד דוד המלך",
+            "number": "N/A"
+        },
+        "price": "10000",
+        "room_count": "3",
+        "square_meters": "105",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, מרכז העיר, שד דוד המלך"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון החדש",
+            "street": "בארי",
+            "number": "33"
+        },
+        "price": "9300",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון החדש, בארי 33"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "שכונת התקווה",
+            "street": "תדהר דוד",
+            "number": "N/A"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, שכונת התקווה, תדהר דוד"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה שאנן",
+            "street": "הקונגרס",
+            "number": "20"
+        },
+        "price": "7900",
+        "room_count": "3",
+        "square_meters": "82",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה שאנן, הקונגרס 20"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "כרם התימנים",
+            "street": "יום טוב",
+            "number": "10"
+        },
+        "price": "2800",
+        "room_count": "1",
+        "square_meters": "16",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, כרם התימנים, יום טוב 10"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה חן",
+            "street": "מח\"ל",
+            "number": "75"
+        },
+        "price": "5600",
+        "room_count": "3",
+        "square_meters": "78",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה חן, מח\"ל 75"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה אביבים",
+            "street": "הופיין",
+            "number": "3"
+        },
+        "price": "8400",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה אביבים, הופיין 3"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "פלורנטין",
+            "street": "בנבנישתי",
+            "number": "4"
+        },
+        "price": "9500",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, פלורנטין, בנבנישתי 4"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה שאנן",
+            "street": "ראש פינה",
+            "number": "19"
+        },
+        "price": "5900",
+        "room_count": "2.5",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה שאנן, ראש פינה 19"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "שכונת התקווה",
+            "street": "קמואל",
+            "number": "22"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "85",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, שכונת התקווה, קמואל 22"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון החדש",
+            "street": "לואי מרשל",
+            "number": "11"
+        },
+        "price": "5500",
+        "room_count": "2.5",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון החדש, לואי מרשל 11"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה שאנן",
+            "street": "מסילת העולים",
+            "number": "5"
+        },
+        "price": "9000",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה שאנן, מסילת העולים 5"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "אלכסנדר ינאי",
+            "number": "13"
+        },
+        "price": "2200",
+        "room_count": "4",
+        "square_meters": "14",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, אלכסנדר ינאי 13"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "מונטיפיורי",
+            "street": "דרך בגין",
+            "number": "144"
+        },
+        "price": "7750",
+        "room_count": "2",
+        "square_meters": "81",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, מונטיפיורי, דרך בגין 144"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה שאנן",
+            "street": "מירון",
+            "number": "12"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה שאנן, מירון 12"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה בארבור",
+            "street": "מדמון מנחם",
+            "number": "22"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "120",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה בארבור, מדמון מנחם 22"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יד אליהו",
+            "street": "דרך ההגנה",
+            "number": "150"
+        },
+        "price": "6800",
+        "room_count": "3.5",
+        "square_meters": "95",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יד אליהו, דרך ההגנה 150"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה אליעזר",
+            "street": "שדרות ששת הימים",
+            "number": "2"
+        },
+        "price": "520",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה אליעזר, שדרות ששת הימים 2"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "המושבה האמריקאית-גרמנית",
+            "street": "מגן אברהם",
+            "number": "18"
+        },
+        "price": "7000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, המושבה האמריקאית-גרמנית, מגן אברהם 18"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "הקליר",
+            "number": "N/A"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, הקליר"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נחלת יצחק",
+            "street": "יגאל אלון",
+            "number": "164"
+        },
+        "price": "7200",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נחלת יצחק, יגאל אלון 164"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "לב תל אביב",
+            "street": "דיזנגוף",
+            "number": "68"
+        },
+        "price": "9500",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, לב תל אביב, דיזנגוף 68"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "קריית שלום",
+            "street": "אחרון יוסף",
+            "number": "N/A"
+        },
+        "price": "5500",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, קריית שלום, אחרון יוסף"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "פלורנטין",
+            "street": "מעון",
+            "number": "10"
+        },
+        "price": "3900",
+        "room_count": "1.5",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, פלורנטין, מעון 10"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "מרכז העיר",
+            "street": "יהודה הלוי",
+            "number": "N/A"
+        },
+        "price": "6500",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, מרכז העיר, יהודה הלוי"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "לב תל אביב",
+            "street": "אלנבי",
+            "number": "N/A"
+        },
+        "price": "3400",
+        "room_count": "1",
+        "square_meters": "25",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, לב תל אביב, אלנבי"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "רביבים",
+            "street": "זאב רכטר",
+            "number": "N/A"
+        },
+        "price": "9800",
+        "room_count": "5",
+        "square_meters": "135",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, רביבים, זאב רכטר"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יפו",
+            "street": "ויקטור הוגו",
+            "number": "18"
+        },
+        "price": "3500",
+        "room_count": "1.5",
+        "square_meters": "30",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יפו, ויקטור הוגו 18"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "N/A",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "2",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "לב תל אביב",
+            "street": "אלנבי",
+            "number": "70"
+        },
+        "price": "4800",
+        "room_count": "1",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, לב תל אביב, אלנבי 70"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "8000",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה גולן",
+            "street": "זלמן מייזל",
+            "number": "N/A"
+        },
+        "price": "5800",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה גולן, זלמן מייזל"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "פלורנטין",
+            "street": "צ’o;לנוב",
+            "number": "N/A"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, פלורנטין, צ’o;לנוב"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון החדש",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון החדש"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה אביבים",
+            "street": "רב אשי",
+            "number": "12"
+        },
+        "price": "13000",
+        "room_count": "5",
+        "square_meters": "160",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה אביבים, רב אשי 12"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "לב תל אביב",
+            "street": "שיינקין",
+            "number": "N/A"
+        },
+        "price": "5200",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, לב תל אביב, שיינקין"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "כיכר המדינה",
+            "street": "ליסין",
+            "number": "13"
+        },
+        "price": "4900",
+        "room_count": "1",
+        "square_meters": "20",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, כיכר המדינה, ליסין 13"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "כפר שלם",
+            "street": "הרב אלנקווה",
+            "number": "33"
+        },
+        "price": "4400",
+        "room_count": "3",
+        "square_meters": "120",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, כפר שלם, הרב אלנקווה 33"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון החדש",
+            "street": "שטרוק",
+            "number": "17"
+        },
+        "price": "6200",
+        "room_count": "2",
+        "square_meters": "54",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון החדש, שטרוק 17"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יפו",
+            "street": "מרזוק ועזר",
+            "number": "11"
+        },
+        "price": "12000",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יפו, מרזוק ועזר 11"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "גלילות",
+            "street": "רוזנבלום הרצל",
+            "number": "12"
+        },
+        "price": "14000",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, גלילות, רוזנבלום הרצל 12"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה שאנן",
+            "street": "נווה שאנן",
+            "number": "N/A"
+        },
+        "price": "",
+        "room_count": "N/A",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה שאנן, נווה שאנן"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יד אליהו",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "7250",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יד אליהו"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "אנטוקולסקי",
+            "number": "18"
+        },
+        "price": "9000",
+        "room_count": "3",
+        "square_meters": "96",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, אנטוקולסקי 18"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "אשכול לוי",
+            "number": "50"
+        },
+        "price": "9700",
+        "room_count": "4",
+        "square_meters": "114",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, אשכול לוי 50"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "כיכר המדינה",
+            "street": "ליפסקי לואי",
+            "number": "8"
+        },
+        "price": "9000",
+        "room_count": "2.5",
+        "square_meters": "82",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, כיכר המדינה, ליפסקי לואי 8"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "כיכר המדינה",
+            "street": "חדרה",
+            "number": "1"
+        },
+        "price": "6100",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, כיכר המדינה, חדרה 1"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "תל חיים",
+            "street": "דרך השלום",
+            "number": "90"
+        },
+        "price": "1950",
+        "room_count": "4",
+        "square_meters": "96",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, תל חיים, דרך השלום 90"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "המשתלה",
+            "street": "סשא ארגוב",
+            "number": "64"
+        },
+        "price": "11000",
+        "room_count": "4",
+        "square_meters": "109",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, המשתלה, סשא ארגוב 64"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה שאנן",
+            "street": "עין הקורא",
+            "number": "16"
+        },
+        "price": "4600",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה שאנן, עין הקורא 16"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "ביצרון",
+            "street": "ביצרון",
+            "number": "47"
+        },
+        "price": "5300",
+        "room_count": "2",
+        "square_meters": "63",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, ביצרון, ביצרון 47"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון החדש",
+            "street": "דרך נמיר מרדכי",
+            "number": "123"
+        },
+        "price": "6200",
+        "room_count": "2",
+        "square_meters": "71",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון החדש, דרך נמיר מרדכי 123"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יפו ד’o;",
+            "street": "קהילת קנדה",
+            "number": "20"
+        },
+        "price": "4000",
+        "room_count": "2.5",
+        "square_meters": "59",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יפו ד’o;, קהילת קנדה 20"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "רמת אביב ג",
+            "street": "בן יוסף שלמה",
+            "number": "12"
+        },
+        "price": "2950",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, רמת אביב ג, בן יוסף שלמה 12"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "לב תל אביב",
+            "street": "לבונטין",
+            "number": "30"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, לב תל אביב, לבונטין 30"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "לב תל אביב",
+            "street": "אלנבי",
+            "number": "85"
+        },
+        "price": "4600",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, לב תל אביב, אלנבי 85"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה צדק",
+            "street": "יעב\"ץ",
+            "number": "14"
+        },
+        "price": "6200",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה צדק, יעב\"ץ 14"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נחל עוז 4",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נחל עוז 4"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "ליברמן",
+            "number": "7"
+        },
+        "price": "7400",
+        "room_count": "2",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, ליברמן 7"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה עופר",
+            "street": "צונץ",
+            "number": "22"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה עופר, צונץ 22"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "שד מסריק",
+            "number": "14"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "64",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, שד מסריק 14"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "גבעת הרצל",
+            "street": "דרך שלמה",
+            "number": "92"
+        },
+        "price": "7000",
+        "room_count": "3",
+        "square_meters": "62",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, גבעת הרצל, דרך שלמה 92"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון החדש",
+            "street": "אבן גבירול",
+            "number": "192"
+        },
+        "price": "7500",
+        "room_count": "2.5",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון החדש, אבן גבירול 192"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "לב תל אביב",
+            "street": "כרמיה",
+            "number": "2"
+        },
+        "price": "5270",
+        "room_count": "1",
+        "square_meters": "40",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, לב תל אביב, כרמיה 2"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "עגמי",
+            "street": "נמל יפו",
+            "number": "3"
+        },
+        "price": "3500",
+        "room_count": "2.5",
+        "square_meters": "35",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, עגמי, נמל יפו 3"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "דיזנגוף",
+            "number": "251"
+        },
+        "price": "7500",
+        "room_count": "2.5",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, דיזנגוף 251"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "אלכסנדר ינאי",
+            "number": "13"
+        },
+        "price": "1920",
+        "room_count": "4",
+        "square_meters": "12",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, אלכסנדר ינאי 13"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה אליעזר",
+            "street": "שד ששת הימים",
+            "number": "11"
+        },
+        "price": "5400",
+        "room_count": "2.5",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה אליעזר, שד ששת הימים 11"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יד אליהו",
+            "street": "לה גארדיה",
+            "number": "58"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יד אליהו, לה גארדיה 58"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "לב תל אביב",
+            "street": "בן יהודה",
+            "number": "20"
+        },
+        "price": "10000",
+        "room_count": "4",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, לב תל אביב, בן יהודה 20"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה שאנן",
+            "street": "מסילת העולים",
+            "number": "5"
+        },
+        "price": "8000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה שאנן, מסילת העולים 5"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה שאנן",
+            "street": "דרך שלמה",
+            "number": "115"
+        },
+        "price": "6600",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה שאנן, דרך שלמה 115"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "שכונת התקווה",
+            "street": "יקותיאל",
+            "number": "49"
+        },
+        "price": "3900",
+        "room_count": "2",
+        "square_meters": "42",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, שכונת התקווה, יקותיאל 49"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "זכריה",
+            "number": "32"
+        },
+        "price": "8300",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, זכריה 32"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה אביבים",
+            "street": "הופיין",
+            "number": "19"
+        },
+        "price": "9800",
+        "room_count": "4",
+        "square_meters": "95",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה אביבים, הופיין 19"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה כפיר",
+            "street": "הרב אלנקווה",
+            "number": "11"
+        },
+        "price": "5200",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה כפיר, הרב אלנקווה 11"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "שלמה המלך",
+            "number": "42"
+        },
+        "price": "10500",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, שלמה המלך 42"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "גני שרונה",
+            "street": "בן אב\"י איתמר",
+            "number": "5"
+        },
+        "price": "3210",
+        "room_count": "4",
+        "square_meters": "150",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, גני שרונה, בן אב\"י איתמר 5"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה שאנן",
+            "street": "פין",
+            "number": "1"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה שאנן, פין 1"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יפו",
+            "street": "בן שטח שמעון",
+            "number": "11"
+        },
+        "price": "12000",
+        "room_count": "3.5",
+        "square_meters": "126",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יפו, בן שטח שמעון 11"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "כרם התימנים",
+            "street": "גאולה",
+            "number": "39"
+        },
+        "price": "3670",
+        "room_count": "1",
+        "square_meters": "18",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, כרם התימנים, גאולה 39"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה שאנן",
+            "street": "מירון",
+            "number": "12"
+        },
+        "price": "5800",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה שאנן, מירון 12"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "בן יהודה",
+            "number": "45"
+        },
+        "price": "6800",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, בן יהודה 45"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "רמת אביב",
+            "street": "ברש אשר",
+            "number": "7"
+        },
+        "price": "7200",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, רמת אביב, ברש אשר 7"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה שאנן",
+            "street": "יסוד המעלה",
+            "number": "49"
+        },
+        "price": "5300",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה שאנן, יסוד המעלה 49"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "שכונת התקווה",
+            "street": "תדהר דוד",
+            "number": "12"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, שכונת התקווה, תדהר דוד 12"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "מוצקין",
+            "number": "22"
+        },
+        "price": "6800",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, מוצקין 22"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "גני שרונה",
+            "street": "בן אב\"י איתמר",
+            "number": "5"
+        },
+        "price": "3210",
+        "room_count": "4",
+        "square_meters": "150",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, גני שרונה, בן אב\"י איתמר 5"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה אביבים",
+            "street": "אינשטיין",
+            "number": "55"
+        },
+        "price": "2900",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה אביבים, אינשטיין 55"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "קריית שלום",
+            "street": "דיק",
+            "number": "11"
+        },
+        "price": "5100",
+        "room_count": "2.5",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, קריית שלום, דיק 11"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "גני שרונה",
+            "street": "בן אב\"י איתמר",
+            "number": "5"
+        },
+        "price": "3210",
+        "room_count": "4",
+        "square_meters": "150",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, גני שרונה, בן אב\"י איתמר 5"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון החדש",
+            "street": "הרב עמיאל",
+            "number": "31"
+        },
+        "price": "17500",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון החדש, הרב עמיאל 31"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "בורלא יהודה 37",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "11800",
+        "room_count": "5",
+        "square_meters": "130",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, בורלא יהודה 37"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "שד בן גוריון",
+            "number": "92"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "78",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, שד בן גוריון 92"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יפו",
+            "street": "מרזוק ועזר",
+            "number": "11"
+        },
+        "price": "7900",
+        "room_count": "2",
+        "square_meters": "66",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יפו, מרזוק ועזר 11"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "פלורנטין",
+            "street": "העליה",
+            "number": "66"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, פלורנטין, העליה 66"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "כיכר המדינה",
+            "street": "שד הציונות",
+            "number": "7"
+        },
+        "price": "12800",
+        "room_count": "4",
+        "square_meters": "125",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, כיכר המדינה, שד הציונות 7"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יפו ד’o;",
+            "street": "קהילת קנדה",
+            "number": "36"
+        },
+        "price": "3250",
+        "room_count": "2.5",
+        "square_meters": "35",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יפו ד’o;, קהילת קנדה 36"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון החדש",
+            "street": "דפנה",
+            "number": "16"
+        },
+        "price": "6000",
+        "room_count": "2.5",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון החדש, דפנה 16"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "פלורנטין",
+            "street": "הרצל",
+            "number": "83"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "30",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, פלורנטין, הרצל 83"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון החדש",
+            "street": "אבן גבירול",
+            "number": "98"
+        },
+        "price": "8500",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון החדש, אבן גבירול 98"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "רמת אביב",
+            "street": "בלום ליאון",
+            "number": "25"
+        },
+        "price": "8500",
+        "room_count": "4",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, רמת אביב, בלום ליאון 25"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יד אליהו",
+            "street": "פרזון",
+            "number": "21"
+        },
+        "price": "9300",
+        "room_count": "4",
+        "square_meters": "119",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יד אליהו, פרזון 21"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "נצח ישראל",
+            "number": "28"
+        },
+        "price": "10000",
+        "room_count": "3.5",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, נצח ישראל 28"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "שד בן גוריון",
+            "number": "52"
+        },
+        "price": "3650",
+        "room_count": "2",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, שד בן גוריון 52"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "שטרן 15",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "11500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, שטרן 15"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "הדסה",
+            "number": "9"
+        },
+        "price": "8900",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, הדסה 9"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יד אליהו",
+            "street": "הפלמ\"ח",
+            "number": "15"
+        },
+        "price": "6900",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יד אליהו, הפלמ\"ח 15"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון החדש",
+            "street": "צייטלין",
+            "number": "8"
+        },
+        "price": "8700",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון החדש, צייטלין 8"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "לב תל אביב",
+            "street": "טשרניחובסקי",
+            "number": "31"
+        },
+        "price": "5970",
+        "room_count": "1.5",
+        "square_meters": "33",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, לב תל אביב, טשרניחובסקי 31"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "ניר אביב",
+            "street": "ליבנה אליעזר",
+            "number": "6"
+        },
+        "price": "5800",
+        "room_count": "3.5",
+        "square_meters": "84",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, ניר אביב, ליבנה אליעזר 6"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "גני שרונה",
+            "street": "בן אב\"י איתמר",
+            "number": "5"
+        },
+        "price": "3210",
+        "room_count": "4",
+        "square_meters": "150",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, גני שרונה, בן אב\"י איתמר 5"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה אביבים",
+            "street": "פסטרנק אריה",
+            "number": "1"
+        },
+        "price": "7300",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה אביבים, פסטרנק אריה 1"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נאות אפקה",
+            "street": "קהילת פוזנא",
+            "number": "4"
+        },
+        "price": "1800",
+        "room_count": "5",
+        "square_meters": "9",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נאות אפקה, קהילת פוזנא 4"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "עמוס",
+            "number": "8"
+        },
+        "price": "12000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, עמוס 8"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "ניר אביב",
+            "street": "הרצפלד אברהם",
+            "number": "24"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, ניר אביב, הרצפלד אברהם 24"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "מונטיפיורי",
+            "street": "בית עובד",
+            "number": "9"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, מונטיפיורי, בית עובד 9"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יפו ד’o;",
+            "street": "גלעינית",
+            "number": "3"
+        },
+        "price": "4200",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יפו ד’o;, גלעינית 3"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "ז’o;בוטינסק",
+            "number": "56"
+        },
+        "price": "3250",
+        "room_count": "2",
+        "square_meters": "57",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, ז’o;בוטינסק 56"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה אביבים",
+            "street": "בארט",
+            "number": "9"
+        },
+        "price": "12500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה אביבים, בארט 9"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "שד בן גוריון",
+            "number": "27"
+        },
+        "price": "9000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, שד בן גוריון 27"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "כיכר המדינה",
+            "street": "ז’o;בוטינסק",
+            "number": "138"
+        },
+        "price": "6000",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, כיכר המדינה, ז’o;בוטינסק 138"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "רמת אביב",
+            "street": "ברזיל",
+            "number": "2"
+        },
+        "price": "8250",
+        "room_count": "3.5",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, רמת אביב, ברזיל 2"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "כיכר המדינה",
+            "street": "שור",
+            "number": "16"
+        },
+        "price": "12000",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, כיכר המדינה, שור 16"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "יד אליהו",
+            "street": "דרך דיין משה",
+            "number": "51"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "96",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, יד אליהו, דרך דיין משה 51"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "כהן הרמן",
+            "number": "8"
+        },
+        "price": "8900",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, כהן הרמן 8"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הדר יוסף",
+            "street": "קהילת ורשה",
+            "number": "33"
+        },
+        "price": "3800",
+        "room_count": "1.5",
+        "square_meters": "30",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הדר יוסף, קהילת ורשה 33"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "תל ברוך",
+            "street": "בני אפרים",
+            "number": "280"
+        },
+        "price": "7500",
+        "room_count": "2",
+        "square_meters": "89",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, תל ברוך, בני אפרים 280"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה שרת",
+            "street": "כורזים",
+            "number": "5"
+        },
+        "price": "4500",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה שרת, כורזים 5"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "קריית שלום",
+            "street": "גיתית",
+            "number": "8"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, קריית שלום, גיתית 8"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון הישן",
+            "street": "שלום עליכם",
+            "number": "55"
+        },
+        "price": "4700",
+        "room_count": "1.5",
+        "square_meters": "35",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון הישן, שלום עליכם 55"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "גני שרונה",
+            "street": "לסקוב חיים",
+            "number": "14"
+        },
+        "price": "8600",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, גני שרונה, לסקוב חיים 14"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הצפון החדש",
+            "street": "אבן גבירול",
+            "number": "48"
+        },
+        "price": "7500",
+        "room_count": "2.5",
+        "square_meters": "N/A",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הצפון החדש, אבן גבירול 48"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "נווה עופר",
+            "street": "דקל",
+            "number": "3"
+        },
+        "price": "7000",
+        "room_count": "4",
+        "square_meters": "N/A",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, נווה עופר, דקל 3"
+    },
+    {
+        "location": {
+            "city": "תל אביב - יפו",
+            "area": "הדר יוסף",
+            "street": "קהילת לודג’",
+            "number": "46"
+        },
+        "price": "4600",
+        "room_count": "1.5",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "תל אביב - יפו, הדר יוסף, קהילת לודג’ 46"
+    }
+]

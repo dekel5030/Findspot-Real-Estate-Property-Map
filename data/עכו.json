@@ -1,0 +1,520 @@
+[
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "סר אייזיק",
+            "number": "3"
+        },
+        "price": "2100",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, סר אייזיק 3"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "הרצוג",
+            "number": "18"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, הרצוג 18"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "הכרם ב",
+            "street": "עוזי חיטמן",
+            "number": "3"
+        },
+        "price": "2100",
+        "room_count": "1",
+        "square_meters": "20",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, הכרם ב, עוזי חיטמן 3"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "מנחם בגין",
+            "street": "האורן",
+            "number": "44"
+        },
+        "price": "2600",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, מנחם בגין, האורן 44"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "גבורי סיני",
+            "number": "30"
+        },
+        "price": "2000",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, גבורי סיני 30"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "נווה אלון",
+            "street": "אלקלעי",
+            "number": "14"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "74",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, נווה אלון, אלקלעי 14"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "מנחם בגין",
+            "street": "חטיבת גולני",
+            "number": "23"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, מנחם בגין, חטיבת גולני 23"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "מפרץ שלמה",
+            "number": "7"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, מפרץ שלמה 7"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "מנחם בגין",
+            "street": "חטיבת גולני",
+            "number": "15"
+        },
+        "price": "3150",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, מנחם בגין, חטיבת גולני 15"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "מרכז העיר",
+            "street": "ז’o;בוטינסקי",
+            "number": "38"
+        },
+        "price": "2300",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, מרכז העיר, ז’o;בוטינסקי 38"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "גבורי סיני",
+            "number": "23"
+        },
+        "price": "3200",
+        "room_count": "3",
+        "square_meters": "95",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, גבורי סיני 23"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "מנחם בגין",
+            "street": "הדקל",
+            "number": "18"
+        },
+        "price": "4000",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, מנחם בגין, הדקל 18"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "סר אייזיק",
+            "number": "8"
+        },
+        "price": "2400",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, סר אייזיק 8"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "מרכז העיר",
+            "street": "לוחמי הגטאות",
+            "number": "N/A"
+        },
+        "price": "2700",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, מרכז העיר, לוחמי הגטאות"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "סר אייזיק",
+            "number": "3"
+        },
+        "price": "1350",
+        "room_count": "2",
+        "square_meters": "52",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, סר אייזיק 3"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "הרצל",
+            "number": "21"
+        },
+        "price": "3200",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, הרצל 21"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "שרת משה",
+            "number": "12"
+        },
+        "price": "2400",
+        "room_count": "2.5",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, שרת משה 12"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "מרכז העיר",
+            "street": "צורי משה",
+            "number": "19"
+        },
+        "price": "3500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, מרכז העיר, צורי משה 19"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "מנחם בגין",
+            "street": "הכרם",
+            "number": "18"
+        },
+        "price": "3900",
+        "room_count": "4",
+        "square_meters": "92",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, מנחם בגין, הכרם 18"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "אברהם דנינו",
+            "street": "הס",
+            "number": "5"
+        },
+        "price": "4500",
+        "room_count": "4.5",
+        "square_meters": "95",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, אברהם דנינו, הס 5"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "אברהם דנינו",
+            "street": "הס",
+            "number": "5"
+        },
+        "price": "4500",
+        "room_count": "4.5",
+        "square_meters": "95",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, אברהם דנינו, הס 5"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "מנחם בגין",
+            "street": "האשל",
+            "number": "4"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "74",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, מנחם בגין, האשל 4"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "מרכז העיר",
+            "street": "צורי משה",
+            "number": "19"
+        },
+        "price": "3500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, מרכז העיר, צורי משה 19"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "אברהם דנינו",
+            "street": "בן שושן אברהם",
+            "number": "10"
+        },
+        "price": "2700",
+        "room_count": "1.5",
+        "square_meters": "34",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, אברהם דנינו, בן שושן אברהם 10"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "דרך הארבעה",
+            "number": "49"
+        },
+        "price": "2400",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, דרך הארבעה 49"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "ז’o;בוטינסק",
+            "number": "36"
+        },
+        "price": "2200",
+        "room_count": "2.5",
+        "square_meters": "40",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, ז’o;בוטינסק 36"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "הכרם ג’o;",
+            "street": "עוזי חיטמן",
+            "number": "4"
+        },
+        "price": "6700",
+        "room_count": "3.5",
+        "square_meters": "117",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, הכרם ג’o;, עוזי חיטמן 4"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "דרך הארבעה",
+            "number": "47"
+        },
+        "price": "2800",
+        "room_count": "2",
+        "square_meters": "54",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, דרך הארבעה 47"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "מנחם בגין",
+            "street": "האשל",
+            "number": "11"
+        },
+        "price": "2600",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, מנחם בגין, האשל 11"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "מנחם בגין",
+            "street": "האשל",
+            "number": "11"
+        },
+        "price": "2600",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, מנחם בגין, האשל 11"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "מנחם בגין",
+            "street": "הזית",
+            "number": "16"
+        },
+        "price": "2600",
+        "room_count": "3",
+        "square_meters": "86",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, מנחם בגין, הזית 16"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "מנחם בגין",
+            "street": "האשל",
+            "number": "11"
+        },
+        "price": "2600",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, מנחם בגין, האשל 11"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "סר אייזיק",
+            "number": "3"
+        },
+        "price": "2000",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, סר אייזיק 3"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "סר אייזיק",
+            "number": "3"
+        },
+        "price": "2000",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, סר אייזיק 3"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "סר אייזיק",
+            "number": "3"
+        },
+        "price": "2000",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, סר אייזיק 3"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "חטיבת גולני",
+            "number": "8"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, חטיבת גולני 8"
+    },
+    {
+        "location": {
+            "city": "עכו",
+            "area": "קריית וולפסון",
+            "street": "גרונר דב",
+            "number": "6"
+        },
+        "price": "2700",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "עכו, קריית וולפסון, גרונר דב 6"
+    }
+]

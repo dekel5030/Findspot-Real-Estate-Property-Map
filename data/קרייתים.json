@@ -1,0 +1,828 @@
+[
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים א",
+            "street": "שד ירושלים",
+            "number": "33"
+        },
+        "price": "3100",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים א, שד ירושלים 33"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים א",
+            "street": "ז’o;בוטינסק",
+            "number": "38"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים א, ז’o;בוטינסק 38"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "אלי כהן",
+            "number": "9"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, אלי כהן 9"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "אלי כהן",
+            "number": "39"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, אלי כהן 39"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים א",
+            "street": "שד בן צבי",
+            "number": "26"
+        },
+        "price": "1800",
+        "room_count": "3.5",
+        "square_meters": "N/A",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים א, שד בן צבי 26"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "שרת משה",
+            "number": "63"
+        },
+        "price": "2300",
+        "room_count": "2",
+        "square_meters": "140",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, שרת משה 63"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ג",
+            "street": "שד ירושלים",
+            "number": "78"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ג, שד ירושלים 78"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ג",
+            "street": "ספיר פנחס",
+            "number": "9"
+        },
+        "price": "1900",
+        "room_count": "1",
+        "square_meters": "40",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ג, ספיר פנחס 9"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים א",
+            "street": "נמיר מרדכי",
+            "number": "5"
+        },
+        "price": "4700",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים א, נמיר מרדכי 5"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "גלי ים",
+            "street": "נעמי שמר",
+            "number": "10"
+        },
+        "price": "5700",
+        "room_count": "4",
+        "square_meters": "112",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, גלי ים, נעמי שמר 10"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "נמיר מרדכי",
+            "number": "N/A"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, נמיר מרדכי"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "שפירא משה",
+            "number": "N/A"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, שפירא משה"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ד",
+            "street": "תבור",
+            "number": "10"
+        },
+        "price": "2600",
+        "room_count": "2",
+        "square_meters": "56",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ד, תבור 10"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "גלי ים",
+            "street": "גאולה כהן",
+            "number": "8"
+        },
+        "price": "6500",
+        "room_count": "5",
+        "square_meters": "135",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, גלי ים, גאולה כהן 8"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ג",
+            "street": "מוהליבר",
+            "number": "14"
+        },
+        "price": "1600",
+        "room_count": "1.5",
+        "square_meters": "25",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ג, מוהליבר 14"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ד",
+            "street": "לכיש",
+            "number": "2"
+        },
+        "price": "3000",
+        "room_count": "3.5",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ד, לכיש 2"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ד",
+            "street": "שד ירושלים",
+            "number": "91"
+        },
+        "price": "2500",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ד, שד ירושלים 91"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ג",
+            "street": "החשמונאים",
+            "number": "15"
+        },
+        "price": "1800",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ג, החשמונאים 15"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ד",
+            "street": "גלעד",
+            "number": "2"
+        },
+        "price": "2600",
+        "room_count": "2",
+        "square_meters": "48",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ד, גלעד 2"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "שד בן צבי",
+            "number": "27"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "68",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, שד בן צבי 27"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ד",
+            "street": "שד ירושלים",
+            "number": "91"
+        },
+        "price": "2500",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ד, שד ירושלים 91"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ד",
+            "street": "תבור",
+            "number": "10"
+        },
+        "price": "2600",
+        "room_count": "2",
+        "square_meters": "56",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ד, תבור 10"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ג",
+            "street": "מוהליבר",
+            "number": "14"
+        },
+        "price": "1600",
+        "room_count": "1.5",
+        "square_meters": "25",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ג, מוהליבר 14"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ד",
+            "street": "הרב משאש יוסף",
+            "number": "2"
+        },
+        "price": "2700",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ד, הרב משאש יוסף 2"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ג",
+            "street": "יוספטל",
+            "number": "19"
+        },
+        "price": "3600",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ג, יוספטל 19"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ג",
+            "street": "יוספטל",
+            "number": "40"
+        },
+        "price": "2700",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ג, יוספטל 40"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "שד ירושלים",
+            "number": "39"
+        },
+        "price": "3300",
+        "room_count": "4",
+        "square_meters": "95",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, שד ירושלים 39"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ג",
+            "street": "שבטי ישראל",
+            "number": "11"
+        },
+        "price": "3900",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ג, שבטי ישראל 11"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים א",
+            "street": "ז’o;בוטינסק",
+            "number": "24"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים א, ז’o;בוטינסק 24"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "גלי ים",
+            "street": "גאולה כהן",
+            "number": "8"
+        },
+        "price": "6500",
+        "room_count": "5",
+        "square_meters": "130",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, גלי ים, גאולה כהן 8"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "סולד הנריאטה",
+            "number": "1"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, סולד הנריאטה 1"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ד",
+            "street": "לבון פנחס",
+            "number": "11"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "73",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ד, לבון פנחס 11"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ג",
+            "street": "הקוממיות",
+            "number": "3"
+        },
+        "price": "3100",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ג, הקוממיות 3"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ג",
+            "street": "שד ירושלים",
+            "number": "62"
+        },
+        "price": "3800",
+        "room_count": "4",
+        "square_meters": "84",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ג, שד ירושלים 62"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "שד בן צבי",
+            "number": "31"
+        },
+        "price": "3200",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, שד בן צבי 31"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "שיכון צבא קבע",
+            "street": "שיכון צבא קבע",
+            "number": "4"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, שיכון צבא קבע, שיכון צבא קבע 4"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "סביוני ים",
+            "street": "אילנות",
+            "number": "2"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "190",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, סביוני ים, אילנות 2"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים א",
+            "street": "ים התיכון",
+            "number": "1"
+        },
+        "price": "2900",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים א, ים התיכון 1"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ג",
+            "street": "יהודה הלוי",
+            "number": "13"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ג, יהודה הלוי 13"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "שד בן צבי",
+            "number": "20"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, שד בן צבי 20"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "פסגות ים",
+            "street": "לילך",
+            "number": "3"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "89",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, פסגות ים, לילך 3"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "יוספטל",
+            "number": "16"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, יוספטל 16"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "שפירא משה",
+            "number": "10"
+        },
+        "price": "2600",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, שפירא משה 10"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים א",
+            "street": "ז’o;בוטינסקי",
+            "number": "22"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "73",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים א, ז’o;בוטינסקי 22"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "יוספטל",
+            "number": "16"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, יוספטל 16"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ד",
+            "street": "שד ירושלים",
+            "number": "92"
+        },
+        "price": "3900",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ד, שד ירושלים 92"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "שפירא משה",
+            "number": "10"
+        },
+        "price": "2600",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, שפירא משה 10"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים א",
+            "street": "ז’o;בוטינסק",
+            "number": "24"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים א, ז’o;בוטינסק 24"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "שרת משה",
+            "number": "49"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, שרת משה 49"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ד",
+            "street": "תבור",
+            "number": "20"
+        },
+        "price": "2600",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ד, תבור 20"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ד",
+            "street": "גלעד",
+            "number": "8"
+        },
+        "price": "1900",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ד, גלעד 8"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "פסגות ים",
+            "street": "לילך",
+            "number": "7"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, פסגות ים, לילך 7"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ד",
+            "street": "לבון פנחס",
+            "number": "11"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "73",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ד, לבון פנחס 11"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ג",
+            "street": "שד ההסתדרות",
+            "number": "3"
+        },
+        "price": "3190",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ג, שד ההסתדרות 3"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "נמיר מרדכי",
+            "number": "5"
+        },
+        "price": "4700",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, נמיר מרדכי 5"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "שד ירושלים",
+            "number": "39"
+        },
+        "price": "3300",
+        "room_count": "4",
+        "square_meters": "95",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, שד ירושלים 39"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "יוספטל",
+            "number": "16"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, יוספטל 16"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "שרת משה",
+            "number": "49"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, שרת משה 49"
+    },
+    {
+        "location": {
+            "city": "קריית ים",
+            "area": "קריית ים ב",
+            "street": "שפירא משה",
+            "number": "10"
+        },
+        "price": "2600",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ים, קריית ים ב, שפירא משה 10"
+    }
+]

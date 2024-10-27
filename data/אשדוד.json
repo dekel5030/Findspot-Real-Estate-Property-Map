@@ -1,0 +1,2158 @@
+[
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "מרטין בובר",
+            "number": "1"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "62",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, מרטין בובר 1"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "רמב\"ם",
+            "number": "9"
+        },
+        "price": "2750",
+        "room_count": "2.5",
+        "square_meters": "48",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, רמב\"ם 9"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ה",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "3750",
+        "room_count": "3",
+        "square_meters": "74",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ה"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע הקריה",
+            "street": "ה’o; באייר",
+            "number": "11"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "127",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע הקריה, ה’o; באייר 11"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "הטיילת",
+            "number": "7"
+        },
+        "price": "2600",
+        "room_count": "1",
+        "square_meters": "35",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, הטיילת 7"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "אח\"י אילת",
+            "number": "9"
+        },
+        "price": "2700",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, אח\"י אילת 9"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "סיני",
+            "number": "24"
+        },
+        "price": "3300",
+        "room_count": "2",
+        "square_meters": "48",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, סיני 24"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "רמב\"ם",
+            "number": "10"
+        },
+        "price": "3500",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, רמב\"ם 10"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ו",
+            "street": "נתן אלבז",
+            "number": "14"
+        },
+        "price": "2750",
+        "room_count": "2.5",
+        "square_meters": "51",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ו, נתן אלבז 14"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ט",
+            "street": "שדרות רחובות",
+            "number": "2"
+        },
+        "price": "3800",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ט, שדרות רחובות 2"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "3200",
+        "room_count": "2.5",
+        "square_meters": "48",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "רמב\"ם",
+            "number": "N/A"
+        },
+        "price": "3100",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, רמב\"ם"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "רוגוזין",
+            "number": "4"
+        },
+        "price": "5399",
+        "room_count": "4",
+        "square_meters": "105",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, רוגוזין 4"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "יצחק שדה",
+            "number": "21"
+        },
+        "price": "5200",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, יצחק שדה 21"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "השייטים",
+            "number": "4"
+        },
+        "price": "5700",
+        "room_count": "4",
+        "square_meters": "105",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, השייטים 4"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "מקלנבורג",
+            "number": "6"
+        },
+        "price": "4300",
+        "room_count": "2.5",
+        "square_meters": "72",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, מקלנבורג 6"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ו",
+            "street": "מיכשוילי",
+            "number": "14"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ו, מיכשוילי 14"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ג",
+            "street": "הרב אבן דנן",
+            "number": "7"
+        },
+        "price": "3400",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ג, הרב אבן דנן 7"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "3800",
+        "room_count": "3.5",
+        "square_meters": "68",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "בית רוגוזין",
+            "number": "27"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "144",
+        "floor": "19",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, בית רוגוזין 27"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע הקריה",
+            "street": "העצמאות",
+            "number": "101"
+        },
+        "price": "5900",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע הקריה, העצמאות 101"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "מקלנבורג",
+            "number": "6"
+        },
+        "price": "4300",
+        "room_count": "2.5",
+        "square_meters": "72",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, מקלנבורג 6"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "בית רוגוזין",
+            "number": "27"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "144",
+        "floor": "19",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, בית רוגוזין 27"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "בית רוגוזין",
+            "number": "48"
+        },
+        "price": "5000",
+        "room_count": "4.5",
+        "square_meters": "137",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, בית רוגוזין 48"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "אח\"י אילת",
+            "number": "7"
+        },
+        "price": "3600",
+        "room_count": "3",
+        "square_meters": "78",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, אח\"י אילת 7"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "קרן היסוד",
+            "number": "24"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, קרן היסוד 24"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ו",
+            "street": "יהודה המכבי",
+            "number": "35"
+        },
+        "price": "3000",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ו, יהודה המכבי 35"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "הראשונים",
+            "number": "26"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, הראשונים 26"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "הרב הרצוג",
+            "number": "19"
+        },
+        "price": "3200",
+        "room_count": "2",
+        "square_meters": "54",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, הרב הרצוג 19"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "הרב קוק",
+            "number": "14"
+        },
+        "price": "3200",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, הרב קוק 14"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "אח\"י אילת",
+            "number": "7"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, אח\"י אילת 7"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ו",
+            "street": "מיכשוילי",
+            "number": "2"
+        },
+        "price": "3500",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ו, מיכשוילי 2"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ה",
+            "street": "אחד העם",
+            "number": "2"
+        },
+        "price": "3650",
+        "room_count": "3.5",
+        "square_meters": "72",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ה, אחד העם 2"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "בן אליעזר אריה",
+            "number": "15"
+        },
+        "price": "4400",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, בן אליעזר אריה 15"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "המעפילים",
+            "number": "30"
+        },
+        "price": "3000",
+        "room_count": "2.5",
+        "square_meters": "48",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, המעפילים 30"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "עופר אברהם",
+            "number": "13"
+        },
+        "price": "7000",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, עופר אברהם 13"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "בן אליעזר אריה",
+            "number": "13"
+        },
+        "price": "5600",
+        "room_count": "4",
+        "square_meters": "127",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, בן אליעזר אריה 13"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "ז’o;בוטינסק",
+            "number": "24"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, ז’o;בוטינסק 24"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "אח\"י אילת",
+            "number": "5"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, אח\"י אילת 5"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ו",
+            "street": "שלמה בן יוסף",
+            "number": "21"
+        },
+        "price": "4250",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ו, שלמה בן יוסף 21"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ט\"ז",
+            "street": "מנגו",
+            "number": "5"
+        },
+        "price": "7000",
+        "room_count": "4.5",
+        "square_meters": "111",
+        "floor": "17",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ט\"ז, מנגו 5"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ח",
+            "street": "הצבעוני",
+            "number": "21"
+        },
+        "price": "3800",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ח, הצבעוני 21"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ה",
+            "street": "אחד העם",
+            "number": "2"
+        },
+        "price": "3650",
+        "room_count": "3.5",
+        "square_meters": "72",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ה, אחד העם 2"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ו",
+            "street": "אלבז נתן",
+            "number": "28"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ו, אלבז נתן 28"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "יורדי הסירה",
+            "number": "12"
+        },
+        "price": "4800",
+        "room_count": "4",
+        "square_meters": "104",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, יורדי הסירה 12"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע יא",
+            "street": "כנרת",
+            "number": "60"
+        },
+        "price": "4700",
+        "room_count": "3.5",
+        "square_meters": "87",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע יא, כנרת 60"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ח",
+            "street": "הצבעוני",
+            "number": "23"
+        },
+        "price": "4600",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ח, הצבעוני 23"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "עופר אברהם",
+            "number": "13"
+        },
+        "price": "7000",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, עופר אברהם 13"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "המעפילים",
+            "number": "60"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, המעפילים 60"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ג",
+            "street": "הפלמ\"ח",
+            "number": "8"
+        },
+        "price": "4000",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ג, הפלמ\"ח 8"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ו",
+            "street": "שלמה בן יוסף",
+            "number": "11"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "N/A",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ו, שלמה בן יוסף 11"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "המעפילים",
+            "number": "32"
+        },
+        "price": "3000",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, המעפילים 32"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "הטיילת",
+            "number": "5"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, הטיילת 5"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "סיני",
+            "number": "10"
+        },
+        "price": "2700",
+        "room_count": "2",
+        "square_meters": "46",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, סיני 10"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע יא",
+            "street": "ירמוך",
+            "number": "10"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "150",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע יא, ירמוך 10"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "מקלנבורג",
+            "number": "1"
+        },
+        "price": "2500",
+        "room_count": "2",
+        "square_meters": "44",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, מקלנבורג 1"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע יב",
+            "street": "שבט שמעון",
+            "number": "9"
+        },
+        "price": "5000",
+        "room_count": "2",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע יב, שבט שמעון 9"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע הקריה",
+            "street": "הציונות",
+            "number": "45"
+        },
+        "price": "4600",
+        "room_count": "3",
+        "square_meters": "78",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע הקריה, הציונות 45"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע הקריה",
+            "street": "העצמאות",
+            "number": "61"
+        },
+        "price": "7000",
+        "room_count": "4",
+        "square_meters": "141",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע הקריה, העצמאות 61"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ו",
+            "street": "חסן בן גרא",
+            "number": "6"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ו, חסן בן גרא 6"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע יא",
+            "street": "הר אביטל",
+            "number": "N/A"
+        },
+        "price": "2550",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע יא, הר אביטל"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע יא",
+            "street": "הר מצדה",
+            "number": "N/A"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע יא, הר מצדה"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ה",
+            "street": "יהודה הלוי",
+            "number": "N/A"
+        },
+        "price": "2800",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ה, יהודה הלוי"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "קבוץ גלויות",
+            "number": "12"
+        },
+        "price": "4050",
+        "room_count": "3",
+        "square_meters": "88",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, קבוץ גלויות 12"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "האלמוגים",
+            "number": "N/A"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, האלמוגים"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "דקר",
+            "number": "N/A"
+        },
+        "price": "2800",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, דקר"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "הרב מימון",
+            "number": "N/A"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, הרב מימון"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע יב",
+            "street": "כוכב הצפון",
+            "number": "12"
+        },
+        "price": "2300",
+        "room_count": "1.5",
+        "square_meters": "45",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע יב, כוכב הצפון 12"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע טו",
+            "street": "ארבע האמהות",
+            "number": "2"
+        },
+        "price": "2800",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע טו, ארבע האמהות 2"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "שבי ציון",
+            "number": "25"
+        },
+        "price": "3700",
+        "room_count": "3.5",
+        "square_meters": "100",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, שבי ציון 25"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "המעפילים",
+            "number": "30"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, המעפילים 30"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ח",
+            "street": "הכלנית",
+            "number": "N/A"
+        },
+        "price": "3800",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ח, הכלנית"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "סיטי",
+            "street": "הציונות",
+            "number": "N/A"
+        },
+        "price": "4700",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, סיטי, הציונות"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "ז’o;בוטינסקי",
+            "number": "11"
+        },
+        "price": "5900",
+        "room_count": "5",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, ז’o;בוטינסקי 11"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ו",
+            "street": "נתן אלבז",
+            "number": "10"
+        },
+        "price": "2950",
+        "room_count": "2.5",
+        "square_meters": "58",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ו, נתן אלבז 10"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "המעפילים",
+            "number": "20"
+        },
+        "price": "2700",
+        "room_count": "2.5",
+        "square_meters": "54",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, המעפילים 20"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "רוגוזין",
+            "number": "N/A"
+        },
+        "price": "2700",
+        "room_count": "2",
+        "square_meters": "54",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, רוגוזין"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "המעפילים",
+            "number": "22"
+        },
+        "price": "2700",
+        "room_count": "2",
+        "square_meters": "49",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, המעפילים 22"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "הרב קוק",
+            "number": "12"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, הרב קוק 12"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ה",
+            "street": "אחד העם",
+            "number": "2"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "71",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ה, אחד העם 2"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "בובר מרטין",
+            "number": "1"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "70",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, בובר מרטין 1"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "המעפילים",
+            "number": "62"
+        },
+        "price": "4700",
+        "room_count": "4",
+        "square_meters": "N/A",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, המעפילים 62"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "חיים משה שפירא",
+            "number": "23"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "82",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, חיים משה שפירא 23"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ה",
+            "street": "ביאליק",
+            "number": "1"
+        },
+        "price": "5100",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ה, ביאליק 1"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "הרב קוק",
+            "number": "14"
+        },
+        "price": "3200",
+        "room_count": "2.5",
+        "square_meters": "49",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, הרב קוק 14"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ו",
+            "street": "שפירא אברהם",
+            "number": "11"
+        },
+        "price": "4900",
+        "room_count": "3.5",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ו, שפירא אברהם 11"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "מער",
+            "street": "כינור",
+            "number": "36"
+        },
+        "price": "",
+        "room_count": "5",
+        "square_meters": "168",
+        "floor": "16",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, מער, כינור 36"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ח",
+            "street": "מבוא הגומא",
+            "number": "8"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ח, מבוא הגומא 8"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ח",
+            "street": "מבוא השרביטן",
+            "number": "3"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ח, מבוא השרביטן 3"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "חיים משה שפירא",
+            "number": "19"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, חיים משה שפירא 19"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע יא",
+            "street": "כנרת",
+            "number": "64"
+        },
+        "price": "4700",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע יא, כנרת 64"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "הראשונים",
+            "number": "33"
+        },
+        "price": "4900",
+        "room_count": "4",
+        "square_meters": "104",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, הראשונים 33"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "בובר מרטין",
+            "number": "5"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "15",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, בובר מרטין 5"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ה",
+            "street": "שבזי",
+            "number": "3"
+        },
+        "price": "2850",
+        "room_count": "3.5",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ה, שבזי 3"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ח",
+            "street": "הכלנית",
+            "number": "3"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ח, הכלנית 3"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "המעפילים",
+            "number": "20"
+        },
+        "price": "3100",
+        "room_count": "2.5",
+        "square_meters": "52",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, המעפילים 20"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע י",
+            "street": "הנביא זכריה",
+            "number": "14"
+        },
+        "price": "",
+        "room_count": "3.5",
+        "square_meters": "86",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע י, הנביא זכריה 14"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ו",
+            "street": "מיכשוילי",
+            "number": "16"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ו, מיכשוילי 16"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ח",
+            "street": "הצבעוני",
+            "number": "19"
+        },
+        "price": "3300",
+        "room_count": "2",
+        "square_meters": "33",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ח, הצבעוני 19"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "הרב קוק",
+            "number": "1"
+        },
+        "price": "3300",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, הרב קוק 1"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "קרן היסוד",
+            "number": "7"
+        },
+        "price": "3200",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, קרן היסוד 7"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ג",
+            "street": "הפלמ\"ח",
+            "number": "11"
+        },
+        "price": "2800",
+        "room_count": "3.5",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ג, הפלמ\"ח 11"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ה",
+            "street": "ביאליק",
+            "number": "44"
+        },
+        "price": "",
+        "room_count": "4.5",
+        "square_meters": "130",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ה, ביאליק 44"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ג",
+            "street": "חטיבת גולני",
+            "number": "7"
+        },
+        "price": "3200",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ג, חטיבת גולני 7"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "אח\"י אילת",
+            "number": "17"
+        },
+        "price": "2900",
+        "room_count": "2",
+        "square_meters": "56",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, אח\"י אילת 17"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ח",
+            "street": "הצבעוני",
+            "number": "21"
+        },
+        "price": "6000",
+        "room_count": "5",
+        "square_meters": "90",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ח, הצבעוני 21"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "המעפילים",
+            "number": "30"
+        },
+        "price": "3200",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, המעפילים 30"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע הקריה",
+            "street": "הציונות",
+            "number": "40"
+        },
+        "price": "3200",
+        "room_count": "2",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע הקריה, הציונות 40"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע י",
+            "street": "הנביא זכריה",
+            "number": "14"
+        },
+        "price": "4400",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע י, הנביא זכריה 14"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "הרב קוק",
+            "number": "12"
+        },
+        "price": "3300",
+        "room_count": "2",
+        "square_meters": "44",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, הרב קוק 12"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ז",
+            "street": "רב ינאי",
+            "number": "16"
+        },
+        "price": "4800",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ז, רב ינאי 16"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "מער",
+            "street": "כינור",
+            "number": "36"
+        },
+        "price": "",
+        "room_count": "5",
+        "square_meters": "168",
+        "floor": "16",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, מער, כינור 36"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "בורוכוב",
+            "number": "18"
+        },
+        "price": "3900",
+        "room_count": "2.5",
+        "square_meters": "48",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, בורוכוב 18"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "בית רוגוזין",
+            "number": "33"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, בית רוגוזין 33"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "הרב קוק",
+            "number": "12"
+        },
+        "price": "3000",
+        "room_count": "2.5",
+        "square_meters": "51",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, הרב קוק 12"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "ז’o;בוטינסק",
+            "number": "6"
+        },
+        "price": "3500",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, ז’o;בוטינסק 6"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ה",
+            "street": "אחד העם",
+            "number": "1"
+        },
+        "price": "4200",
+        "room_count": "3.5",
+        "square_meters": "90",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ה, אחד העם 1"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "הצוללים",
+            "number": "4"
+        },
+        "price": "5300",
+        "room_count": "4.5",
+        "square_meters": "145",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, הצוללים 4"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ג",
+            "street": "הפלמ\"ח",
+            "number": "13"
+        },
+        "price": "4400",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ג, הפלמ\"ח 13"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע יא",
+            "street": "כנרת",
+            "number": "100"
+        },
+        "price": "",
+        "room_count": "5",
+        "square_meters": "154",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע יא, כנרת 100"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "נורדאו",
+            "number": "9"
+        },
+        "price": "4700",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, נורדאו 9"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "חיים משה שפירא",
+            "number": "19"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, חיים משה שפירא 19"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע יא",
+            "street": "הר אביטל",
+            "number": "4"
+        },
+        "price": "6000",
+        "room_count": "5",
+        "square_meters": "150",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע יא, הר אביטל 4"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע יג",
+            "street": "המלך חזקיה",
+            "number": "33"
+        },
+        "price": "5100",
+        "room_count": "3.5",
+        "square_meters": "95",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע יג, המלך חזקיה 33"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ח",
+            "street": "כפתור החולות",
+            "number": "12"
+        },
+        "price": "3200",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ח, כפתור החולות 12"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "האצ\"ל",
+            "number": "8"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "95",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, האצ\"ל 8"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "המעפילים",
+            "number": "20"
+        },
+        "price": "3100",
+        "room_count": "2.5",
+        "square_meters": "52",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, המעפילים 20"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "בית רוגוזין",
+            "number": "27"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "144",
+        "floor": "19",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, בית רוגוזין 27"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "אבן גבירול",
+            "number": "13"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, אבן גבירול 13"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "בית רוגוזין",
+            "number": "37"
+        },
+        "price": "8500",
+        "room_count": "6",
+        "square_meters": "170",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, בית רוגוזין 37"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ו",
+            "street": "ציזלינג",
+            "number": "1"
+        },
+        "price": "4200",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ו, ציזלינג 1"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע יג",
+            "street": "המלך חזקיה",
+            "number": "33"
+        },
+        "price": "5100",
+        "room_count": "3.5",
+        "square_meters": "95",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע יג, המלך חזקיה 33"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "העשרים ואחד",
+            "number": "4"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, העשרים ואחד 4"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "קבוץ גלויות",
+            "number": "25"
+        },
+        "price": "2600",
+        "room_count": "2",
+        "square_meters": "49",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, קבוץ גלויות 25"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "המעפילים",
+            "number": "20"
+        },
+        "price": "3100",
+        "room_count": "2.5",
+        "square_meters": "52",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, המעפילים 20"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "ז’o;בוטינסק",
+            "number": "12"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "47",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, ז’o;בוטינסק 12"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "העשרים ואחד",
+            "number": "4"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, העשרים ואחד 4"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "ז’o;בוטינסק",
+            "number": "10"
+        },
+        "price": "3400",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, ז’o;בוטינסק 10"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ב",
+            "street": "הרב קוק",
+            "number": "1"
+        },
+        "price": "3300",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ב, הרב קוק 1"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "העשרים ואחד",
+            "number": "4"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, העשרים ואחד 4"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע טו",
+            "street": "וולפסון דוד",
+            "number": "1"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "118",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע טו, וולפסון דוד 1"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "העשרים ואחד",
+            "number": "4"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, העשרים ואחד 4"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ט",
+            "street": "שדרות רש\"י",
+            "number": "14"
+        },
+        "price": "4600",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ט, שדרות רש\"י 14"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "העשרים ואחד",
+            "number": "4"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, העשרים ואחד 4"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ד",
+            "street": "קרן היסוד",
+            "number": "21"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ד, קרן היסוד 21"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע א",
+            "street": "העשרים ואחד",
+            "number": "4"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע א, העשרים ואחד 4"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע יא",
+            "street": "נחל לכיש",
+            "number": "11"
+        },
+        "price": "5000",
+        "room_count": "4",
+        "square_meters": "95",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע יא, נחל לכיש 11"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ח",
+            "street": "כפתור החולות",
+            "number": "12"
+        },
+        "price": "3200",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ח, כפתור החולות 12"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע טו",
+            "street": "וולפסון דוד",
+            "number": "1"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "118",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע טו, וולפסון דוד 1"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ט",
+            "street": "שדרות רש\"י",
+            "number": "14"
+        },
+        "price": "4600",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ט, שדרות רש\"י 14"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ט",
+            "street": "שדרות רש\"י",
+            "number": "14"
+        },
+        "price": "4600",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ט, שדרות רש\"י 14"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ה",
+            "street": "שבזי",
+            "number": "3"
+        },
+        "price": "2500",
+        "room_count": "3.5",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ה, שבזי 3"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ה",
+            "street": "שבזי",
+            "number": "3"
+        },
+        "price": "2500",
+        "room_count": "3.5",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ה, שבזי 3"
+    },
+    {
+        "location": {
+            "city": "אשדוד",
+            "area": "רובע ט",
+            "street": "שדרות רש\"י",
+            "number": "14"
+        },
+        "price": "4600",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אשדוד, רובע ט, שדרות רש\"י 14"
+    }
+]

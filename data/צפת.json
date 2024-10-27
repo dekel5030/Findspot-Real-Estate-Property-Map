@@ -1,0 +1,310 @@
+[
+    {
+        "location": {
+            "city": "צפת",
+            "area": "שכונה דרומית",
+            "street": "אצ\"ל",
+            "number": "154"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, שכונה דרומית, אצ\"ל 154"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "שכונה דרומית",
+            "street": "מרכז קליטה צה&q",
+            "number": "4"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, שכונה דרומית, מרכז קליטה צה&q 4"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "בן גוריון",
+            "street": "שז\"ר זלמן",
+            "number": "220"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, בן גוריון, שז\"ר זלמן 220"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "שאר העיר",
+            "street": "נוף טליה",
+            "number": "33"
+        },
+        "price": "3700",
+        "room_count": "4.5",
+        "square_meters": "140",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, שאר העיר, נוף טליה 33"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "שכונה דרומית",
+            "street": "לוחמי הגטאות",
+            "number": "47"
+        },
+        "price": "2200",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, שכונה דרומית, לוחמי הגטאות 47"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "בן גוריון",
+            "street": "השבעה",
+            "number": "203"
+        },
+        "price": "2200",
+        "room_count": "3",
+        "square_meters": "54",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, בן גוריון, השבעה 203"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "שכונה דרומית",
+            "street": "אצ\"ל",
+            "number": "212"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, שכונה דרומית, אצ\"ל 212"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "שכונה דרומית",
+            "street": "לוחמי הגטאות",
+            "number": "31"
+        },
+        "price": "2050",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "16",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, שכונה דרומית, לוחמי הגטאות 31"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "נוף הכנרת",
+            "street": "נוף הירדן",
+            "number": "30"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, נוף הכנרת, נוף הירדן 30"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "העיר העתיקה",
+            "street": "מגיני צפת",
+            "number": "1"
+        },
+        "price": "3200",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, העיר העתיקה, מגיני צפת 1"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "נווה אורנים",
+            "street": "לשם",
+            "number": "9"
+        },
+        "price": "2200",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, נווה אורנים, לשם 9"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "העיר העתיקה",
+            "street": "עליה ב",
+            "number": "6"
+        },
+        "price": "4500",
+        "room_count": "4.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, העיר העתיקה, עליה ב 6"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "שכונה דרומית",
+            "street": "איש גמזו",
+            "number": "16"
+        },
+        "price": "2200",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, שכונה דרומית, איש גמזו 16"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "העיר העתיקה",
+            "street": "האר\"י",
+            "number": "15"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, העיר העתיקה, האר\"י 15"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "העיר העתיקה",
+            "street": "רח יז",
+            "number": "1"
+        },
+        "price": "2500",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, העיר העתיקה, רח יז 1"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "העיר העתיקה",
+            "street": "מגיני צפת",
+            "number": "11"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, העיר העתיקה, מגיני צפת 11"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "שכונה דרומית",
+            "street": "שפרינצק",
+            "number": "162"
+        },
+        "price": "2750",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, שכונה דרומית, שפרינצק 162"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "שכונה דרומית",
+            "street": "שפרינצק",
+            "number": "162"
+        },
+        "price": "2100",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, שכונה דרומית, שפרינצק 162"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "שכונה דרומית",
+            "street": "הנשיא",
+            "number": "45"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, שכונה דרומית, הנשיא 45"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "העיר העתיקה",
+            "street": "האר\"י",
+            "number": "5"
+        },
+        "price": "7000",
+        "room_count": "5",
+        "square_meters": "125",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, העיר העתיקה, האר\"י 5"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "העיר העתיקה",
+            "street": "רח יז",
+            "number": "1"
+        },
+        "price": "2500",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, העיר העתיקה, רח יז 1"
+    },
+    {
+        "location": {
+            "city": "צפת",
+            "area": "שכונה דרומית",
+            "street": "איש גמזו",
+            "number": "16"
+        },
+        "price": "2200",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "צפת, שכונה דרומית, איש גמזו 16"
+    }
+]

@@ -1,0 +1,380 @@
+[
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "דדו",
+            "street": "הרצל",
+            "number": "155"
+        },
+        "price": "1800",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, דדו, הרצל 155"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "קרן היסוד 318",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "1850",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, קרן היסוד 318"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "דדו",
+            "street": "מעלה חסון",
+            "number": "N/A"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, דדו, מעלה חסון"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "הסגליות",
+            "street": "הסיגליות",
+            "number": "24"
+        },
+        "price": "1800",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, הסגליות, הסיגליות 24"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "הסגליות",
+            "street": "הסיגליות",
+            "number": "42"
+        },
+        "price": "2200",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, הסגליות, הסיגליות 42"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "רבין",
+            "street": "תדהר",
+            "number": "10"
+        },
+        "price": "2700",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, רבין, תדהר 10"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "הרצל 16",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "2500",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, הרצל 16"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "שאר העיר",
+            "street": "מעלה הבנים",
+            "number": "25"
+        },
+        "price": "2100",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, שאר העיר, מעלה הבנים 25"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "רבין",
+            "street": "ההגנה",
+            "number": "22"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, רבין, ההגנה 22"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "שז\"ר זלמן 452",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "2500",
+        "room_count": "4",
+        "square_meters": "89",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, שז\"ר זלמן 452"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "האילנות",
+            "street": "צורית",
+            "number": "12"
+        },
+        "price": "",
+        "room_count": "5",
+        "square_meters": "166",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, האילנות, צורית 12"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "שאר העיר",
+            "street": "מעלה חסון",
+            "number": "N/A"
+        },
+        "price": "1890",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, שאר העיר, מעלה חסון"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "מעלה חסון 141",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, מעלה חסון 141"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "שאר העיר",
+            "street": "מעלה הבנים",
+            "number": "N/A"
+        },
+        "price": "2200",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, שאר העיר, מעלה הבנים"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "סביונים",
+            "street": "משעול גבעונית",
+            "number": "5"
+        },
+        "price": "2500",
+        "room_count": "3.5",
+        "square_meters": "205",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, סביונים, משעול גבעונית 5"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "קרן היסוד 322",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "78",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, קרן היסוד 322"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "שאר העיר",
+            "street": "לוטוס",
+            "number": "N/A"
+        },
+        "price": "2950",
+        "room_count": "4",
+        "square_meters": "95",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, שאר העיר, לוטוס"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "שאר העיר",
+            "street": "לוי אשכול",
+            "number": "N/A"
+        },
+        "price": "2350",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, שאר העיר, לוי אשכול"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "רבין",
+            "street": "שד ירושלים",
+            "number": "30"
+        },
+        "price": "",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, רבין, שד ירושלים 30"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "רבין",
+            "street": "שד ירושלים",
+            "number": "42"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, רבין, שד ירושלים 42"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "שאר העיר",
+            "street": "הרב קוק",
+            "number": "N/A"
+        },
+        "price": "1830",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, שאר העיר, הרב קוק"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "שאר העיר",
+            "street": "לוי אשכול",
+            "number": "N/A"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, שאר העיר, לוי אשכול"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "לוי אשכול 459",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "78",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, לוי אשכול 459"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "הארזים 132",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "1600",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, הארזים 132"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "האילנות",
+            "street": "צורית",
+            "number": "12"
+        },
+        "price": "5500",
+        "room_count": "5",
+        "square_meters": "160",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, האילנות, צורית 12"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "שאר העיר",
+            "street": "הרב קוק",
+            "number": "N/A"
+        },
+        "price": "1450",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, שאר העיר, הרב קוק"
+    },
+    {
+        "location": {
+            "city": "מעלות תרשיחא",
+            "area": "רבין",
+            "street": "הפלמ\"ח",
+            "number": "10"
+        },
+        "price": "3100",
+        "room_count": "3",
+        "square_meters": "78",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מעלות תרשיחא, רבין, הפלמ\"ח 10"
+    }
+]

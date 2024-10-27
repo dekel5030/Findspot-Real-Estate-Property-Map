@@ -1,0 +1,548 @@
+[
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "פנחס ספיר",
+            "street": "תשי\"ג",
+            "number": "9"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "64",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, פנחס ספיר, תשי\"ג 9"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "פנחס ספיר",
+            "street": "העליה",
+            "number": "5"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, פנחס ספיר, העליה 5"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "נוף העמק",
+            "street": "נוף העמק",
+            "number": "4"
+        },
+        "price": "2650",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, נוף העמק, נוף העמק 4"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "שלום עליכם",
+            "street": "רמת יזרעאל",
+            "number": "7"
+        },
+        "price": "2300",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, שלום עליכם, רמת יזרעאל 7"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "מגדל אור",
+            "street": "דרך העצמאות",
+            "number": "33"
+        },
+        "price": "2100",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, מגדל אור, דרך העצמאות 33"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "הורד",
+            "street": "הורד",
+            "number": "6"
+        },
+        "price": "1900",
+        "room_count": "3",
+        "square_meters": "54",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, הורד, הורד 6"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "פנינת העמק",
+            "street": "הדברת",
+            "number": "10"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, פנינת העמק, הדברת 10"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "רמת אשכול",
+            "street": "קרן היסוד",
+            "number": "12"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, רמת אשכול, קרן היסוד 12"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "יפה נוף",
+            "street": "הורד",
+            "number": "8"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, יפה נוף, הורד 8"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "רמת אשכול",
+            "street": "קרן היסוד",
+            "number": "12"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, רמת אשכול, קרן היסוד 12"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "רמת אשכול",
+            "street": "קרן היסוד",
+            "number": "12"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, רמת אשכול, קרן היסוד 12"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "רמת אשכול",
+            "street": "קרן היסוד",
+            "number": "12"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, רמת אשכול, קרן היסוד 12"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "קרית רבין",
+            "street": "נחל הצבי",
+            "number": "3"
+        },
+        "price": "4900",
+        "room_count": "5",
+        "square_meters": "136",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, קרית רבין, נחל הצבי 3"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "הורד",
+            "street": "סמוכה יוסף",
+            "number": "1"
+        },
+        "price": "3800",
+        "room_count": "4",
+        "square_meters": "125",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, הורד, סמוכה יוסף 1"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "פנחס ספיר",
+            "street": "שומרון",
+            "number": "9"
+        },
+        "price": "1800",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, פנחס ספיר, שומרון 9"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "רמת בלפור",
+            "street": "דרך חטיבת גולני",
+            "number": "17"
+        },
+        "price": "2600",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, רמת בלפור, דרך חטיבת גולני 17"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "פנחס ספיר",
+            "street": "שומרון",
+            "number": "1"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, פנחס ספיר, שומרון 1"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "פנחס ספיר",
+            "street": "שומרון",
+            "number": "12"
+        },
+        "price": "2300",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, פנחס ספיר, שומרון 12"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "פנחס ספיר",
+            "street": "התימורים",
+            "number": "19"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, פנחס ספיר, התימורים 19"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "שלום עליכם",
+            "street": "קדש",
+            "number": "31"
+        },
+        "price": "2750",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, שלום עליכם, קדש 31"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "קרית רבין",
+            "street": "הערבה",
+            "number": "5"
+        },
+        "price": "3800",
+        "room_count": "4",
+        "square_meters": "1",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, קרית רבין, הערבה 5"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "קרית רבין",
+            "street": "נחל הצבי",
+            "number": "3"
+        },
+        "price": "4900",
+        "room_count": "5",
+        "square_meters": "136",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, קרית רבין, נחל הצבי 3"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "רמת בלפור",
+            "street": "קרן היסוד",
+            "number": "19"
+        },
+        "price": "3500",
+        "room_count": "4.5",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, רמת בלפור, קרן היסוד 19"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "נוף העמק",
+            "street": "היסמין",
+            "number": "33"
+        },
+        "price": "2550",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, נוף העמק, היסמין 33"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "שאר העיר",
+            "street": "ביתר",
+            "number": "8"
+        },
+        "price": "4099",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, שאר העיר, ביתר 8"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "קרית רבין",
+            "street": "נחל הצבי",
+            "number": "5"
+        },
+        "price": "4400",
+        "room_count": "4",
+        "square_meters": "117",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, קרית רבין, נחל הצבי 5"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "שלום עליכם",
+            "street": "רמת יזרעאל",
+            "number": "7"
+        },
+        "price": "2300",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, שלום עליכם, רמת יזרעאל 7"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "מצפה העמק",
+            "street": "השקד",
+            "number": "13"
+        },
+        "price": "4200",
+        "room_count": "4",
+        "square_meters": "108",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, מצפה העמק, השקד 13"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "שלום עליכם",
+            "street": "דרך העמק",
+            "number": "8"
+        },
+        "price": "2200",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, שלום עליכם, דרך העמק 8"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "פנחס ספיר",
+            "street": "העליה",
+            "number": "5"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, פנחס ספיר, העליה 5"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "פנחס ספיר",
+            "street": "התימורים",
+            "number": "17"
+        },
+        "price": "1600",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, פנחס ספיר, התימורים 17"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "רמת אשכול",
+            "street": "הנשיאים",
+            "number": "14"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, רמת אשכול, הנשיאים 14"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "יערת העמק",
+            "street": "נחל הצבי",
+            "number": "1"
+        },
+        "price": "4000",
+        "room_count": "4",
+        "square_meters": "128",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, יערת העמק, נחל הצבי 1"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "מגדל אור",
+            "street": "דרך העצמאות",
+            "number": "33"
+        },
+        "price": "2100",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, מגדל אור, דרך העצמאות 33"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "יערת העמק",
+            "street": "נחל הצבי",
+            "number": "1"
+        },
+        "price": "4000",
+        "room_count": "4",
+        "square_meters": "128",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, יערת העמק, נחל הצבי 1"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "יערת העמק",
+            "street": "נחל הצבי",
+            "number": "1"
+        },
+        "price": "4000",
+        "room_count": "4",
+        "square_meters": "128",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, יערת העמק, נחל הצבי 1"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "פנחס ספיר",
+            "street": "התימורים",
+            "number": "19"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, פנחס ספיר, התימורים 19"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "רמת בלפור",
+            "street": "האלונים",
+            "number": "1"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, רמת בלפור, האלונים 1"
+    },
+    {
+        "location": {
+            "city": "מגדל העמק",
+            "area": "פנחס ספיר",
+            "street": "תשי\"ג",
+            "number": "9"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "64",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מגדל העמק, פנחס ספיר, תשי\"ג 9"
+    }
+]

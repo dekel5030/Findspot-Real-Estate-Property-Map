@@ -1,0 +1,702 @@
+[
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "תקומה",
+            "street": "יציאת אירופה",
+            "number": "2"
+        },
+        "price": "4200",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, תקומה, יציאת אירופה 2"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "הראשונים",
+            "street": "שועלי שמשון",
+            "number": "N/A"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "112",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, הראשונים, שועלי שמשון"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "ירושלים",
+            "number": "17"
+        },
+        "price": "4500",
+        "room_count": "5.5",
+        "square_meters": "125",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, ירושלים 17"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "יוספטל",
+            "street": "שאול המלך",
+            "number": "6"
+        },
+        "price": "3700",
+        "room_count": "2.5",
+        "square_meters": "47",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, יוספטל, שאול המלך 6"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "גבעת אשכול",
+            "street": "השקמה",
+            "number": "8"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, גבעת אשכול, השקמה 8"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "אגרון",
+            "number": "11"
+        },
+        "price": "7000",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, אגרון 11"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "הרמה",
+            "number": "4"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "103",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, הרמה 4"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "פועלים ד",
+            "street": "הגר\"א",
+            "number": "N/A"
+        },
+        "price": "7600",
+        "room_count": "5",
+        "square_meters": "195",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, פועלים ד, הגר\"א"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "יוספטל",
+            "street": "יהודה המכבי",
+            "number": "8"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, יוספטל, יהודה המכבי 8"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "פועלים א",
+            "street": "אימבר",
+            "number": "14"
+        },
+        "price": "5600",
+        "room_count": "3.5",
+        "square_meters": "106",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, פועלים א, אימבר 14"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מעוז",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "400",
+        "room_count": "N/A",
+        "square_meters": "1",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מעוז"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "תל חי",
+            "number": "32"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, תל חי 32"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "2100",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "כפר סבא הירוקה",
+            "street": "אנגל",
+            "number": "19"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, כפר סבא הירוקה, אנגל 19"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "אלי כהן",
+            "street": "גיסות השריון",
+            "number": "11"
+        },
+        "price": "3570",
+        "room_count": "2.5",
+        "square_meters": "64",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, אלי כהן, גיסות השריון 11"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "תקומה",
+            "street": "ויצמן",
+            "number": "194"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "64",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, תקומה, ויצמן 194"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "הפרחים",
+            "street": "חבצלת השרון",
+            "number": "11"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "128",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, הפרחים, חבצלת השרון 11"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "יוספטל",
+            "street": "שאול המלך",
+            "number": "14"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, יוספטל, שאול המלך 14"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "גורדון",
+            "number": "8"
+        },
+        "price": "5100",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, גורדון 8"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "כפר סבא הירוקה",
+            "street": "זליוונסקי",
+            "number": "20"
+        },
+        "price": "8900",
+        "room_count": "5",
+        "square_meters": "139",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, כפר סבא הירוקה, זליוונסקי 20"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "גורדון",
+            "number": "8"
+        },
+        "price": "5100",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, גורדון 8"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "כפר סבא הירוקה",
+            "street": "זליוונסקי",
+            "number": "20"
+        },
+        "price": "8900",
+        "room_count": "5",
+        "square_meters": "139",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, כפר סבא הירוקה, זליוונסקי 20"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "פועלים א",
+            "street": "ארלוזורוב",
+            "number": "17"
+        },
+        "price": "8800",
+        "room_count": "5",
+        "square_meters": "150",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, פועלים א, ארלוזורוב 17"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "כפר סבא הירוקה",
+            "street": "אנגל",
+            "number": "19"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, כפר סבא הירוקה, אנגל 19"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "תל חי",
+            "number": "44"
+        },
+        "price": "7100",
+        "room_count": "4",
+        "square_meters": "117",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, תל חי 44"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "ארלוזורוב",
+            "street": "הפרדס",
+            "number": "13"
+        },
+        "price": "7900",
+        "room_count": "4.5",
+        "square_meters": "190",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, ארלוזורוב, הפרדס 13"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "יוספטל",
+            "street": "שאול המלך",
+            "number": "6"
+        },
+        "price": "3700",
+        "room_count": "2.5",
+        "square_meters": "47",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, יוספטל, שאול המלך 6"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "ויצמן",
+            "number": "66"
+        },
+        "price": "5900",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, ויצמן 66"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "גלעד",
+            "number": "2"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "123",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, גלעד 2"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "דובדבן בכפר",
+            "street": "תל חי",
+            "number": "76"
+        },
+        "price": "7000",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, דובדבן בכפר, תל חי 76"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "סוקולוב",
+            "number": "7"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "125",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, סוקולוב 7"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "יוספטל",
+            "street": "יהודה המכבי",
+            "number": "2"
+        },
+        "price": "3400",
+        "room_count": "2.5",
+        "square_meters": "75",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, יוספטל, יהודה המכבי 2"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "החרמון",
+            "number": "6"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, החרמון 6"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "ויצמן",
+            "number": "66"
+        },
+        "price": "5900",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, ויצמן 66"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "ששת הימים",
+            "number": "10"
+        },
+        "price": "7900",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, ששת הימים 10"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "יוספטל",
+            "street": "אשכול לוי",
+            "number": "55"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, יוספטל, אשכול לוי 55"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "הרמה",
+            "number": "4"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "103",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, הרמה 4"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "שרת משה",
+            "number": "5"
+        },
+        "price": "7600",
+        "room_count": "4.5",
+        "square_meters": "132",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, שרת משה 5"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "פועלים א",
+            "street": "בוסל",
+            "number": "3"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "160",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, פועלים א, בוסל 3"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "גלעד",
+            "number": "2"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "123",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, גלעד 2"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "פועלים א",
+            "street": "בוסל",
+            "number": "3"
+        },
+        "price": "8800",
+        "room_count": "6",
+        "square_meters": "160",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, פועלים א, בוסל 3"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "גלעד",
+            "number": "2"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "123",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, גלעד 2"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "כפר סבא הירוקה",
+            "street": "סקיבין",
+            "number": "1"
+        },
+        "price": "6000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, כפר סבא הירוקה, סקיבין 1"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "כפר סבא הירוקה",
+            "street": "סקיבין",
+            "number": "1"
+        },
+        "price": "6000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, כפר סבא הירוקה, סקיבין 1"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "צפון",
+            "street": "החי\"ש",
+            "number": "3"
+        },
+        "price": "6600",
+        "room_count": "4",
+        "square_meters": "109",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, צפון, החי\"ש 3"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "גלעד",
+            "number": "2"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "123",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, גלעד 2"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "כפר סבא הירוקה",
+            "street": "סקיבין",
+            "number": "1"
+        },
+        "price": "6000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, כפר סבא הירוקה, סקיבין 1"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "ויצמן",
+            "number": "66"
+        },
+        "price": "5900",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, ויצמן 66"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "צפון",
+            "street": "החי\"ש",
+            "number": "3"
+        },
+        "price": "6600",
+        "room_count": "4",
+        "square_meters": "109",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, צפון, החי\"ש 3"
+    },
+    {
+        "location": {
+            "city": "כפר סבא",
+            "area": "מרכז העיר",
+            "street": "ויצמן",
+            "number": "66"
+        },
+        "price": "5900",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "כפר סבא, מרכז העיר, ויצמן 66"
+    }
+]

@@ -1,0 +1,2802 @@
+[
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "טלביה",
+            "street": "לינקולן",
+            "number": "N/A"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "59",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, טלביה, לינקולן"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמון הישנה",
+            "street": "חזקיהו המלך",
+            "number": "46"
+        },
+        "price": "5700",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמון הישנה, חזקיהו המלך 46"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "אפרסמון",
+            "number": "N/A"
+        },
+        "price": "5500",
+        "room_count": "3.5",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, אפרסמון"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מרכז העיר",
+            "street": "ביאנקיני",
+            "number": "4"
+        },
+        "price": "6700",
+        "room_count": "3",
+        "square_meters": "97",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מרכז העיר, ביאנקיני 4"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רמת שלמה",
+            "street": "הרב שך",
+            "number": "60"
+        },
+        "price": "11500",
+        "room_count": "6",
+        "square_meters": "158",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רמת שלמה, הרב שך 60"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "אפרסמון",
+            "number": "N/A"
+        },
+        "price": "5500",
+        "room_count": "3.5",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, אפרסמון"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "נחלאות",
+            "street": "ניסים בכר",
+            "number": "26"
+        },
+        "price": "4900",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, נחלאות, ניסים בכר 26"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמון הישנה",
+            "street": "ברוריה",
+            "number": "N/A"
+        },
+        "price": "2400",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמון הישנה, ברוריה"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "בית הכרם",
+            "street": "החלוץ",
+            "number": "55"
+        },
+        "price": "9500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, בית הכרם, החלוץ 55"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "חומת שמואל",
+            "street": "רפאל בר לביא",
+            "number": "N/A"
+        },
+        "price": "5900",
+        "room_count": "3",
+        "square_meters": "73",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, חומת שמואל, רפאל בר לביא"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גבעת שאול",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "88",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גבעת שאול"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "ארמון הנציב",
+            "street": "אדם",
+            "number": "N/A"
+        },
+        "price": "4200",
+        "room_count": "2.5",
+        "square_meters": "45",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, ארמון הנציב, אדם"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה א",
+            "street": "מבוא קטורה",
+            "number": "N/A"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה א, מבוא קטורה"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "טלביה",
+            "street": "קרן היסוד",
+            "number": "17"
+        },
+        "price": "7650",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, טלביה, קרן היסוד 17"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "טלביה",
+            "street": "ז’o;בוטינסקי",
+            "number": "N/A"
+        },
+        "price": "9500",
+        "room_count": "4",
+        "square_meters": "104",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, טלביה, ז’o;בוטינסקי"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רסקו",
+            "street": "טשרניחובסקי-קרית שמואל",
+            "number": "5"
+        },
+        "price": "8500",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רסקו, טשרניחובסקי-קרית שמואל 5"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "נופך",
+            "number": "N/A"
+        },
+        "price": "4100",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, נופך"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רוממה",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "42000",
+        "room_count": "11.5",
+        "square_meters": "350",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רוממה"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רמת שרת",
+            "street": "ברכה צפירה",
+            "number": "10"
+        },
+        "price": "2900",
+        "room_count": "1.5",
+        "square_meters": "35",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רמת שרת, ברכה צפירה 10"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "בית וגן",
+            "street": "הרב עוזיאל",
+            "number": "N/A"
+        },
+        "price": "8400",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, בית וגן, הרב עוזיאל"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמונים",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "3700",
+        "room_count": "2",
+        "square_meters": "44",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמונים"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "תלפיות מזרח",
+            "street": "אדם",
+            "number": "1"
+        },
+        "price": "5200",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, תלפיות מזרח, אדם 1"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מרכז העיר",
+            "street": "אגריפס",
+            "number": "32"
+        },
+        "price": "5600",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מרכז העיר, אגריפס 32"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית שמואל",
+            "street": "איתמר בן אבי",
+            "number": "N/A"
+        },
+        "price": "9500",
+        "room_count": "4",
+        "square_meters": "95",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית שמואל, איתמר בן אבי"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רמת שלמה",
+            "street": "הרב שך",
+            "number": "N/A"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "125",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רמת שלמה, הרב שך"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "נחלאות",
+            "street": "כפר ברעם",
+            "number": "6"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, נחלאות, כפר ברעם 6"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "אבישר",
+            "number": "1"
+        },
+        "price": "4950",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, אבישר 1"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "הגבעה הצרפתית",
+            "street": "ההגנה",
+            "number": "26"
+        },
+        "price": "7200",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, הגבעה הצרפתית, ההגנה 26"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רמת שלמה",
+            "street": "הרב שך",
+            "number": "42"
+        },
+        "price": "7400",
+        "room_count": "4",
+        "square_meters": "119",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רמת שלמה, הרב שך 42"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רחביה",
+            "street": "אלפסי",
+            "number": "35"
+        },
+        "price": "10000",
+        "room_count": "3.5",
+        "square_meters": "100",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רחביה, אלפסי 35"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "הגבעה הצרפתית",
+            "street": "מבוא דקר",
+            "number": "5"
+        },
+        "price": "2350",
+        "room_count": "6",
+        "square_meters": "110",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, הגבעה הצרפתית, מבוא דקר 5"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "נופך",
+            "number": "241"
+        },
+        "price": "4100",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, נופך 241"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "בית הכרם",
+            "street": "כרמון",
+            "number": "15"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, בית הכרם, כרמון 15"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "הגבעה הצרפתית",
+            "street": "ההגנה",
+            "number": "25"
+        },
+        "price": "5500",
+        "room_count": "3.5",
+        "square_meters": "73",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, הגבעה הצרפתית, ההגנה 25"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "יפה רום",
+            "number": "84"
+        },
+        "price": "5700",
+        "room_count": "3.5",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, יפה רום 84"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "זכרון טוביה",
+            "number": "16"
+        },
+        "price": "3000",
+        "room_count": "1",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, זכרון טוביה 16"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמונים",
+            "street": "דב הוז",
+            "number": "4"
+        },
+        "price": "4000",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמונים, דב הוז 4"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמונים",
+            "street": "סן מרטין",
+            "number": "1"
+        },
+        "price": "7000",
+        "room_count": "5",
+        "square_meters": "80",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמונים, סן מרטין 1"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "סלמן אליהו",
+            "number": "28"
+        },
+        "price": "4800",
+        "room_count": "2",
+        "square_meters": "53",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, סלמן אליהו 28"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "פסגת זאב",
+            "street": "שד דיין משה",
+            "number": "131"
+        },
+        "price": "4200",
+        "room_count": "2.5",
+        "square_meters": "2",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, פסגת זאב, שד דיין משה 131"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "הרב הרצוג 81",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "8000",
+        "room_count": "3",
+        "square_meters": "84",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, הרב הרצוג 81"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "בקעה",
+            "street": "צפורה",
+            "number": "3"
+        },
+        "price": "5700",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, בקעה, צפורה 3"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "טלביה",
+            "street": "לינקולן",
+            "number": "10"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "81",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, טלביה, לינקולן 10"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "יפו",
+            "number": "105"
+        },
+        "price": "15000",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "19",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, יפו 105"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מרכז העיר",
+            "street": "יפו",
+            "number": "57"
+        },
+        "price": "11000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מרכז העיר, יפו 57"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "בצלאל",
+            "number": "28"
+        },
+        "price": "5900",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, בצלאל 28"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "הגבעה הצרפתית",
+            "street": "החי\"ל",
+            "number": "13"
+        },
+        "price": "2600",
+        "room_count": "4.5",
+        "square_meters": "160",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, הגבעה הצרפתית, החי\"ל 13"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמון הישנה",
+            "street": "בוסתנאי",
+            "number": "32"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמון הישנה, בוסתנאי 32"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "עיר גנים",
+            "street": "קוסטה ריקה",
+            "number": "35"
+        },
+        "price": "4850",
+        "room_count": "4",
+        "square_meters": "72",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, עיר גנים, קוסטה ריקה 35"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "אפרסמון",
+            "number": "10"
+        },
+        "price": "3800",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, אפרסמון 10"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מעלות דפנה",
+            "street": "מעלות דפנה",
+            "number": "120"
+        },
+        "price": "11000",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מעלות דפנה, מעלות דפנה 120"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמון הישנה",
+            "street": "חזקיהו המלך",
+            "number": "31"
+        },
+        "price": "16500",
+        "room_count": "6",
+        "square_meters": "160",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמון הישנה, חזקיהו המלך 31"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רחביה",
+            "street": "בנימין מטודלה",
+            "number": "16"
+        },
+        "price": "4000",
+        "room_count": "1.5",
+        "square_meters": "40",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רחביה, בנימין מטודלה 16"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמונים",
+            "street": "יהודה הנשיא",
+            "number": "14"
+        },
+        "price": "8000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמונים, יהודה הנשיא 14"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "הגבעה הצרפתית",
+            "street": "אצ\"ל",
+            "number": "8"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, הגבעה הצרפתית, אצ\"ל 8"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רחביה",
+            "street": "עזה",
+            "number": "22"
+        },
+        "price": "9200",
+        "room_count": "3.5",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רחביה, עזה 22"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית יובל",
+            "street": "שטרן אברהם",
+            "number": "20"
+        },
+        "price": "3900",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית יובל, שטרן אברהם 20"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רמות",
+            "street": "פרנקפורטר פליקס",
+            "number": "15"
+        },
+        "price": "2500",
+        "room_count": "1",
+        "square_meters": "25",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רמות, פרנקפורטר פליקס 15"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "תלפיות",
+            "street": "שלום יהודה",
+            "number": "17"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "59",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, תלפיות, שלום יהודה 17"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מעלות דפנה",
+            "street": "מעלות דפנה",
+            "number": "117"
+        },
+        "price": "6300",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מעלות דפנה, מעלות דפנה 117"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מעלות דפנה",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מעלות דפנה"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רחביה",
+            "street": "אלפסי",
+            "number": "25"
+        },
+        "price": "7500",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רחביה, אלפסי 25"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "ארמון הנציב",
+            "street": "אדם",
+            "number": "1"
+        },
+        "price": "5200",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, ארמון הנציב, אדם 1"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה א",
+            "street": "הצוף",
+            "number": "44"
+        },
+        "price": "3800",
+        "room_count": "2",
+        "square_meters": "54",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה א, הצוף 44"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מקור ברוך",
+            "street": "החשמונאים",
+            "number": "23"
+        },
+        "price": "2900",
+        "room_count": "1",
+        "square_meters": "28",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מקור ברוך, החשמונאים 23"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רמות",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "9500",
+        "room_count": "5",
+        "square_meters": "105",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רמות"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מרכז העיר",
+            "street": "החבצלת",
+            "number": "N/A"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "30",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מרכז העיר, החבצלת"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "ארמון הנציב",
+            "street": "בן יוסף שלמה",
+            "number": "303"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, ארמון הנציב, בן יוסף שלמה 303"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית יובל",
+            "street": "ניסן אברהם",
+            "number": "10"
+        },
+        "price": "3900",
+        "room_count": "2",
+        "square_meters": "30",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית יובל, ניסן אברהם 10"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "רמה",
+            "number": "10"
+        },
+        "price": "5000",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, רמה 10"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "ארמון הנציב",
+            "street": "דרזנר יחיאל",
+            "number": "10"
+        },
+        "price": "5000",
+        "room_count": "3.5",
+        "square_meters": "74",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, ארמון הנציב, דרזנר יחיאל 10"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית יובל",
+            "street": "אריה קלנר",
+            "number": "100"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית יובל, אריה קלנר 100"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "תלפיות",
+            "street": "דרך בית לחם",
+            "number": "125"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, תלפיות, דרך בית לחם 125"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "הגבעה הצרפתית",
+            "street": "בר כוכבא",
+            "number": "70"
+        },
+        "price": "4800",
+        "room_count": "3.5",
+        "square_meters": "72",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, הגבעה הצרפתית, בר כוכבא 70"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מרכז העיר",
+            "street": "ביאנקיני",
+            "number": "4"
+        },
+        "price": "7000",
+        "room_count": "3",
+        "square_meters": "61",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מרכז העיר, ביאנקיני 4"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית משה",
+            "street": "קרית משה",
+            "number": "11"
+        },
+        "price": "5500",
+        "room_count": "3.5",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית משה, קרית משה 11"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה ה",
+            "street": "תירוש",
+            "number": "559"
+        },
+        "price": "",
+        "room_count": "3.5",
+        "square_meters": "67",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה ה, תירוש 559"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רמת שלמה",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "87",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רמת שלמה"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "תלפיות",
+            "street": "דרך בית לחם",
+            "number": "118"
+        },
+        "price": "2950",
+        "room_count": "2",
+        "square_meters": "N/A",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, תלפיות, דרך בית לחם 118"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "נחלאות",
+            "street": "נסים בכר",
+            "number": "26"
+        },
+        "price": "4900",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, נחלאות, נסים בכר 26"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מקור ברוך",
+            "street": "יפו",
+            "number": "212"
+        },
+        "price": "4700",
+        "room_count": "2",
+        "square_meters": "33",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מקור ברוך, יפו 212"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "תלפיות",
+            "street": "אפרתה",
+            "number": "30"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "85",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, תלפיות, אפרתה 30"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "נווה יעקב",
+            "street": "מעגלות הרב פרדס",
+            "number": "3"
+        },
+        "price": "2800",
+        "room_count": "1.5",
+        "square_meters": "27",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, נווה יעקב, מעגלות הרב פרדס 3"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גבעת שאול",
+            "street": "בן ציון",
+            "number": "24"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גבעת שאול, בן ציון 24"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמונים",
+            "street": "סן מרטין",
+            "number": "15"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמונים, סן מרטין 15"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "ארנונה",
+            "street": "אפרתה",
+            "number": "30"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, ארנונה, אפרתה 30"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "פסגת זאב",
+            "street": "חיל האויר",
+            "number": "63"
+        },
+        "price": "3700",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, פסגת זאב, חיל האויר 63"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית שמואל",
+            "street": "הרב ברודי",
+            "number": "1"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית שמואל, הרב ברודי 1"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "התקופה 4",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "4200",
+        "room_count": "1",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, התקופה 4"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "פסגת זאב",
+            "street": "משה קראוס",
+            "number": "1"
+        },
+        "price": "3100",
+        "room_count": "1",
+        "square_meters": "20",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, פסגת זאב, משה קראוס 1"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "הגבעה הצרפתית",
+            "street": "מבוא הררי",
+            "number": "47"
+        },
+        "price": "7000",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, הגבעה הצרפתית, מבוא הררי 47"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "שמיר",
+            "number": "22"
+        },
+        "price": "3200",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, שמיר 22"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רמות רחל",
+            "street": "השגריר שלמה ארגוב",
+            "number": "10"
+        },
+        "price": "11500",
+        "room_count": "5",
+        "square_meters": "125",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רמות רחל, השגריר שלמה ארגוב 10"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית משה",
+            "street": "רב צעיר",
+            "number": "7"
+        },
+        "price": "6800",
+        "room_count": "3.5",
+        "square_meters": "81",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית משה, רב צעיר 7"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מקור חיים",
+            "street": "מקור חיים",
+            "number": "45"
+        },
+        "price": "5600",
+        "room_count": "2",
+        "square_meters": "54",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מקור חיים, מקור חיים 45"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית יובל",
+            "street": "שטרן אברהם",
+            "number": "67"
+        },
+        "price": "1350",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית יובל, שטרן אברהם 67"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "עין כרם",
+            "street": "סמ הגבעה",
+            "number": "10"
+        },
+        "price": "4000",
+        "room_count": "1.5",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, עין כרם, סמ הגבעה 10"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "היבוק",
+            "number": "24"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, היבוק 24"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "בקעה",
+            "street": "דרך חברון",
+            "number": "80"
+        },
+        "price": "5900",
+        "room_count": "3",
+        "square_meters": "79",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, בקעה, דרך חברון 80"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מרכז העיר",
+            "street": "המלך ג’o;ורג’o;",
+            "number": "14"
+        },
+        "price": "3300",
+        "room_count": "1",
+        "square_meters": "26",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מרכז העיר, המלך ג’o;ורג’o; 14"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "פסגת זאב",
+            "street": "שד דיין משה",
+            "number": "28"
+        },
+        "price": "4900",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, פסגת זאב, שד דיין משה 28"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית יובל",
+            "street": "גולומב",
+            "number": "23"
+        },
+        "price": "3100",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית יובל, גולומב 23"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "הרובע הארמני",
+            "street": "המלאך",
+            "number": "4"
+        },
+        "price": "9500",
+        "room_count": "3",
+        "square_meters": "71",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, הרובע הארמני, המלאך 4"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "השליו",
+            "number": "411"
+        },
+        "price": "5900",
+        "room_count": "4.5",
+        "square_meters": "130",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, השליו 411"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "ארמון הנציב",
+            "street": "עולי הגרדום",
+            "number": "17"
+        },
+        "price": "4600",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, ארמון הנציב, עולי הגרדום 17"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "סנהדרייה",
+            "street": "אלעשה",
+            "number": "2"
+        },
+        "price": "7000",
+        "room_count": "2.5",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, סנהדרייה, אלעשה 2"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "בית הכרם",
+            "street": "משכן שילה",
+            "number": "16"
+        },
+        "price": "5300",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, בית הכרם, משכן שילה 16"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גבעת שאול",
+            "street": "בן ציון",
+            "number": "24"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גבעת שאול, בן ציון 24"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "עשהאל 12",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "3600",
+        "room_count": "1",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, עשהאל 12"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמונים",
+            "street": "דב הוז",
+            "number": "3"
+        },
+        "price": "7000",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמונים, דב הוז 3"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "תלפיות",
+            "street": "קורא הדורות",
+            "number": "4"
+        },
+        "price": "6200",
+        "room_count": "3",
+        "square_meters": "74",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, תלפיות, קורא הדורות 4"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "דוגה שלמה",
+            "number": "40"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "42",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, דוגה שלמה 40"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "נווה יעקב",
+            "street": "מעגלות הרב פרדס",
+            "number": "49"
+        },
+        "price": "7900",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, נווה יעקב, מעגלות הרב פרדס 49"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "בית וגן",
+            "street": "בית וגן",
+            "number": "10"
+        },
+        "price": "8250",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, בית וגן, בית וגן 10"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "בית וגן",
+            "street": "הרב עוזיאל",
+            "number": "42"
+        },
+        "price": "8500",
+        "room_count": "4",
+        "square_meters": "97",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, בית וגן, הרב עוזיאל 42"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "בית הכרם",
+            "street": "שד הרצל",
+            "number": "101"
+        },
+        "price": "8500",
+        "room_count": "3",
+        "square_meters": "92",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, בית הכרם, שד הרצל 101"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "יפה רום",
+            "number": "8"
+        },
+        "price": "2800",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, יפה רום 8"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גבעת מרדכי",
+            "street": "שח\"ל",
+            "number": "79"
+        },
+        "price": "7000",
+        "room_count": "3",
+        "square_meters": "88",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גבעת מרדכי, שח\"ל 79"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גבעת שאול",
+            "street": "ימין אבות",
+            "number": "12"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "102",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גבעת שאול, ימין אבות 12"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "בית וגן",
+            "street": "הרב עוזיאל",
+            "number": "97"
+        },
+        "price": "15000",
+        "room_count": "6",
+        "square_meters": "120",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, בית וגן, הרב עוזיאל 97"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רמות",
+            "street": "אשכולי אהרון",
+            "number": "114"
+        },
+        "price": "2500",
+        "room_count": "1",
+        "square_meters": "19",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רמות, אשכולי אהרון 114"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מרכז העיר",
+            "street": "שמאי",
+            "number": "14"
+        },
+        "price": "12000",
+        "room_count": "5",
+        "square_meters": "105",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מרכז העיר, שמאי 14"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "ביבאס",
+            "number": "11"
+        },
+        "price": "4100",
+        "room_count": "2.5",
+        "square_meters": "38",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, ביבאס 11"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "שמואל הנביא",
+            "street": "שמואל הנביא",
+            "number": "6"
+        },
+        "price": "8000",
+        "room_count": "5",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, שמואל הנביא, שמואל הנביא 6"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "פסגת זאב",
+            "street": "משטרת הישובים",
+            "number": "12"
+        },
+        "price": "3700",
+        "room_count": "2",
+        "square_meters": "42",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, פסגת זאב, משטרת הישובים 12"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מעלות דפנה",
+            "street": "שמעון הצדיק",
+            "number": "28"
+        },
+        "price": "8500",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מעלות דפנה, שמעון הצדיק 28"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמון הישנה",
+            "street": "רחל אמנו",
+            "number": "44"
+        },
+        "price": "3300",
+        "room_count": "1",
+        "square_meters": "35",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמון הישנה, רחל אמנו 44"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רמות",
+            "street": "טרומן הרי",
+            "number": "10"
+        },
+        "price": "5600",
+        "room_count": "2",
+        "square_meters": "43",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רמות, טרומן הרי 10"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית יובל",
+            "street": "שטרן אברהם",
+            "number": "49"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית יובל, שטרן אברהם 49"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "נווה יעקב",
+            "street": "הרב פניז’o;",
+            "number": "511"
+        },
+        "price": "6770",
+        "room_count": "4.5",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, נווה יעקב, הרב פניז’o; 511"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מרכז העיר",
+            "street": "המלך ג’o;ור",
+            "number": "8"
+        },
+        "price": "5500",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מרכז העיר, המלך ג’o;ור 8"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רמות",
+            "street": "טללים",
+            "number": "1"
+        },
+        "price": "100",
+        "room_count": "5",
+        "square_meters": "800",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רמות, טללים 1"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "נווה יעקב",
+            "street": "בר יקר דב",
+            "number": "8"
+        },
+        "price": "2500",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, נווה יעקב, בר יקר דב 8"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "הר נוף",
+            "street": "הקבלן",
+            "number": "25"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, הר נוף, הקבלן 25"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "בית ישראל-הבוכר",
+            "street": "אבינדב",
+            "number": "18"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, בית ישראל-הבוכר, אבינדב 18"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "עיר גנים",
+            "street": "השלכת",
+            "number": "1"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, עיר גנים, השלכת 1"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "בן אליעזר אריה",
+            "number": "37"
+        },
+        "price": "5700",
+        "room_count": "4.5",
+        "square_meters": "140",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, בן אליעזר אריה 37"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "זכרון משה",
+            "street": "ישעיהו",
+            "number": "2"
+        },
+        "price": "4200",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, זכרון משה, ישעיהו 2"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רמות",
+            "street": "שי",
+            "number": "2"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "30",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רמות, שי 2"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רמת אשכול",
+            "street": "ששת הימים",
+            "number": "5"
+        },
+        "price": "16000",
+        "room_count": "4.5",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רמת אשכול, ששת הימים 5"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "יפו",
+            "number": "101"
+        },
+        "price": "5800",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, יפו 101"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "הרב שמואל ברוך",
+            "number": "15"
+        },
+        "price": "4800",
+        "room_count": "2",
+        "square_meters": "46",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, הרב שמואל ברוך 15"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מקור ברוך",
+            "street": "יפו",
+            "number": "212"
+        },
+        "price": "2800",
+        "room_count": "1",
+        "square_meters": "40",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מקור ברוך, יפו 212"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "בית הכרם",
+            "street": "דגניה",
+            "number": "7"
+        },
+        "price": "8000",
+        "room_count": "4.5",
+        "square_meters": "94",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, בית הכרם, דגניה 7"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מקור ברוך",
+            "street": "יפו",
+            "number": "212"
+        },
+        "price": "4200",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מקור ברוך, יפו 212"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמונים",
+            "street": "נהוראי",
+            "number": "26"
+        },
+        "price": "5400",
+        "room_count": "3.5",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמונים, נהוראי 26"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מקור ברוך",
+            "street": "יפו",
+            "number": "214"
+        },
+        "price": "4600",
+        "room_count": "3.5",
+        "square_meters": "50",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מקור ברוך, יפו 214"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גבעת המבתר",
+            "street": "ששת הימים",
+            "number": "43"
+        },
+        "price": "5900",
+        "room_count": "1",
+        "square_meters": "135",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גבעת המבתר, ששת הימים 43"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מלחה",
+            "street": "הנמר",
+            "number": "4"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "30",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מלחה, הנמר 4"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית משה",
+            "street": "שד המאירי",
+            "number": "3"
+        },
+        "price": "8500",
+        "room_count": "4",
+        "square_meters": "85",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית משה, שד המאירי 3"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "הרב יצחק אורנשט",
+            "number": "3"
+        },
+        "price": "14900",
+        "room_count": "5",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, הרב יצחק אורנשט 3"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מקור חיים",
+            "street": "מקור חיים",
+            "number": "62"
+        },
+        "price": "5500",
+        "room_count": "2",
+        "square_meters": "47",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מקור חיים, מקור חיים 62"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מרכז העיר",
+            "street": "מונבז",
+            "number": "3"
+        },
+        "price": "7200",
+        "room_count": "2",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מרכז העיר, מונבז 3"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית יובל",
+            "street": "קלנר אריה",
+            "number": "100"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית יובל, קלנר אריה 100"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית יובל",
+            "street": "שטרן אברהם",
+            "number": "31"
+        },
+        "price": "3700",
+        "room_count": "2",
+        "square_meters": "42",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית יובל, שטרן אברהם 31"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "תלפיות",
+            "street": "דרך בית לחם",
+            "number": "93"
+        },
+        "price": "9000",
+        "room_count": "5",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, תלפיות, דרך בית לחם 93"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "פסגת זאב",
+            "street": "גרשון מאיר",
+            "number": "43"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "95",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, פסגת זאב, גרשון מאיר 43"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מרכז העיר",
+            "street": "הלל",
+            "number": "4"
+        },
+        "price": "3800",
+        "room_count": "2.5",
+        "square_meters": "71",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מרכז העיר, הלל 4"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "בית וגן",
+            "street": "שח\"ל",
+            "number": "83"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, בית וגן, שח\"ל 83"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "אוריאלי זכריהו 2",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "5200",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, אוריאלי זכריהו 2"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "אגריפס",
+            "number": "40"
+        },
+        "price": "4500",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, אגריפס 40"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רוממה",
+            "street": "רוממה",
+            "number": "1"
+        },
+        "price": "2600",
+        "room_count": "1",
+        "square_meters": "20",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רוממה, רוממה 1"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "ארמון הנציב",
+            "street": "המחתרות",
+            "number": "341"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, ארמון הנציב, המחתרות 341"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "בראשי זלמן",
+            "number": "26"
+        },
+        "price": "3950",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, בראשי זלמן 26"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "נחלאות",
+            "street": "צפורי",
+            "number": "21"
+        },
+        "price": "2300",
+        "room_count": "1",
+        "square_meters": "12",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, נחלאות, צפורי 21"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "דוגה שלמה",
+            "number": "25"
+        },
+        "price": "4400",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, דוגה שלמה 25"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "האחות יהודית",
+            "number": "236"
+        },
+        "price": "4100",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, האחות יהודית 236"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמונים",
+            "street": "אלמליח אברהם",
+            "number": "145"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמונים, אלמליח אברהם 145"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גבעת משואה",
+            "street": "האחות זלמה",
+            "number": "24"
+        },
+        "price": "6400",
+        "room_count": "3",
+        "square_meters": "78",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גבעת משואה, האחות זלמה 24"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "פסגת זאב",
+            "street": "הניידות",
+            "number": "38"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, פסגת זאב, הניידות 38"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית יובל",
+            "street": "סולד הנריטה",
+            "number": "5"
+        },
+        "price": "3200",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "16",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית יובל, סולד הנריטה 5"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמונים",
+            "street": "יוחנן בן זכאי",
+            "number": "68"
+        },
+        "price": "5700",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמונים, יוחנן בן זכאי 68"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "צרויה 4",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "10000",
+        "room_count": "4",
+        "square_meters": "105",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, צרויה 4"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "פסגת זאב",
+            "street": "רחמילביץ משה",
+            "number": "88"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, פסגת זאב, רחמילביץ משה 88"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מרכז העיר",
+            "street": "בן יהודה",
+            "number": "22"
+        },
+        "price": "9500",
+        "room_count": "4",
+        "square_meters": "1",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מרכז העיר, בן יהודה 22"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גבעת מרדכי",
+            "street": "מן",
+            "number": "3"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גבעת מרדכי, מן 3"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "ארמון הנציב",
+            "street": "עולי הגרדום",
+            "number": "115"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, ארמון הנציב, עולי הגרדום 115"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמונים",
+            "street": "בר יוחאי",
+            "number": "4"
+        },
+        "price": "4200",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמונים, בר יוחאי 4"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית משה",
+            "street": "ניסנבאום",
+            "number": "13"
+        },
+        "price": "5500",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית משה, ניסנבאום 13"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "שמואל הנביא",
+            "street": "עץ הדר",
+            "number": "7"
+        },
+        "price": "6500",
+        "room_count": "3.5",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, שמואל הנביא, עץ הדר 7"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "פסגת זאב",
+            "street": "הסיירת הירושלמי",
+            "number": "7"
+        },
+        "price": "3400",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, פסגת זאב, הסיירת הירושלמי 7"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "אילת",
+            "number": "11"
+        },
+        "price": "4900",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, אילת 11"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית הלאום",
+            "street": "הנשיא השישי",
+            "number": "22"
+        },
+        "price": "8700",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית הלאום, הנשיא השישי 22"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית יובל",
+            "street": "חביב חיים",
+            "number": "1"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית יובל, חביב חיים 1"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "אפרסמון",
+            "number": "7"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, אפרסמון 7"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קריית מנחם",
+            "street": "איסלנד",
+            "number": "7"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קריית מנחם, איסלנד 7"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "ארמון הנציב",
+            "street": "ברזני משה",
+            "number": "2"
+        },
+        "price": "2800",
+        "room_count": "1",
+        "square_meters": "30",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, ארמון הנציב, ברזני משה 2"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "חנניה 3",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "5600",
+        "room_count": "2.5",
+        "square_meters": "51",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, חנניה 3"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מלחה",
+            "street": "חכם אברהם",
+            "number": "3"
+        },
+        "price": "3200",
+        "room_count": "2",
+        "square_meters": "30",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מלחה, חכם אברהם 3"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "טלביה",
+            "street": "לינקולן",
+            "number": "9"
+        },
+        "price": "9200",
+        "room_count": "3",
+        "square_meters": "78",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, טלביה, לינקולן 9"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "בכר נסים",
+            "number": "5"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, בכר נסים 5"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "קטמונים",
+            "street": "טוביה",
+            "number": "2"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "30",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, קטמונים, טוביה 2"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מקור ברוך",
+            "street": "הטורים",
+            "number": "5"
+        },
+        "price": "3700",
+        "room_count": "1.5",
+        "square_meters": "28",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מקור ברוך, הטורים 5"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "גילה",
+            "street": "האחות יהודית",
+            "number": "237"
+        },
+        "price": "4300",
+        "room_count": "3.5",
+        "square_meters": "73",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, גילה, האחות יהודית 237"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מחנה יהודה",
+            "street": "בכר נסים",
+            "number": "5"
+        },
+        "price": "4500",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מחנה יהודה, בכר נסים 5"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "בית הכרם",
+            "street": "התומר",
+            "number": "4"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "78",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, בית הכרם, התומר 4"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "מוסררה",
+            "street": "דניאל",
+            "number": "16"
+        },
+        "price": "8150",
+        "room_count": "3.5",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, מוסררה, דניאל 16"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "הגבעה הצרפתית",
+            "street": "אצ\"ל",
+            "number": "14"
+        },
+        "price": "6200",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, הגבעה הצרפתית, אצ\"ל 14"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "תלפיות",
+            "street": "דרך חברון",
+            "number": "111"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, תלפיות, דרך חברון 111"
+    },
+    {
+        "location": {
+            "city": "ירושלים",
+            "area": "רמות",
+            "street": "קרניבד רפאל",
+            "number": "1"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "95",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ירושלים, רמות, קרניבד רפאל 1"
+    }
+]

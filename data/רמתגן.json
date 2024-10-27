@@ -1,0 +1,2802 @@
+[
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נחלת גנים",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נחלת גנים"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת יצחק",
+            "street": "עוזיאל פינת לוחמי סיני",
+            "number": "N/A"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "95",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת יצחק, עוזיאל פינת לוחמי סיני"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת עמידר",
+            "street": "הרב לנדרס",
+            "number": "5"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת עמידר, הרב לנדרס 5"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת עמידר",
+            "street": "דרך התפוצות",
+            "number": "N/A"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "258",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת עמידר, דרך התפוצות"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרכז העיר",
+            "street": "המעגל",
+            "number": "N/A"
+        },
+        "price": "8500",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרכז העיר, המעגל"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "5000",
+        "room_count": "2",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרום נווה",
+            "street": "הרכסים",
+            "number": "56"
+        },
+        "price": "5400",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרום נווה, הרכסים 56"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרכז העיר",
+            "street": "הפודים",
+            "number": "50"
+        },
+        "price": "8800",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרכז העיר, הפודים 50"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "עוזיאל",
+            "number": "99"
+        },
+        "price": "5100",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, עוזיאל 99"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרום נווה",
+            "street": "הירדן",
+            "number": "3"
+        },
+        "price": "4900",
+        "room_count": "2",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרום נווה, הירדן 3"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרכז העיר",
+            "street": "ביאליק",
+            "number": "14"
+        },
+        "price": "5800",
+        "room_count": "2.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרכז העיר, ביאליק 14"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרכז העיר",
+            "street": "קריניצי",
+            "number": "N/A"
+        },
+        "price": "5900",
+        "room_count": "3.5",
+        "square_meters": "78",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרכז העיר, קריניצי"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת עמידר",
+            "street": "מבצע עין",
+            "number": "12"
+        },
+        "price": "2900",
+        "room_count": "1",
+        "square_meters": "30",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת עמידר, מבצע עין 12"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרכז העיר",
+            "street": "ביאליק",
+            "number": "14"
+        },
+        "price": "5800",
+        "room_count": "2.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרכז העיר, ביאליק 14"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרום נווה",
+            "street": "תרצה",
+            "number": "32"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרום נווה, תרצה 32"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נווה רם שיכון מזרחי",
+            "street": "פנקס",
+            "number": "3"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "61",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נווה רם שיכון מזרחי, פנקס 3"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "הרא\"ה",
+            "number": "221"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, הרא\"ה 221"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרום נווה",
+            "street": "לנדאו חיים",
+            "number": "7"
+        },
+        "price": "7800",
+        "room_count": "4.5",
+        "square_meters": "120",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרום נווה, לנדאו חיים 7"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הלל",
+            "street": "יהודה הנשיא",
+            "number": "9"
+        },
+        "price": "5800",
+        "room_count": "5",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הלל, יהודה הנשיא 9"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יד לבנים",
+            "street": "צל הגבעה",
+            "number": "16"
+        },
+        "price": "5500",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יד לבנים, צל הגבעה 16"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יהלום",
+            "street": "הזיתים",
+            "number": "N/A"
+        },
+        "price": "6300",
+        "room_count": "3.5",
+        "square_meters": "68",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יהלום, הזיתים"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרום נווה",
+            "street": "אמנון ותמר",
+            "number": "27"
+        },
+        "price": "5000",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרום נווה, אמנון ותמר 27"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת עמידר",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "2800",
+        "room_count": "N/A",
+        "square_meters": "30",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת עמידר"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "הרא\"ה",
+            "number": "221"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, הרא\"ה 221"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרום נווה",
+            "street": "לנדאו חיים",
+            "number": "7"
+        },
+        "price": "7800",
+        "room_count": "4.5",
+        "square_meters": "120",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרום נווה, לנדאו חיים 7"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "נחלה",
+            "number": "6"
+        },
+        "price": "5300",
+        "room_count": "3",
+        "square_meters": "82",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, נחלה 6"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת השקמה",
+            "street": "שלום עליכם",
+            "number": "8"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת השקמה, שלום עליכם 8"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יד לבנים",
+            "street": "עוזיאל",
+            "number": "54"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יד לבנים, עוזיאל 54"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "שד ירושלים",
+            "number": "71"
+        },
+        "price": "6200",
+        "room_count": "2",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, שד ירושלים 71"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הראשונים",
+            "street": "המעיין",
+            "number": "3"
+        },
+        "price": "9500",
+        "room_count": "3",
+        "square_meters": "102",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הראשונים, המעיין 3"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת חן",
+            "street": "רמת חן",
+            "number": "43"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת חן, רמת חן 43"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "מבוא זאב",
+            "number": "9"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "73",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, מבוא זאב 9"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרום נווה",
+            "street": "הרא\"ה",
+            "number": "167"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרום נווה, הרא\"ה 167"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "איתן יונה",
+            "number": "26"
+        },
+        "price": "5700",
+        "room_count": "3.5",
+        "square_meters": "105",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, איתן יונה 26"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חשמונאים",
+            "street": "מעלה הצבי",
+            "number": "6"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חשמונאים, מעלה הצבי 6"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרום נווה",
+            "street": "תרצה",
+            "number": "28"
+        },
+        "price": "8000",
+        "room_count": "4",
+        "square_meters": "135",
+        "floor": "10",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרום נווה, תרצה 28"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "הרא\"ה",
+            "number": "222"
+        },
+        "price": "8500",
+        "room_count": "5",
+        "square_meters": "130",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, הרא\"ה 222"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חרוזים",
+            "street": "איתמר",
+            "number": "8"
+        },
+        "price": "12000",
+        "room_count": "3",
+        "square_meters": "114",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חרוזים, איתמר 8"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נווה רם שיכון מ",
+            "street": "גרשום",
+            "number": "4"
+        },
+        "price": "4700",
+        "room_count": "4",
+        "square_meters": "78",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נווה רם שיכון מ, גרשום 4"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "שרת משה",
+            "number": "7"
+        },
+        "price": "6900",
+        "room_count": "4",
+        "square_meters": "126",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, שרת משה 7"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הראשונים",
+            "street": "המתמיד",
+            "number": "19"
+        },
+        "price": "8000",
+        "room_count": "3",
+        "square_meters": "87",
+        "floor": "15",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הראשונים, המתמיד 19"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "קריית בורוכוב",
+            "street": "כנפי נשרים",
+            "number": "38"
+        },
+        "price": "4300",
+        "room_count": "2",
+        "square_meters": "42",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, קריית בורוכוב, כנפי נשרים 38"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יהלום",
+            "street": "קריניצי",
+            "number": "14"
+        },
+        "price": "5150",
+        "room_count": "2.5",
+        "square_meters": "68",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יהלום, קריניצי 14"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נחלת גנים",
+            "street": "הפודים",
+            "number": "21"
+        },
+        "price": "5350",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נחלת גנים, הפודים 21"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת עמידר",
+            "street": "הגולן",
+            "number": "7"
+        },
+        "price": "3000",
+        "room_count": "1",
+        "square_meters": "24",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת עמידר, הגולן 7"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "שד ירושלים",
+            "number": "71"
+        },
+        "price": "6200",
+        "room_count": "2",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, שד ירושלים 71"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "אבטליון",
+            "number": "8"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, אבטליון 8"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חרוזים",
+            "street": "דרך אבא הלל",
+            "number": "51"
+        },
+        "price": "2900",
+        "room_count": "4",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חרוזים, דרך אבא הלל 51"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יהלום",
+            "street": "ביאליק",
+            "number": "8"
+        },
+        "price": "6800",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יהלום, ביאליק 8"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יד לבנים",
+            "street": "דרך בן גוריון ד",
+            "number": "167"
+        },
+        "price": "5000",
+        "room_count": "2.5",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יד לבנים, דרך בן גוריון ד 167"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חשמונאים",
+            "street": "ביאליק",
+            "number": "65"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "85",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חשמונאים, ביאליק 65"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "הרצל",
+            "number": "59"
+        },
+        "price": "5900",
+        "room_count": "3",
+        "square_meters": "92",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, הרצל 59"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת עמידר",
+            "street": "דרך התפוצות",
+            "number": "50"
+        },
+        "price": "3700",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת עמידר, דרך התפוצות 50"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הבילויים",
+            "street": "הבילויים",
+            "number": "37"
+        },
+        "price": "6000",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הבילויים, הבילויים 37"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרום נווה",
+            "street": "שד ירושלים",
+            "number": "72"
+        },
+        "price": "6000",
+        "room_count": "2.5",
+        "square_meters": "95",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרום נווה, שד ירושלים 72"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת עמידר",
+            "street": "בן אליעזר אריה",
+            "number": "31"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת עמידר, בן אליעזר אריה 31"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יד לבנים",
+            "street": "עוזיאל",
+            "number": "21"
+        },
+        "price": "5800",
+        "room_count": "3",
+        "square_meters": "87",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יד לבנים, עוזיאל 21"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרום נווה",
+            "street": "אמנון ותמר",
+            "number": "27"
+        },
+        "price": "5000",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרום נווה, אמנון ותמר 27"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נחלת גנים",
+            "street": "המבדיל",
+            "number": "14"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נחלת גנים, המבדיל 14"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יד לבנים",
+            "street": "עציון",
+            "number": "5"
+        },
+        "price": "7200",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יד לבנים, עציון 5"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "תל בנימין",
+            "street": "ביאליק",
+            "number": "83"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, תל בנימין, ביאליק 83"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "יוסף הגלילי",
+            "number": "9"
+        },
+        "price": "3980",
+        "room_count": "2",
+        "square_meters": "30",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, יוסף הגלילי 9"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יהלום",
+            "street": "האש\"ל",
+            "number": "22"
+        },
+        "price": "7000",
+        "room_count": "4",
+        "square_meters": "94",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יהלום, האש\"ל 22"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חרוזים",
+            "street": "ביאליק",
+            "number": "107"
+        },
+        "price": "3500",
+        "room_count": "1",
+        "square_meters": "28",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חרוזים, ביאליק 107"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הלל",
+            "street": "הרא\"ה",
+            "number": "N/A"
+        },
+        "price": "5400",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הלל, הרא\"ה"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חרוזים",
+            "street": "ביאליק",
+            "number": "109"
+        },
+        "price": "4700",
+        "room_count": "2",
+        "square_meters": "42",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חרוזים, ביאליק 109"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "חד נס",
+            "number": "31"
+        },
+        "price": "7000",
+        "room_count": "3.5",
+        "square_meters": "200",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, חד נס 31"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נווה יהושע",
+            "street": "הכבאים",
+            "number": "2"
+        },
+        "price": "6720",
+        "room_count": "5",
+        "square_meters": "130",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נווה יהושע, הכבאים 2"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "חד נס",
+            "number": "31"
+        },
+        "price": "7000",
+        "room_count": "3.5",
+        "square_meters": "200",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, חד נס 31"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חשמונאים",
+            "street": "המעגל",
+            "number": "35"
+        },
+        "price": "5650",
+        "room_count": "3",
+        "square_meters": "73",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חשמונאים, המעגל 35"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הבילויים",
+            "street": "הירדן",
+            "number": "98"
+        },
+        "price": "2500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הבילויים, הירדן 98"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נווה יהושע",
+            "street": "הכבאים",
+            "number": "2"
+        },
+        "price": "2000",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נווה יהושע, הכבאים 2"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "תל גנים",
+            "street": "שד התמרים",
+            "number": "2"
+        },
+        "price": "400",
+        "room_count": "N/A",
+        "square_meters": "17",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, תל גנים, שד התמרים 2"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "שיכון הותיקים",
+            "street": "רוקח",
+            "number": "N/A"
+        },
+        "price": "",
+        "room_count": "N/A",
+        "square_meters": "10",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, שיכון הותיקים, רוקח"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נווה יהושע",
+            "street": "האם",
+            "number": "47"
+        },
+        "price": "2700",
+        "room_count": "1",
+        "square_meters": "17",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נווה יהושע, האם 47"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יהלום",
+            "street": "ביאליק",
+            "number": "14"
+        },
+        "price": "5800",
+        "room_count": "2.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יהלום, ביאליק 14"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת יצחק",
+            "street": "ברקאי",
+            "number": "23"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת יצחק, ברקאי 23"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חשמונאים",
+            "street": "המעגל",
+            "number": "35"
+        },
+        "price": "5650",
+        "room_count": "3",
+        "square_meters": "73",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חשמונאים, המעגל 35"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נווה יהושע",
+            "street": "האם",
+            "number": "47"
+        },
+        "price": "3000",
+        "room_count": "1",
+        "square_meters": "16",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נווה יהושע, האם 47"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "הראובני",
+            "number": "7"
+        },
+        "price": "8200",
+        "room_count": "4",
+        "square_meters": "105",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, הראובני 7"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "הראובני",
+            "number": "7"
+        },
+        "price": "8200",
+        "room_count": "4",
+        "square_meters": "105",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, הראובני 7"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הבילויים",
+            "street": "הרא\"ה",
+            "number": "270"
+        },
+        "price": "3700",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הבילויים, הרא\"ה 270"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חרוזים",
+            "street": "ביאליק",
+            "number": "107"
+        },
+        "price": "3500",
+        "room_count": "1",
+        "square_meters": "28",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חרוזים, ביאליק 107"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "הרא\"ה",
+            "number": "117"
+        },
+        "price": "6700",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, הרא\"ה 117"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "אבטליון",
+            "number": "14"
+        },
+        "price": "6400",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, אבטליון 14"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "הרא\"ה",
+            "number": "125"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "26",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, הרא\"ה 125"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נווה יהושע",
+            "street": "נווה יהושע",
+            "number": "43"
+        },
+        "price": "3900",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נווה יהושע, נווה יהושע 43"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חרוזים",
+            "street": "ביאליק",
+            "number": "109"
+        },
+        "price": "4700",
+        "room_count": "2",
+        "square_meters": "42",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חרוזים, ביאליק 109"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "הרצל",
+            "number": "59"
+        },
+        "price": "5900",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, הרצל 59"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "תל יהודה",
+            "street": "אהוד",
+            "number": "14"
+        },
+        "price": "5800",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, תל יהודה, אהוד 14"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חשמונאים",
+            "street": "המעגל",
+            "number": "35"
+        },
+        "price": "5650",
+        "room_count": "3",
+        "square_meters": "73",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חשמונאים, המעגל 35"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "גפן",
+            "street": "ז’o;בוטינסקי",
+            "number": "61"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "28",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, גפן, ז’o;בוטינסקי 61"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "קריניצי",
+            "number": "109"
+        },
+        "price": "4200",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, קריניצי 109"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרום נווה",
+            "street": "רימלט אלימלך",
+            "number": "8"
+        },
+        "price": "8500",
+        "room_count": "4",
+        "square_meters": "142",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרום נווה, רימלט אלימלך 8"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "יונה",
+            "number": "26"
+        },
+        "price": "5600",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, יונה 26"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת עמידר",
+            "street": "עולי הגרדום",
+            "number": "2"
+        },
+        "price": "1800",
+        "room_count": "4",
+        "square_meters": "140",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת עמידר, עולי הגרדום 2"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "הירדן",
+            "number": "4"
+        },
+        "price": "2100",
+        "room_count": "4",
+        "square_meters": "101",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, הירדן 4"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "תל יהודה",
+            "street": "עוזיאל",
+            "number": "79"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, תל יהודה, עוזיאל 79"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "גפן",
+            "street": "ז’o;בוטינסקי",
+            "number": "105"
+        },
+        "price": "10800",
+        "room_count": "4.5",
+        "square_meters": "128",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, גפן, ז’o;בוטינסקי 105"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "חד נס",
+            "number": "31"
+        },
+        "price": "7000",
+        "room_count": "3.5",
+        "square_meters": "200",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, חד נס 31"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יהלום",
+            "street": "דרך בן גוריון ד",
+            "number": "132"
+        },
+        "price": "6300",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יהלום, דרך בן גוריון ד 132"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "הרא\"ה",
+            "number": "255"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, הרא\"ה 255"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הראשונים",
+            "street": "המתמיד",
+            "number": "23"
+        },
+        "price": "8750",
+        "room_count": "4",
+        "square_meters": "92",
+        "floor": "10",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הראשונים, המתמיד 23"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "שיכון הותיקים",
+            "street": "הזמיר",
+            "number": "9"
+        },
+        "price": "9300",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, שיכון הותיקים, הזמיר 9"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נווה רם שיכון מ",
+            "street": "באר אורה",
+            "number": "6"
+        },
+        "price": "5600",
+        "room_count": "3.5",
+        "square_meters": "78",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נווה רם שיכון מ, באר אורה 6"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "גפן",
+            "street": "תלפיות",
+            "number": "33"
+        },
+        "price": "6400",
+        "room_count": "4",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, גפן, תלפיות 33"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "מבוא יהל\"ם",
+            "number": "3"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "78",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, מבוא יהל\"ם 3"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יד לבנים",
+            "street": "הרא\"ה",
+            "number": "126"
+        },
+        "price": "3700",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יד לבנים, הרא\"ה 126"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יהלום",
+            "street": "הרא\"ה",
+            "number": "18"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יהלום, הרא\"ה 18"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "יהודה הנשיא",
+            "number": "6"
+        },
+        "price": "4500",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, יהודה הנשיא 6"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הבילויים",
+            "street": "דיין משה",
+            "number": "37"
+        },
+        "price": "5000",
+        "room_count": "3.5",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הבילויים, דיין משה 37"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חשמונאים",
+            "street": "ארלוזורוב",
+            "number": "48"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חשמונאים, ארלוזורוב 48"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "אל על",
+            "number": "8"
+        },
+        "price": "1999",
+        "room_count": "1",
+        "square_meters": "10",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, אל על 8"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "תל יהודה",
+            "street": "עוזיאל",
+            "number": "79"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, תל יהודה, עוזיאל 79"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "גבעת גאולה",
+            "street": "גבעת גאולה",
+            "number": "16"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, גבעת גאולה, גבעת גאולה 16"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "גפן",
+            "street": "רוקח",
+            "number": "21"
+        },
+        "price": "5900",
+        "room_count": "2.5",
+        "square_meters": "62",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, גפן, רוקח 21"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נחלת גנים",
+            "street": "הפודים",
+            "number": "20"
+        },
+        "price": "4500",
+        "room_count": "1.5",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נחלת גנים, הפודים 20"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרום נווה",
+            "street": "תרצה",
+            "number": "5"
+        },
+        "price": "2350",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרום נווה, תרצה 5"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יד לבנים",
+            "street": "לוחמי סיני",
+            "number": "12"
+        },
+        "price": "5800",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יד לבנים, לוחמי סיני 12"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יהלום",
+            "street": "דרך בן גוריון ד",
+            "number": "120"
+        },
+        "price": "3200",
+        "room_count": "1",
+        "square_meters": "30",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יהלום, דרך בן גוריון ד 120"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת השקמה",
+            "street": "אחד העם",
+            "number": "16"
+        },
+        "price": "9500",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת השקמה, אחד העם 16"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יד לבנים",
+            "street": "חיבת ציון",
+            "number": "32"
+        },
+        "price": "3950",
+        "room_count": "1.5",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יד לבנים, חיבת ציון 32"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יהלום",
+            "street": "הזיתים",
+            "number": "10"
+        },
+        "price": "6300",
+        "room_count": "3",
+        "square_meters": "68",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יהלום, הזיתים 10"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נווה רם שיכון מ",
+            "street": "הראב\"ע",
+            "number": "4"
+        },
+        "price": "3075",
+        "room_count": "1.5",
+        "square_meters": "37",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נווה רם שיכון מ, הראב\"ע 4"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "האגדה",
+            "number": "10"
+        },
+        "price": "4000",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, האגדה 10"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נווה יהושע",
+            "street": "בן אליעזר אריה",
+            "number": "56"
+        },
+        "price": "5600",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "10",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נווה יהושע, בן אליעזר אריה 56"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נחלת גנים",
+            "street": "דרך אבא הלל",
+            "number": "126"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נחלת גנים, דרך אבא הלל 126"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "ברקאי",
+            "number": "9"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, ברקאי 9"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרום נווה",
+            "street": "אמנון ותמר",
+            "number": "11"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "101",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרום נווה, אמנון ותמר 11"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חשמונאים",
+            "street": "לאן",
+            "number": "37"
+        },
+        "price": "8000",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חשמונאים, לאן 37"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הבילויים",
+            "street": "אבא ברדיצ’o",
+            "number": "9"
+        },
+        "price": "3500",
+        "room_count": "1.5",
+        "square_meters": "38",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הבילויים, אבא ברדיצ’o 9"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "שד התמרים",
+            "number": "16"
+        },
+        "price": "4800",
+        "room_count": "2",
+        "square_meters": "62",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, שד התמרים 16"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "בעל שם טוב",
+            "number": "8"
+        },
+        "price": "8500",
+        "room_count": "5",
+        "square_meters": "160",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, בעל שם טוב 8"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יהלום",
+            "street": "נחלת יוסף",
+            "number": "8"
+        },
+        "price": "6500",
+        "room_count": "3.5",
+        "square_meters": "110",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יהלום, נחלת יוסף 8"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת עמידר",
+            "street": "מבצע עין",
+            "number": "3"
+        },
+        "price": "5800",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת עמידר, מבצע עין 3"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "מרום נווה",
+            "street": "שד ירושלים",
+            "number": "93"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, מרום נווה, שד ירושלים 93"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חשמונאים",
+            "street": "לאן",
+            "number": "37"
+        },
+        "price": "2100",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חשמונאים, לאן 37"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "גפן",
+            "street": "דרך אבא הלל",
+            "number": "78"
+        },
+        "price": "6500",
+        "room_count": "3.5",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, גפן, דרך אבא הלל 78"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "תל בנימין",
+            "street": "בנימין",
+            "number": "2"
+        },
+        "price": "7900",
+        "room_count": "4.5",
+        "square_meters": "124",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, תל בנימין, בנימין 2"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "ברקאי",
+            "number": "18"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, ברקאי 18"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "ברקאי",
+            "number": "18"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, ברקאי 18"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת השקמה",
+            "street": "אחד העם",
+            "number": "16"
+        },
+        "price": "9500",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת השקמה, אחד העם 16"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נווה יהושע",
+            "street": "עליה ראשונה",
+            "number": "3"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נווה יהושע, עליה ראשונה 3"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "תל יהודה",
+            "street": "חורגין",
+            "number": "3"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, תל יהודה, חורגין 3"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת עמידר",
+            "street": "הרב לוין",
+            "number": "6"
+        },
+        "price": "5200",
+        "room_count": "4",
+        "square_meters": "95",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת עמידר, הרב לוין 6"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "יוסף הגלילי",
+            "number": "9"
+        },
+        "price": "4850",
+        "room_count": "2.5",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, יוסף הגלילי 9"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "שד הגבורים",
+            "number": "5"
+        },
+        "price": "2400",
+        "room_count": "1",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, שד הגבורים 5"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חשמונאים",
+            "street": "מרים",
+            "number": "7"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חשמונאים, מרים 7"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת עמידר",
+            "street": "הגולן",
+            "number": "7"
+        },
+        "price": "2700",
+        "room_count": "2",
+        "square_meters": "25",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת עמידר, הגולן 7"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חרוזים",
+            "street": "איתמר",
+            "number": "4"
+        },
+        "price": "5500",
+        "room_count": "1",
+        "square_meters": "30",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חרוזים, איתמר 4"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "מגדים",
+            "number": "10"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, מגדים 10"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הראשונים",
+            "street": "המתמיד",
+            "number": "30"
+        },
+        "price": "5200",
+        "room_count": "2.5",
+        "square_meters": "N/A",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הראשונים, המתמיד 30"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "יהודה הנשיא",
+            "number": "10"
+        },
+        "price": "5400",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, יהודה הנשיא 10"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת עמידר",
+            "street": "ההגנה כפר אז&qu",
+            "number": "23"
+        },
+        "price": "2800",
+        "room_count": "1.5",
+        "square_meters": "25",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת עמידר, ההגנה כפר אז&qu 23"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "הראובני",
+            "number": "5"
+        },
+        "price": "8100",
+        "room_count": "4",
+        "square_meters": "107",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, הראובני 5"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת השקמה",
+            "street": "בן יוסף",
+            "number": "12"
+        },
+        "price": "6900",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת השקמה, בן יוסף 12"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת השקמה",
+            "street": "בן יוסף",
+            "number": "16"
+        },
+        "price": "7200",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת השקמה, בן יוסף 16"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "בעל שם טוב",
+            "number": "8"
+        },
+        "price": "8500",
+        "room_count": "5",
+        "square_meters": "160",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, בעל שם טוב 8"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת עמידר",
+            "street": "הרב לנדרס",
+            "number": "5"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת עמידר, הרב לנדרס 5"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "תל בנימין",
+            "street": "ז’o;בוטינסק",
+            "number": "41"
+        },
+        "price": "5600",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, תל בנימין, ז’o;בוטינסק 41"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הראשונים",
+            "street": "ז’o;בוטינסק",
+            "number": "16"
+        },
+        "price": "7400",
+        "room_count": "3",
+        "square_meters": "78",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הראשונים, ז’o;בוטינסק 16"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "תל יהודה",
+            "street": "עטרות",
+            "number": "6"
+        },
+        "price": "7200",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, תל יהודה, עטרות 6"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "דרך נגבה",
+            "number": "16"
+        },
+        "price": "4990",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, דרך נגבה 16"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "אלימלך",
+            "number": "4"
+        },
+        "price": "3950",
+        "room_count": "2.5",
+        "square_meters": "42",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, אלימלך 4"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חשמונאים",
+            "street": "יוחנן",
+            "number": "7"
+        },
+        "price": "6200",
+        "room_count": "3.5",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חשמונאים, יוחנן 7"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "גפן",
+            "street": "ביאליק",
+            "number": "108"
+        },
+        "price": "7300",
+        "room_count": "4",
+        "square_meters": "78",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, גפן, ביאליק 108"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "מגדים",
+            "number": "10"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, מגדים 10"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נווה יהושע",
+            "street": "מחניים",
+            "number": "12"
+        },
+        "price": "6500",
+        "room_count": "5",
+        "square_meters": "200",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נווה יהושע, מחניים 12"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יהלום",
+            "street": "האש\"ל",
+            "number": "19"
+        },
+        "price": "9200",
+        "room_count": "5",
+        "square_meters": "118",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יהלום, האש\"ל 19"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נגבה",
+            "street": "יעל הגבורה",
+            "number": "6"
+        },
+        "price": "5500",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נגבה, יעל הגבורה 6"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת עמידר",
+            "street": "ההגנה כפר אז&qu",
+            "number": "23"
+        },
+        "price": "2800",
+        "room_count": "1.5",
+        "square_meters": "25",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת עמידר, ההגנה כפר אז&qu 23"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חשמונאים",
+            "street": "מרים",
+            "number": "9"
+        },
+        "price": "4300",
+        "room_count": "1.5",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חשמונאים, מרים 9"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "תל יהודה",
+            "street": "בר כוכבא",
+            "number": "4"
+        },
+        "price": "5200",
+        "room_count": "2.5",
+        "square_meters": "64",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, תל יהודה, בר כוכבא 4"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "שיכון הותיקים",
+            "street": "רוקח",
+            "number": "112"
+        },
+        "price": "2000",
+        "room_count": "1",
+        "square_meters": "120",
+        "floor": "10",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, שיכון הותיקים, רוקח 112"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הראשונים",
+            "street": "המעיין",
+            "number": "10"
+        },
+        "price": "3500",
+        "room_count": "1",
+        "square_meters": "35",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הראשונים, המעיין 10"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הבילויים",
+            "street": "עלומים",
+            "number": "27"
+        },
+        "price": "2600",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הבילויים, עלומים 27"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יד לבנים",
+            "street": "עוזיאל",
+            "number": "40"
+        },
+        "price": "5400",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יד לבנים, עוזיאל 40"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הלל",
+            "street": "בית הלל",
+            "number": "16"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "66",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הלל, בית הלל 16"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "יהודה הנשיא",
+            "number": "3"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, יהודה הנשיא 3"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נווה יהושע",
+            "street": "הררי",
+            "number": "20"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נווה יהושע, הררי 20"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "הרא\"ה",
+            "number": "45"
+        },
+        "price": "4200",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, הרא\"ה 45"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יהלום",
+            "street": "דרך בן גוריון דוד",
+            "number": "132"
+        },
+        "price": "6300",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יהלום, דרך בן גוריון דוד 132"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יהלום",
+            "street": "דרך בן גוריון דוד",
+            "number": "132"
+        },
+        "price": "6300",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יהלום, דרך בן גוריון דוד 132"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "הרא\"ה",
+            "number": "117"
+        },
+        "price": "6700",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, הרא\"ה 117"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "רמת השקמה",
+            "street": "בן יוסף",
+            "number": "12"
+        },
+        "price": "6250",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, רמת השקמה, בן יוסף 12"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "עליות",
+            "street": "הרא\"ה",
+            "number": "121"
+        },
+        "price": "4800",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, עליות, הרא\"ה 121"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "הגת",
+            "number": "19"
+        },
+        "price": "4850",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, הגת 19"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הבילויים",
+            "street": "עלומים",
+            "number": "27"
+        },
+        "price": "9000",
+        "room_count": "4",
+        "square_meters": "98",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הבילויים, עלומים 27"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הראשונים",
+            "street": "המתמיד",
+            "number": "23"
+        },
+        "price": "8500",
+        "room_count": "4",
+        "square_meters": "104",
+        "floor": "17",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הראשונים, המתמיד 23"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "תל יהודה",
+            "street": "עוזיאל",
+            "number": "79"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, תל יהודה, עוזיאל 79"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חשמונאים",
+            "street": "נורדאו",
+            "number": "3"
+        },
+        "price": "4000",
+        "room_count": "1.5",
+        "square_meters": "45",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חשמונאים, נורדאו 3"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "יוסף הגלילי",
+            "number": "22"
+        },
+        "price": "9600",
+        "room_count": "4",
+        "square_meters": "109",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, יוסף הגלילי 22"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הראשונים",
+            "street": "המתמיד",
+            "number": "1"
+        },
+        "price": "7600",
+        "room_count": "3.5",
+        "square_meters": "81",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הראשונים, המתמיד 1"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "שיכון הבורסה",
+            "street": "דרך בגין מנחם",
+            "number": "3"
+        },
+        "price": "6000",
+        "room_count": "2",
+        "square_meters": "47",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, שיכון הבורסה, דרך בגין מנחם 3"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "יהלום",
+            "street": "הרא\"ה",
+            "number": "18"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, יהלום, הרא\"ה 18"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "הבילויים",
+            "street": "לב הזהב",
+            "number": "23"
+        },
+        "price": "2500",
+        "room_count": "2",
+        "square_meters": "155",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, הבילויים, לב הזהב 23"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "תל יהודה",
+            "street": "עוזיאל",
+            "number": "79"
+        },
+        "price": "5400",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, תל יהודה, עוזיאל 79"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "נחלת גנים",
+            "street": "סוקולוב",
+            "number": "36"
+        },
+        "price": "6200",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, נחלת גנים, סוקולוב 36"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "חשמונאים",
+            "street": "המעגל",
+            "number": "3"
+        },
+        "price": "5690",
+        "room_count": "3.5",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, חשמונאים, המעגל 3"
+    },
+    {
+        "location": {
+            "city": "רמת גן",
+            "area": "בן גוריון",
+            "street": "אבטליון",
+            "number": "14"
+        },
+        "price": "6400",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רמת גן, בן גוריון, אבטליון 14"
+    }
+]

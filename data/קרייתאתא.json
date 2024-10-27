@@ -1,0 +1,590 @@
+[
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "נווה חן",
+            "street": "בכורים",
+            "number": "4"
+        },
+        "price": "2400",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, נווה חן, בכורים 4"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "אלונים",
+            "street": "סנונית",
+            "number": "6"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, אלונים, סנונית 6"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "מרכז",
+            "street": "העצמאות",
+            "number": "80"
+        },
+        "price": "3500",
+        "room_count": "5",
+        "square_meters": "115",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, מרכז, העצמאות 80"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעת הרקפות",
+            "street": "הרצוג",
+            "number": "17"
+        },
+        "price": "2500",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעת הרקפות, הרצוג 17"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעה א",
+            "street": "יוספטל",
+            "number": "43"
+        },
+        "price": "2700",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעה א, יוספטל 43"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעה א",
+            "street": "טביב אברהם",
+            "number": "7"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעה א, טביב אברהם 7"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "אברמסקי",
+            "street": "פרישמן",
+            "number": "43"
+        },
+        "price": "3700",
+        "room_count": "2",
+        "square_meters": "34",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, אברמסקי, פרישמן 43"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "קריית בנימין",
+            "street": "שטיינברג",
+            "number": "19"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, קריית בנימין, שטיינברג 19"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "קריית בנימין",
+            "street": "בן צבי יצחק",
+            "number": "68"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, קריית בנימין, בן צבי יצחק 68"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעת הרקפות",
+            "street": "בן עמי",
+            "number": "23"
+        },
+        "price": "1800",
+        "room_count": "3",
+        "square_meters": "47",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעת הרקפות, בן עמי 23"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "קריית בנימין",
+            "street": "יל\"ג",
+            "number": "18"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, קריית בנימין, יל\"ג 18"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "מרכז",
+            "street": "סוקולוב",
+            "number": "9"
+        },
+        "price": "3600",
+        "room_count": "4.5",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, מרכז, סוקולוב 9"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "אברמסקי",
+            "street": "מנדלי מוכר ספרי",
+            "number": "1"
+        },
+        "price": "1500",
+        "room_count": "2",
+        "square_meters": "76",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, אברמסקי, מנדלי מוכר ספרי 1"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעה א",
+            "street": "אינשטין",
+            "number": "16"
+        },
+        "price": "2700",
+        "room_count": "2",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעה א, אינשטין 16"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "מרכז",
+            "street": "ברנר",
+            "number": "13"
+        },
+        "price": "2200",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, מרכז, ברנר 13"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "מרכז",
+            "street": "פינסקר",
+            "number": "31"
+        },
+        "price": "2750",
+        "room_count": "4",
+        "square_meters": "98",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, מרכז, פינסקר 31"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעת הרקפות",
+            "street": "יצחק שדה",
+            "number": "3"
+        },
+        "price": "2850",
+        "room_count": "2.5",
+        "square_meters": "40",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעת הרקפות, יצחק שדה 3"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "בן גוריון",
+            "street": "יוספטל",
+            "number": "10"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, בן גוריון, יוספטל 10"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעת הרקפות",
+            "street": "בן עמי",
+            "number": "23"
+        },
+        "price": "100",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעת הרקפות, בן עמי 23"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעה א",
+            "street": "נחום",
+            "number": "19"
+        },
+        "price": "2400",
+        "room_count": "2.5",
+        "square_meters": "58",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעה א, נחום 19"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעה א",
+            "street": "אינשטין",
+            "number": "16"
+        },
+        "price": "2700",
+        "room_count": "2",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעה א, אינשטין 16"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעת הרקפות",
+            "street": "יצחק שדה",
+            "number": "23"
+        },
+        "price": "2400",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעת הרקפות, יצחק שדה 23"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "מרכז",
+            "street": "ברנר",
+            "number": "13"
+        },
+        "price": "2200",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, מרכז, ברנר 13"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "אברמסקי",
+            "street": "העצמאות",
+            "number": "95"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, אברמסקי, העצמאות 95"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעת הרקפות",
+            "street": "הרצוג",
+            "number": "17"
+        },
+        "price": "2500",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעת הרקפות, הרצוג 17"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "נווה חן",
+            "street": "בכורים",
+            "number": "4"
+        },
+        "price": "2400",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, נווה חן, בכורים 4"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "מרכז",
+            "street": "שד כצנלסון",
+            "number": "13"
+        },
+        "price": "3700",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, מרכז, שד כצנלסון 13"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "מרכז",
+            "street": "העצמאות",
+            "number": "51"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "N/A",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, מרכז, העצמאות 51"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "אברמסקי",
+            "street": "זבולון",
+            "number": "6"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "113",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, אברמסקי, זבולון 6"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעה א",
+            "street": "טביב אברהם",
+            "number": "5"
+        },
+        "price": "2500",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעה א, טביב אברהם 5"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעת הרקפות",
+            "street": "ז’o;בוטינסק",
+            "number": "19"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעת הרקפות, ז’o;בוטינסק 19"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "מרכז",
+            "street": "יוספטל",
+            "number": "78"
+        },
+        "price": "1600",
+        "room_count": "2",
+        "square_meters": "20",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, מרכז, יוספטל 78"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "נווה חן",
+            "street": "בכורים",
+            "number": "6"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, נווה חן, בכורים 6"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעה א",
+            "street": "יוספטל",
+            "number": "53"
+        },
+        "price": "2400",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעה א, יוספטל 53"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "מרכז",
+            "street": "יוספטל",
+            "number": "60"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, מרכז, יוספטל 60"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "מרכז",
+            "street": "יוספטל",
+            "number": "60"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, מרכז, יוספטל 60"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "נווה חן",
+            "street": "בכורים",
+            "number": "7"
+        },
+        "price": "2300",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, נווה חן, בכורים 7"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "קריית בנימין",
+            "street": "גבורי הקריה",
+            "number": "10"
+        },
+        "price": "1800",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, קריית בנימין, גבורי הקריה 10"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "גבעה א",
+            "street": "יוספטל",
+            "number": "43"
+        },
+        "price": "2700",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, גבעה א, יוספטל 43"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "בן גוריון",
+            "street": "יוספטל",
+            "number": "26"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, בן גוריון, יוספטל 26"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "קריית בנימין",
+            "street": "גבורי הקריה",
+            "number": "10"
+        },
+        "price": "1800",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, קריית בנימין, גבורי הקריה 10"
+    },
+    {
+        "location": {
+            "city": "קריית אתא",
+            "area": "מרכז",
+            "street": "יוספטל",
+            "number": "78"
+        },
+        "price": "1600",
+        "room_count": "2",
+        "square_meters": "20",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אתא, מרכז, יוספטל 78"
+    }
+]

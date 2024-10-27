@@ -1,0 +1,352 @@
+[
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת אילן",
+            "street": "ז’o;בוטינסק",
+            "number": "50"
+        },
+        "price": "3900",
+        "room_count": "1.5",
+        "square_meters": "35",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת אילן, ז’o;בוטינסק 50"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת הדר",
+            "street": "דרך המלך",
+            "number": "1"
+        },
+        "price": "6800",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת הדר, דרך המלך 1"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת אילן",
+            "street": "קרן היסוד",
+            "number": "15"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת אילן, קרן היסוד 15"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "בית וקאנטרי",
+            "street": "לוחמי הגטאות",
+            "number": "20"
+        },
+        "price": "6500",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, בית וקאנטרי, לוחמי הגטאות 20"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת הדר",
+            "street": "פיקסלר צבי",
+            "number": "8"
+        },
+        "price": "8500",
+        "room_count": "5",
+        "square_meters": "137",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת הדר, פיקסלר צבי 8"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת אילן",
+            "street": "אורנים",
+            "number": "5"
+        },
+        "price": "5300",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת אילן, אורנים 5"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "בית וקאנטרי",
+            "street": "הנשיא",
+            "number": "3"
+        },
+        "price": "3300",
+        "room_count": "2.5",
+        "square_meters": "36",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, בית וקאנטרי, הנשיא 3"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "בית וקאנטרי",
+            "street": "הנשיא",
+            "number": "2"
+        },
+        "price": "2000",
+        "room_count": "1.5",
+        "square_meters": "80",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, בית וקאנטרי, הנשיא 2"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת אילן",
+            "street": "רחבת אילן",
+            "number": "12"
+        },
+        "price": "1900",
+        "room_count": "5",
+        "square_meters": "100",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת אילן, רחבת אילן 12"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "בית וקאנטרי",
+            "street": "הנשיא",
+            "number": "11"
+        },
+        "price": "3800",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, בית וקאנטרי, הנשיא 11"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת הדר",
+            "street": "בגין מנחם",
+            "number": "9"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "135",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת הדר, בגין מנחם 9"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "השחר",
+            "street": "הרצוג",
+            "number": "12"
+        },
+        "price": "2250",
+        "room_count": "3.5",
+        "square_meters": "90",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, השחר, הרצוג 12"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "בית וקאנטרי",
+            "street": "אלעזר דוד",
+            "number": "10"
+        },
+        "price": "5000",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, בית וקאנטרי, אלעזר דוד 10"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת הדר",
+            "street": "דרך המלך",
+            "number": "1"
+        },
+        "price": "6800",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת הדר, דרך המלך 1"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת אילן",
+            "street": "ז’o;בוטינסק",
+            "number": "50"
+        },
+        "price": "3600",
+        "room_count": "1",
+        "square_meters": "18",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת אילן, ז’o;בוטינסק 50"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת הדר",
+            "street": "דרך המלך",
+            "number": "1"
+        },
+        "price": "6800",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת הדר, דרך המלך 1"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "שאר העיר",
+            "street": "הנשיא",
+            "number": "75"
+        },
+        "price": "8300",
+        "room_count": "5",
+        "square_meters": "135",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, שאר העיר, הנשיא 75"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת אילן",
+            "street": "קרן היסוד",
+            "number": "15"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת אילן, קרן היסוד 15"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "בית וקאנטרי",
+            "street": "הנשיא",
+            "number": "3"
+        },
+        "price": "4200",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, בית וקאנטרי, הנשיא 3"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "בית וקאנטרי",
+            "street": "הנשיא",
+            "number": "3"
+        },
+        "price": "4200",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, בית וקאנטרי, הנשיא 3"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "שאר העיר",
+            "street": "הנשיא",
+            "number": "75"
+        },
+        "price": "8300",
+        "room_count": "5",
+        "square_meters": "135",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, שאר העיר, הנשיא 75"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת הדר",
+            "street": "דרך המלך",
+            "number": "1"
+        },
+        "price": "6800",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת הדר, דרך המלך 1"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת הדר",
+            "street": "דרך המלך",
+            "number": "1"
+        },
+        "price": "6800",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת הדר, דרך המלך 1"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת אילן",
+            "street": "קרן היסוד",
+            "number": "15"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת אילן, קרן היסוד 15"
+    },
+    {
+        "location": {
+            "city": "גבעת שמואל",
+            "area": "רמת אילן",
+            "street": "רחבת אילן",
+            "number": "14"
+        },
+        "price": "6500",
+        "room_count": "5",
+        "square_meters": "130",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "גבעת שמואל, רמת אילן, רחבת אילן 14"
+    }
+]

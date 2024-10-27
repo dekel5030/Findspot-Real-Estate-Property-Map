@@ -1,0 +1,2802 @@
+[
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "רמות",
+            "street": "הר תבור",
+            "number": "N/A"
+        },
+        "price": "1900",
+        "room_count": "1.5",
+        "square_meters": "44",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, רמות, הר תבור"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ב",
+            "street": "דרך מצדה",
+            "number": "111"
+        },
+        "price": "2700",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ב, דרך מצדה 111"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "64",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "1700",
+        "room_count": "1.5",
+        "square_meters": "34",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "שלמה המלך",
+            "number": "75"
+        },
+        "price": "2950",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, שלמה המלך 75"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "נווה זאב",
+            "street": "אביגדור המאירי",
+            "number": "N/A"
+        },
+        "price": "3370",
+        "room_count": "4",
+        "square_meters": "107",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, נווה זאב, אביגדור המאירי"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "שאול המלך",
+            "number": "6"
+        },
+        "price": "3200",
+        "room_count": "4",
+        "square_meters": "103",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, שאול המלך 6"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "הנדיב",
+            "number": "2"
+        },
+        "price": "1900",
+        "room_count": "2.5",
+        "square_meters": "48",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, הנדיב 2"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ה",
+            "street": "שדרות יעלים",
+            "number": "104"
+        },
+        "price": "2400",
+        "room_count": "2",
+        "square_meters": "57",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ה, שדרות יעלים 104"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אליהו הנביא",
+            "number": "2"
+        },
+        "price": "1200",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אליהו הנביא 2"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "יעקב דורי",
+            "number": "23"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, יעקב דורי 23"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה יא",
+            "street": "רחבת רמ\"א",
+            "number": "N/A"
+        },
+        "price": "2350",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה יא, רחבת רמ\"א"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "העיר העתיקה",
+            "street": "שמחוני אסף",
+            "number": "14"
+        },
+        "price": "2250",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, העיר העתיקה, שמחוני אסף 14"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "שד רגר יצחק",
+            "number": "171"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "53",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, שד רגר יצחק 171"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "מרכז אזרחי",
+            "street": "יצחק בן צבי",
+            "number": "9"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "178",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, מרכז אזרחי, יצחק בן צבי 9"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "גוש עציון",
+            "number": "73"
+        },
+        "price": "1900",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, גוש עציון 73"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה יא",
+            "street": "רחבת הראש",
+            "number": "15"
+        },
+        "price": "2150",
+        "room_count": "2.5",
+        "square_meters": "58",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה יא, רחבת הראש 15"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ה",
+            "street": "קפריסין",
+            "number": "36"
+        },
+        "price": "5200",
+        "room_count": "4",
+        "square_meters": "133",
+        "floor": "14",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ה, קפריסין 36"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "שמעון בר גיורא",
+            "number": "N/A"
+        },
+        "price": "1750",
+        "room_count": "2",
+        "square_meters": "47",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, שמעון בר גיורא"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "מרכז אזרחי",
+            "street": "וולפסון דוד",
+            "number": "30"
+        },
+        "price": "2100",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, מרכז אזרחי, וולפסון דוד 30"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ה",
+            "street": "קפריסין",
+            "number": "36"
+        },
+        "price": "5200",
+        "room_count": "4",
+        "square_meters": "133",
+        "floor": "14",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ה, קפריסין 36"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "ברנפלד שמעון",
+            "number": "2"
+        },
+        "price": "1900",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, ברנפלד שמעון 2"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "שמעון בר גיורא",
+            "number": "N/A"
+        },
+        "price": "1750",
+        "room_count": "2",
+        "square_meters": "47",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, שמעון בר גיורא"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה יא",
+            "street": "רחבת הראש",
+            "number": "15"
+        },
+        "price": "2150",
+        "room_count": "2.5",
+        "square_meters": "58",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה יא, רחבת הראש 15"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "שד רגר יצחק",
+            "number": "171"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "53",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, שד רגר יצחק 171"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "סנהדרין",
+            "number": "128"
+        },
+        "price": "2600",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, סנהדרין 128"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "מבצע נחשון",
+            "number": "24"
+        },
+        "price": "2250",
+        "room_count": "2",
+        "square_meters": "58",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, מבצע נחשון 24"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אליהו הנביא",
+            "number": "2"
+        },
+        "price": "2200",
+        "room_count": "2.5",
+        "square_meters": "65",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אליהו הנביא 2"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אברהם אבינו",
+            "number": "13"
+        },
+        "price": "3100",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אברהם אבינו 13"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אלכסנדר ינאי",
+            "number": "17"
+        },
+        "price": "1550",
+        "room_count": "1.5",
+        "square_meters": "30",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אלכסנדר ינאי 17"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "רמות",
+            "street": "שד האנדרטה",
+            "number": "1"
+        },
+        "price": "3900",
+        "room_count": "4",
+        "square_meters": "107",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, רמות, שד האנדרטה 1"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "יצחק אבינו",
+            "number": "13"
+        },
+        "price": "3100",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, יצחק אבינו 13"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "נווה זאב",
+            "street": "פיארברג",
+            "number": "41"
+        },
+        "price": "3400",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, נווה זאב, פיארברג 41"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "סנהדרין",
+            "number": "154"
+        },
+        "price": "2100",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, סנהדרין 154"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "קלישר",
+            "number": "24"
+        },
+        "price": "1800",
+        "room_count": "3",
+        "square_meters": "52",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, קלישר 24"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "שמעון בר גיורא",
+            "number": "23"
+        },
+        "price": "1700",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, שמעון בר גיורא 23"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "מבצע עובדה",
+            "number": "16"
+        },
+        "price": "1900",
+        "room_count": "4",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, מבצע עובדה 16"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "חנה סנש",
+            "number": "19"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, חנה סנש 19"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "סנהדרין",
+            "number": "51"
+        },
+        "price": "1750",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, סנהדרין 51"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "שד רגר יצחק",
+            "number": "162"
+        },
+        "price": "3600",
+        "room_count": "4",
+        "square_meters": "85",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, שד רגר יצחק 162"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "העיר העתיקה",
+            "street": "המוכתר",
+            "number": "3"
+        },
+        "price": "4800",
+        "room_count": "4",
+        "square_meters": "140",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, העיר העתיקה, המוכתר 3"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "שד רגר יצחק",
+            "number": "164"
+        },
+        "price": "1100",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, שד רגר יצחק 164"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "דרך מצדה",
+            "number": "152"
+        },
+        "price": "2600",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, דרך מצדה 152"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "רוטנברג",
+            "number": "18"
+        },
+        "price": "1700",
+        "room_count": "3",
+        "square_meters": "56",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, רוטנברג 18"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ה",
+            "street": "דרך המשחררים",
+            "number": "80"
+        },
+        "price": "2700",
+        "room_count": "4",
+        "square_meters": "101",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ה, דרך המשחררים 80"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה יא",
+            "street": "הרא\"ש",
+            "number": "15"
+        },
+        "price": "2150",
+        "room_count": "2.5",
+        "square_meters": "58",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה יא, הרא\"ש 15"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה א",
+            "street": "ויצמן",
+            "number": "22"
+        },
+        "price": "2700",
+        "room_count": "2",
+        "square_meters": "78",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה א, ויצמן 22"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אברהם אבינו",
+            "number": "40"
+        },
+        "price": "1700",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אברהם אבינו 40"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה יא",
+            "street": "שרת משה",
+            "number": "6"
+        },
+        "price": "3000",
+        "room_count": "3.5",
+        "square_meters": "95",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה יא, שרת משה 6"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "המעפילים",
+            "number": "20"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "82",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, המעפילים 20"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "רחבת מבצע ארז",
+            "number": "3"
+        },
+        "price": "2700",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, רחבת מבצע ארז 3"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ב",
+            "street": "בני אור",
+            "number": "40"
+        },
+        "price": "1100",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ב, בני אור 40"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אבן עזרא",
+            "number": "87"
+        },
+        "price": "1800",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אבן עזרא 87"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אלעזר בן יאיר",
+            "number": "6"
+        },
+        "price": "2400",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אלעזר בן יאיר 6"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "דרך מצדה",
+            "number": "152"
+        },
+        "price": "2000",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, דרך מצדה 152"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה יא",
+            "street": "דרך מצדה",
+            "number": "228"
+        },
+        "price": "2300",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה יא, דרך מצדה 228"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אליהו הנביא",
+            "number": "2"
+        },
+        "price": "1800",
+        "room_count": "2",
+        "square_meters": "42",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אליהו הנביא 2"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ט",
+            "street": "רחבת אופירה",
+            "number": "30"
+        },
+        "price": "3800",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ט, רחבת אופירה 30"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "דרך השלום",
+            "number": "133"
+        },
+        "price": "1800",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, דרך השלום 133"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "יצחק אבינו",
+            "number": "13"
+        },
+        "price": "3100",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, יצחק אבינו 13"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "שאול המלך",
+            "number": "N/A"
+        },
+        "price": "3100",
+        "room_count": "4",
+        "square_meters": "104",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, שאול המלך"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ב",
+            "street": "בן יהודה",
+            "number": "22"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ב, בן יהודה 22"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "רמות",
+            "street": "גבריהו חיים",
+            "number": "5"
+        },
+        "price": "4200",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, רמות, גבריהו חיים 5"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "רבי עקיבא",
+            "number": "70"
+        },
+        "price": "2400",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, רבי עקיבא 70"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה א",
+            "street": "אוסישקין",
+            "number": "2"
+        },
+        "price": "1720",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה א, אוסישקין 2"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ב",
+            "street": "התקווה",
+            "number": "14"
+        },
+        "price": "4800",
+        "room_count": "4",
+        "square_meters": "140",
+        "floor": "17",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ב, התקווה 14"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "סנהדרין",
+            "number": "N/A"
+        },
+        "price": "2500",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, סנהדרין"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "רמות",
+            "street": "גבריהו חיים",
+            "number": "5"
+        },
+        "price": "4200",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, רמות, גבריהו חיים 5"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "וינגייט",
+            "number": "74"
+        },
+        "price": "1200",
+        "room_count": "3.5",
+        "square_meters": "84",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, וינגייט 74"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "דרך השלום",
+            "number": "56"
+        },
+        "price": "2200",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, דרך השלום 56"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ה",
+            "street": "שד יעלים",
+            "number": "26"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "48",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ה, שד יעלים 26"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "הכ\"ג",
+            "number": "15"
+        },
+        "price": "2800",
+        "room_count": "4",
+        "square_meters": "97",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, הכ\"ג 15"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה א",
+            "street": "אוסישקין",
+            "number": "13"
+        },
+        "price": "1800",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה א, אוסישקין 13"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "פארק הנחל",
+            "street": "נחל משמר",
+            "number": "68"
+        },
+        "price": "3850",
+        "room_count": "3",
+        "square_meters": "81",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, פארק הנחל, נחל משמר 68"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אבן עזרא",
+            "number": "89"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אבן עזרא 89"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "עולי הגרדום",
+            "number": "19"
+        },
+        "price": "3200",
+        "room_count": "3",
+        "square_meters": "56",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, עולי הגרדום 19"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה א",
+            "street": "בזל",
+            "number": "67"
+        },
+        "price": "2700",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה א, בזל 67"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אברהם אבינו",
+            "number": "26"
+        },
+        "price": "2800",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אברהם אבינו 26"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אלכסנדר ינאי",
+            "number": "17"
+        },
+        "price": "1600",
+        "room_count": "1.5",
+        "square_meters": "32",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אלכסנדר ינאי 17"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "פארק הנחל",
+            "street": "נחל חבר",
+            "number": "15"
+        },
+        "price": "3750",
+        "room_count": "4",
+        "square_meters": "135",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, פארק הנחל, נחל חבר 15"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "פארק הנחל",
+            "street": "נחל קדרון",
+            "number": "39"
+        },
+        "price": "5000",
+        "room_count": "5",
+        "square_meters": "124",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, פארק הנחל, נחל קדרון 39"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "וינגייט",
+            "number": "3"
+        },
+        "price": "2250",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, וינגייט 3"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "דוד המלך",
+            "number": "9"
+        },
+        "price": "2000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, דוד המלך 9"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "סוכות",
+            "number": "2"
+        },
+        "price": "2400",
+        "room_count": "3",
+        "square_meters": "68",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, סוכות 2"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אליהו הנביא",
+            "number": "13"
+        },
+        "price": "2400",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אליהו הנביא 13"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אברהם אבינו",
+            "number": "24"
+        },
+        "price": "3000",
+        "room_count": "4",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אברהם אבינו 24"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אברהם אבינו",
+            "number": "33"
+        },
+        "price": "1650",
+        "room_count": "4",
+        "square_meters": "N/A",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אברהם אבינו 33"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ה",
+            "street": "קפריסין",
+            "number": "26"
+        },
+        "price": "2000",
+        "room_count": "2",
+        "square_meters": "39",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ה, קפריסין 26"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "נווה זאב",
+            "street": "אביגדור המאירי",
+            "number": "2"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, נווה זאב, אביגדור המאירי 2"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "קלאוזנר",
+            "number": "10"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, קלאוזנר 10"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "נאות הדרים / המ",
+            "street": "תאשור",
+            "number": "15"
+        },
+        "price": "5500",
+        "room_count": "5",
+        "square_meters": "163",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, נאות הדרים / המ, תאשור 15"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ה",
+            "street": "העליה",
+            "number": "88"
+        },
+        "price": "2800",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ה, העליה 88"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "שאול המלך",
+            "number": "4"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "83",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, שאול המלך 4"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "שד רגר יצחק",
+            "number": "154"
+        },
+        "price": "2500",
+        "room_count": "2.5",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, שד רגר יצחק 154"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "וינגייט",
+            "number": "3"
+        },
+        "price": "2200",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, וינגייט 3"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה יא",
+            "street": "שרת משה",
+            "number": "36"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "84",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה יא, שרת משה 36"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "פארק הנחל",
+            "street": "נחל שילה",
+            "number": "27"
+        },
+        "price": "5000",
+        "room_count": "5",
+        "square_meters": "136",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, פארק הנחל, נחל שילה 27"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה א",
+            "street": "סוקולוב",
+            "number": "39"
+        },
+        "price": "3000",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה א, סוקולוב 39"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ב",
+            "street": "שניאור",
+            "number": "6"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "N/A",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ב, שניאור 6"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אליהו הנביא",
+            "number": "2"
+        },
+        "price": "2000",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אליהו הנביא 2"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "וינגייט",
+            "number": "3"
+        },
+        "price": "2250",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, וינגייט 3"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "הכנסת",
+            "number": "7"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, הכנסת 7"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "הגאולים",
+            "number": "14"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "120",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, הגאולים 14"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ב",
+            "street": "ביאליק",
+            "number": "24"
+        },
+        "price": "3400",
+        "room_count": "4.5",
+        "square_meters": "102",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ב, ביאליק 24"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "יהואש",
+            "number": "9"
+        },
+        "price": "2500",
+        "room_count": "2.5",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, יהואש 9"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ה",
+            "street": "הצבי",
+            "number": "139"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "53",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ה, הצבי 139"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ב",
+            "street": "ביאליק",
+            "number": "24"
+        },
+        "price": "4100",
+        "room_count": "5",
+        "square_meters": "130",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ב, ביאליק 24"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "התלמוד",
+            "number": "42"
+        },
+        "price": "1700",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, התלמוד 42"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "דוד המלך",
+            "number": "9"
+        },
+        "price": "2000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, דוד המלך 9"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אברהם אבינו",
+            "number": "35"
+        },
+        "price": "2700",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אברהם אבינו 35"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה א",
+            "street": "ביאליק",
+            "number": "109"
+        },
+        "price": "3000",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה א, ביאליק 109"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "יעקב אבינו",
+            "number": "1"
+        },
+        "price": "2500",
+        "room_count": "4",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, יעקב אבינו 1"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "וינגייט",
+            "number": "3"
+        },
+        "price": "2200",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, וינגייט 3"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "גוש עציון",
+            "number": "1"
+        },
+        "price": "2500",
+        "room_count": "2.5",
+        "square_meters": "120",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, גוש עציון 1"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ב",
+            "street": "מינץ",
+            "number": "1"
+        },
+        "price": "2000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ב, מינץ 1"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "דרך השלום",
+            "number": "44"
+        },
+        "price": "2250",
+        "room_count": "2",
+        "square_meters": "120",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, דרך השלום 44"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "דרך מצדה",
+            "number": "204"
+        },
+        "price": "2450",
+        "room_count": "3",
+        "square_meters": "73",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, דרך מצדה 204"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "מרכז אזרחי",
+            "street": "קרן היסוד",
+            "number": "19"
+        },
+        "price": "2800",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, מרכז אזרחי, קרן היסוד 19"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה יא",
+            "street": "דב יוסף",
+            "number": "31"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "74",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה יא, דב יוסף 31"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "שד רגר יצחק",
+            "number": "150"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, שד רגר יצחק 150"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "פארק הנחל",
+            "street": "נחל לבן",
+            "number": "12"
+        },
+        "price": "4600",
+        "room_count": "5",
+        "square_meters": "138",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, פארק הנחל, נחל לבן 12"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ט",
+            "street": "בית אל",
+            "number": "15"
+        },
+        "price": "2900",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ט, בית אל 15"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "רמות",
+            "street": "סנה משה",
+            "number": "30"
+        },
+        "price": "4000",
+        "room_count": "4",
+        "square_meters": "128",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, רמות, סנה משה 30"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה א",
+            "street": "אוסישקין",
+            "number": "2"
+        },
+        "price": "1900",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה א, אוסישקין 2"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "פארק הנחל",
+            "street": "אסא",
+            "number": "1"
+        },
+        "price": "4200",
+        "room_count": "5",
+        "square_meters": "158",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, פארק הנחל, אסא 1"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ב",
+            "street": "ביאליק",
+            "number": "15"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ב, ביאליק 15"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "דרך השלום",
+            "number": "56"
+        },
+        "price": "2300",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, דרך השלום 56"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "דוד המלך",
+            "number": "13"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "56",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, דוד המלך 13"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אברהם אבינו",
+            "number": "56"
+        },
+        "price": "2000",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אברהם אבינו 56"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ה",
+            "street": "שד יעלים",
+            "number": "10"
+        },
+        "price": "2200",
+        "room_count": "2",
+        "square_meters": "48",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ה, שד יעלים 10"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ה",
+            "street": "קפריסין",
+            "number": "36"
+        },
+        "price": "5500",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "13",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ה, קפריסין 36"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה יא",
+            "street": "שאול המלך",
+            "number": "131"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה יא, שאול המלך 131"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "יוסף בן מתתיהו",
+            "number": "44"
+        },
+        "price": "2700",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, יוסף בן מתתיהו 44"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "שז\"ר זלמן",
+            "number": "15"
+        },
+        "price": "2500",
+        "room_count": "4",
+        "square_meters": "69",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, שז\"ר זלמן 15"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "דרך השלום",
+            "number": "56"
+        },
+        "price": "1900",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, דרך השלום 56"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "פארק הנחל",
+            "street": "נחל משמר",
+            "number": "7"
+        },
+        "price": "4900",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, פארק הנחל, נחל משמר 7"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "שיפר יצחק",
+            "number": "23"
+        },
+        "price": "2300",
+        "room_count": "3",
+        "square_meters": "48",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, שיפר יצחק 23"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "וינגייט",
+            "number": "82"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, וינגייט 82"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה א",
+            "street": "ויצמן",
+            "number": "13"
+        },
+        "price": "1800",
+        "room_count": "1",
+        "square_meters": "26",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה א, ויצמן 13"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "רבי טרפון",
+            "number": "4"
+        },
+        "price": "2450",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, רבי טרפון 4"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "זיסו",
+            "number": "14"
+        },
+        "price": "2200",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, זיסו 14"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "פארק הנחל",
+            "street": "נחל משמר",
+            "number": "1"
+        },
+        "price": "5000",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, פארק הנחל, נחל משמר 1"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ט",
+            "street": "שד ירושלים",
+            "number": "2"
+        },
+        "price": "3800",
+        "room_count": "4.5",
+        "square_meters": "118",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ט, שד ירושלים 2"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ט",
+            "street": "שד ירושלים",
+            "number": "2"
+        },
+        "price": "4000",
+        "room_count": "4",
+        "square_meters": "150",
+        "floor": "15",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ט, שד ירושלים 2"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אברהם אבינו",
+            "number": "38"
+        },
+        "price": "3750",
+        "room_count": "4",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אברהם אבינו 38"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "קדש",
+            "number": "14"
+        },
+        "price": "1000",
+        "room_count": "4",
+        "square_meters": "78",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, קדש 14"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "פארק הנחל",
+            "street": "נחל משמר",
+            "number": "7"
+        },
+        "price": "4900",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, פארק הנחל, נחל משמר 7"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה א",
+            "street": "סוקולוב",
+            "number": "8"
+        },
+        "price": "1900",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה א, סוקולוב 8"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אוסבלדו ארניה",
+            "number": "14"
+        },
+        "price": "2200",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אוסבלדו ארניה 14"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "נווה מנחם",
+            "street": "קלצ’o;קין ר",
+            "number": "5"
+        },
+        "price": "3000",
+        "room_count": "4",
+        "square_meters": "95",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, נווה מנחם, קלצ’o;קין ר 5"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה א",
+            "street": "ביאליק",
+            "number": "151"
+        },
+        "price": "3300",
+        "room_count": "4",
+        "square_meters": "82",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה א, ביאליק 151"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ב",
+            "street": "מינץ",
+            "number": "30"
+        },
+        "price": "2500",
+        "room_count": "3.5",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ב, מינץ 30"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "שד רגר יצחק",
+            "number": "101"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, שד רגר יצחק 101"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "פארק הנחל",
+            "street": "נחל דליות",
+            "number": "7"
+        },
+        "price": "4600",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, פארק הנחל, נחל דליות 7"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "דרך השלום",
+            "number": "135"
+        },
+        "price": "1700",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, דרך השלום 135"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אליהו הנביא",
+            "number": "13"
+        },
+        "price": "1650",
+        "room_count": "2",
+        "square_meters": "18",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אליהו הנביא 13"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "העיר העתיקה",
+            "street": "פרופ’o; עלי",
+            "number": "6"
+        },
+        "price": "6000",
+        "room_count": "5",
+        "square_meters": "154",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, העיר העתיקה, פרופ’o; עלי 6"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אליהו הנביא",
+            "number": "2"
+        },
+        "price": "",
+        "room_count": "1.5",
+        "square_meters": "25",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אליהו הנביא 2"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "דרך השלום",
+            "number": "56"
+        },
+        "price": "1900",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, דרך השלום 56"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "רמות",
+            "street": "הרב שושנה",
+            "number": "5"
+        },
+        "price": "4000",
+        "room_count": "4",
+        "square_meters": "116",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, רמות, הרב שושנה 5"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "מרכז אזרחי",
+            "street": "התקווה",
+            "number": "14"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "136",
+        "floor": "10",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, מרכז אזרחי, התקווה 14"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "יהודה הלוי",
+            "number": "30"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "57",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, יהודה הלוי 30"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "וינגייט",
+            "number": "78"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, וינגייט 78"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "קלאוזנר",
+            "number": "4"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "62",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, קלאוזנר 4"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "מבצע עובדה",
+            "number": "18"
+        },
+        "price": "1900",
+        "room_count": "1",
+        "square_meters": "30",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, מבצע עובדה 18"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "הנדיב",
+            "number": "10"
+        },
+        "price": "1650",
+        "room_count": "1.5",
+        "square_meters": "20",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, הנדיב 10"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "סנהדרין",
+            "number": "164"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, סנהדרין 164"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ה",
+            "street": "חגלה",
+            "number": "26"
+        },
+        "price": "3200",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ה, חגלה 26"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אלכסנדר ינאי",
+            "number": "17"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "13",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אלכסנדר ינאי 17"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אברהם אבינו",
+            "number": "9"
+        },
+        "price": "2900",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אברהם אבינו 9"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "רמות",
+            "street": "טרק גבריאל",
+            "number": "1"
+        },
+        "price": "4700",
+        "room_count": "4",
+        "square_meters": "127",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, רמות, טרק גבריאל 1"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה א",
+            "street": "בזל",
+            "number": "18"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "52",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה א, בזל 18"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ה",
+            "street": "הצבי",
+            "number": "43"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ה, הצבי 43"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אליהו הנביא",
+            "number": "2"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אליהו הנביא 2"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "פארק הנחל",
+            "street": "נחל דליות",
+            "number": "7"
+        },
+        "price": "4600",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, פארק הנחל, נחל דליות 7"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ה",
+            "street": "טבנקין",
+            "number": "20"
+        },
+        "price": "3200",
+        "room_count": "4.5",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ה, טבנקין 20"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "דוד המלך",
+            "number": "9"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "000",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, דוד המלך 9"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "גוש עציון",
+            "number": "50"
+        },
+        "price": "2500",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, גוש עציון 50"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ג",
+            "street": "חנה סנש",
+            "number": "9"
+        },
+        "price": "2000",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ג, חנה סנש 9"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "דרך מצדה",
+            "number": "140"
+        },
+        "price": "2400",
+        "room_count": "2",
+        "square_meters": "67",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, דרך מצדה 140"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "רמות",
+            "street": "וילנאי זאב",
+            "number": "8"
+        },
+        "price": "4000",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, רמות, וילנאי זאב 8"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ב",
+            "street": "בני אור",
+            "number": "64"
+        },
+        "price": "2000",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ב, בני אור 64"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "שיפר יצחק",
+            "number": "16"
+        },
+        "price": "2300",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, שיפר יצחק 16"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה א",
+            "street": "דרך המשחררים",
+            "number": "9"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה א, דרך המשחררים 9"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אברהם אבינו",
+            "number": "33"
+        },
+        "price": "3300",
+        "room_count": "4",
+        "square_meters": "93",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אברהם אבינו 33"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "סנהדרין",
+            "number": "97"
+        },
+        "price": "2600",
+        "room_count": "3.5",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, סנהדרין 97"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ב",
+            "street": "מינץ",
+            "number": "6"
+        },
+        "price": "2100",
+        "room_count": "2.5",
+        "square_meters": "54",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ב, מינץ 6"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "רמות",
+            "street": "אוסקר שינדלר",
+            "number": "26"
+        },
+        "price": "4000",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, רמות, אוסקר שינדלר 26"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "פארק הנחל",
+            "street": "נחל פרת",
+            "number": "22"
+        },
+        "price": "5200",
+        "room_count": "5",
+        "square_meters": "122",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, פארק הנחל, נחל פרת 22"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "יעקב דורי",
+            "number": "13"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, יעקב דורי 13"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה יא",
+            "street": "שרת משה",
+            "number": "44"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה יא, שרת משה 44"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ב",
+            "street": "יהודה הלוי",
+            "number": "12"
+        },
+        "price": "5300",
+        "room_count": "4",
+        "square_meters": "165",
+        "floor": "10",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ב, יהודה הלוי 12"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "נאות הדרים / המ",
+            "street": "תאשור",
+            "number": "15"
+        },
+        "price": "5300",
+        "room_count": "5",
+        "square_meters": "160",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, נאות הדרים / המ, תאשור 15"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אלכסנדר ינאי",
+            "number": "30"
+        },
+        "price": "3600",
+        "room_count": "4",
+        "square_meters": "95",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אלכסנדר ינאי 30"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אברהם אבינו",
+            "number": "1"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אברהם אבינו 1"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ד",
+            "street": "אברהם אבינו",
+            "number": "40"
+        },
+        "price": "2400",
+        "room_count": "3",
+        "square_meters": "45",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ד, אברהם אבינו 40"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה א",
+            "street": "כיכר אליעזר קפל",
+            "number": "12"
+        },
+        "price": "3000",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה א, כיכר אליעזר קפל 12"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה א",
+            "street": "ביאליק",
+            "number": "149"
+        },
+        "price": "1950",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה א, ביאליק 149"
+    },
+    {
+        "location": {
+            "city": "באר שבע",
+            "area": "שכונה ו החדשה",
+            "street": "דרך מצדה",
+            "number": "140"
+        },
+        "price": "2400",
+        "room_count": "2",
+        "square_meters": "68",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר שבע, שכונה ו החדשה, דרך מצדה 140"
+    }
+]

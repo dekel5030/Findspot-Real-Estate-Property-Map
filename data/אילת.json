@@ -1,0 +1,758 @@
+[
+    {
+        "location": {
+            "city": "אילת",
+            "area": "צופית עילית",
+            "street": "עפרוני",
+            "number": "14"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "77",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, צופית עילית, עפרוני 14"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "ערבה",
+            "street": "שור",
+            "number": "4"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, ערבה, שור 4"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "ערבה",
+            "street": "סמ ערד",
+            "number": "7"
+        },
+        "price": "3100",
+        "room_count": "2",
+        "square_meters": "54",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, ערבה, סמ ערד 7"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "הנחלים",
+            "street": "נחל זרחן",
+            "number": "12"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, הנחלים, נחל זרחן 12"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "שבטי ישראל שחמון רובע",
+            "street": "עין נטפים",
+            "number": "16"
+        },
+        "price": "6000",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, שבטי ישראל שחמון רובע, עין נטפים 16"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "יעלים",
+            "street": "חטיבת גולני",
+            "number": "3309"
+        },
+        "price": "100",
+        "room_count": "4",
+        "square_meters": "95",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, יעלים, חטיבת גולני 3309"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "הדקל",
+            "street": "שד התמרים",
+            "number": "711"
+        },
+        "price": "2700",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, הדקל, שד התמרים 711"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "חוף צפוני",
+            "street": "דרך יותם",
+            "number": "10"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "32",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, חוף צפוני, דרך יותם 10"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "חוף צפוני",
+            "street": "דרך יותם",
+            "number": "6"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "30",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, חוף צפוני, דרך יותם 6"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "צופית תחתית",
+            "street": "דרך יותם",
+            "number": "9"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "30",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, צופית תחתית, דרך יותם 9"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "חוף צפוני",
+            "street": "דרך יותם",
+            "number": "10"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "32",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, חוף צפוני, דרך יותם 10"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "הדקל",
+            "street": "סמ ברק",
+            "number": "8"
+        },
+        "price": "5700",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, הדקל, סמ ברק 8"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "צופית",
+            "street": "העפרוני",
+            "number": "5"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "66",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, צופית, העפרוני 5"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "יעלים",
+            "street": "סמ הצוק",
+            "number": "3305"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, יעלים, סמ הצוק 3305"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "הדקל",
+            "street": "נחשון",
+            "number": "27"
+        },
+        "price": "3400",
+        "room_count": "2",
+        "square_meters": "43",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, הדקל, נחשון 27"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "אורים",
+            "street": "מלכת שבא",
+            "number": "1"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "84",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, אורים, מלכת שבא 1"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "המאפיה",
+            "street": "מרכז הע",
+            "number": "N/A"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "80",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, המאפיה, מרכז הע, הצדפים 4"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "יעלים",
+            "street": "כיכר אריות",
+            "number": "3307"
+        },
+        "price": "3700",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, יעלים, כיכר אריות 3307"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "אופיר",
+            "street": "שביל עברונה",
+            "number": "1141"
+        },
+        "price": "2800",
+        "room_count": "2",
+        "square_meters": "44",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, אופיר, שביל עברונה 1141"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "מצפה ים",
+            "street": "בתרן",
+            "number": "4"
+        },
+        "price": "5600",
+        "room_count": "4",
+        "square_meters": "130",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, מצפה ים, בתרן 4"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "מצפה ים",
+            "street": "זהרון",
+            "number": "1"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, מצפה ים, זהרון 1"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "צאלים",
+            "street": "שד ארגמן",
+            "number": "7018"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, צאלים, שד ארגמן 7018"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "המאפיה",
+            "street": "מרכז הע",
+            "number": "N/A"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "80",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, המאפיה, מרכז הע, הצדפים 4"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "אופיר",
+            "street": "שחמון",
+            "number": "1"
+        },
+        "price": "3750",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, אופיר, שחמון 1"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "צופית תחתית",
+            "street": "די זהב",
+            "number": "16"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, צופית תחתית, די זהב 16"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "חוף צפוני",
+            "street": "חטיבת הנגב",
+            "number": "1"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, חוף צפוני, חטיבת הנגב 1"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "אופיר",
+            "street": "שחורת",
+            "number": "1128"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, אופיר, שחורת 1128"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "הדקל",
+            "street": "סמ ברק",
+            "number": "6"
+        },
+        "price": "5800",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, הדקל, סמ ברק 6"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "הדקל",
+            "street": "סמ נחל קטורה",
+            "number": "1"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "97",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, הדקל, סמ נחל קטורה 1"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "ערבה",
+            "street": "נחל ניצוץ",
+            "number": "1"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, ערבה, נחל ניצוץ 1"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "המאפיה",
+            "street": "מרכז הע",
+            "number": "N/A"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, המאפיה, מרכז הע, חטיבת גולני 7"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "ערבה",
+            "street": "שור",
+            "number": "6"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, ערבה, שור 6"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "צאלים",
+            "street": "סילון",
+            "number": "7027"
+        },
+        "price": "3400",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, צאלים, סילון 7027"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "אורים",
+            "street": "מלכת שבא",
+            "number": "3"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, אורים, מלכת שבא 3"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "צאלים",
+            "street": "הדס",
+            "number": "4"
+        },
+        "price": "4400",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, צאלים, הדס 4"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "הדקל",
+            "street": "גשרון",
+            "number": "4"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, הדקל, גשרון 4"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "אופיר",
+            "street": "שחורת",
+            "number": "1110"
+        },
+        "price": "3600",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, אופיר, שחורת 1110"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "ערבה",
+            "street": "ירושלים השלמה",
+            "number": "682"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "68",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, ערבה, ירושלים השלמה 682"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "צאלים",
+            "street": "הספורטאים",
+            "number": "7019"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "N/A",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, צאלים, הספורטאים 7019"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "העונות - בבניה",
+            "street": "משעול יום אילת",
+            "number": "8"
+        },
+        "price": "5000",
+        "room_count": "4.5",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, העונות - בבניה , משעול יום אילת 8"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "ערבה",
+            "street": "צין",
+            "number": "21"
+        },
+        "price": "2650",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, ערבה, צין 21"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "הדקל",
+            "street": "סמ ברק",
+            "number": "8"
+        },
+        "price": "8000",
+        "room_count": "4",
+        "square_meters": "117",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, הדקל, סמ ברק 8"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "הדקל",
+            "street": "סמ ברק",
+            "number": "8"
+        },
+        "price": "8000",
+        "room_count": "4",
+        "square_meters": "117",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, הדקל, סמ ברק 8"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "הדקל",
+            "street": "ברנע",
+            "number": "5"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, הדקל, ברנע 5"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "אופיר",
+            "street": "חכליל",
+            "number": "1150"
+        },
+        "price": "4000",
+        "room_count": "3.5",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, אופיר, חכליל 1150"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "אורים",
+            "street": "סמ מלכית",
+            "number": "5103"
+        },
+        "price": "3300",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, אורים, סמ מלכית 5103"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "הדקל",
+            "street": "גשרון",
+            "number": "4"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, הדקל, גשרון 4"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "צאלים",
+            "street": "ששת הימים",
+            "number": "182"
+        },
+        "price": "4557",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, צאלים, ששת הימים 182"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "אופיר",
+            "street": "שד ארגמן",
+            "number": "58"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, אופיר, שד ארגמן 58"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "מצפה ים",
+            "street": "דקר",
+            "number": "12"
+        },
+        "price": "4600",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, מצפה ים, דקר 12"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "הדקל",
+            "street": "סמ נחל קטורה",
+            "number": "1"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "97",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, הדקל, סמ נחל קטורה 1"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "הדקל",
+            "street": "סמ ברק",
+            "number": "8"
+        },
+        "price": "8000",
+        "room_count": "4",
+        "square_meters": "117",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, הדקל, סמ ברק 8"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "צופית",
+            "street": "אנפה",
+            "number": "4011"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, צופית, אנפה 4011"
+    },
+    {
+        "location": {
+            "city": "אילת",
+            "area": "מצפה ים",
+            "street": "זהורית",
+            "number": "4"
+        },
+        "price": "4000",
+        "room_count": "4.5",
+        "square_meters": "120",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אילת, מצפה ים, זהורית 4"
+    }
+]

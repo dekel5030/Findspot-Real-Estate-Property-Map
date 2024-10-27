@@ -1,0 +1,450 @@
+[
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "פארק המושבה",
+            "street": "הברוש",
+            "number": "5"
+        },
+        "price": "7300",
+        "room_count": "4",
+        "square_meters": "105",
+        "floor": "17",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, פארק המושבה, הברוש 5"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "גיא",
+            "number": "1"
+        },
+        "price": "6800",
+        "room_count": "5",
+        "square_meters": "125",
+        "floor": "14",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה, גיא 1"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "7200",
+        "room_count": "5",
+        "square_meters": "143",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "תלמי מנשה",
+            "street": "הדר",
+            "number": "37"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, תלמי מנשה, הדר 37"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "144",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "112",
+        "floor": "15",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "פארק המושבה",
+            "street": "הברוש",
+            "number": "5"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "127",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, פארק המושבה, הברוש 5"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "הרצל",
+            "street": "מאיר בעל הנס",
+            "number": "11"
+        },
+        "price": "3900",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, הרצל, מאיר בעל הנס 11"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "הדגן",
+            "number": "1"
+        },
+        "price": "6400",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "16",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה, הדגן 1"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "גיא",
+            "number": "1"
+        },
+        "price": "6700",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה, גיא 1"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "פארק המושבה",
+            "street": "הברוש",
+            "number": "5"
+        },
+        "price": "7300",
+        "room_count": "4",
+        "square_meters": "105",
+        "floor": "18",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, פארק המושבה, הברוש 5"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "7000",
+        "room_count": "5",
+        "square_meters": "127",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "128",
+        "floor": "13",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "גיא",
+            "number": "1"
+        },
+        "price": "6400",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה, גיא 1"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "7200",
+        "room_count": "5",
+        "square_meters": "144",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צמרות המושבה",
+            "street": "יהלום",
+            "number": "1"
+        },
+        "price": "9000",
+        "room_count": "5",
+        "square_meters": "155",
+        "floor": "10",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צמרות המושבה, יהלום 1"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "חתני פרס ישראל",
+            "street": "קישון אפרים",
+            "number": "14"
+        },
+        "price": "6900",
+        "room_count": "4",
+        "square_meters": "114",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, חתני פרס ישראל, קישון אפרים 14"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צמרות המושבה",
+            "street": "ספיר",
+            "number": "6"
+        },
+        "price": "6600",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צמרות המושבה, ספיר 6"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "הרצל",
+            "street": "מאיר בעל הנס",
+            "number": "44"
+        },
+        "price": "6000",
+        "room_count": "5",
+        "square_meters": "116",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, הרצל, מאיר בעל הנס 44"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "כוכב הצפון",
+            "street": "שביט",
+            "number": "1"
+        },
+        "price": "6800",
+        "room_count": "4",
+        "square_meters": "125",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, כוכב הצפון, שביט 1"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צמרות המושבה",
+            "street": "ספיר",
+            "number": "6"
+        },
+        "price": "6600",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צמרות המושבה, ספיר 6"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "הדגן",
+            "number": "1"
+        },
+        "price": "7800",
+        "room_count": "5",
+        "square_meters": "144",
+        "floor": "14",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה, הדגן 1"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "7200",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "6900",
+        "room_count": "4",
+        "square_meters": "125",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "הדגן",
+            "number": "8"
+        },
+        "price": "8200",
+        "room_count": "6",
+        "square_meters": "153",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה, הדגן 8"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "עמק",
+            "number": "1"
+        },
+        "price": "7400",
+        "room_count": "5",
+        "square_meters": "126",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה, עמק 1"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "הדגן",
+            "number": "8"
+        },
+        "price": "8200",
+        "room_count": "6",
+        "square_meters": "153",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה, הדגן 8"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "פארק המושבה",
+            "street": "הברוש",
+            "number": "3"
+        },
+        "price": "7000",
+        "room_count": "4",
+        "square_meters": "101",
+        "floor": "19",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, פארק המושבה, הברוש 3"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "גיא",
+            "number": "1"
+        },
+        "price": "6800",
+        "room_count": "5",
+        "square_meters": "125",
+        "floor": "14",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה, גיא 1"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "הדגן",
+            "number": "8"
+        },
+        "price": "8200",
+        "room_count": "6",
+        "square_meters": "153",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה, הדגן 8"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "גיא",
+            "number": "1"
+        },
+        "price": "7000",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה, גיא 1"
+    },
+    {
+        "location": {
+            "city": "באר יעקב",
+            "area": "צריפין החדשה",
+            "street": "הדגן",
+            "number": "8"
+        },
+        "price": "8200",
+        "room_count": "6",
+        "square_meters": "153",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "באר יעקב, צריפין החדשה, הדגן 8"
+    }
+]

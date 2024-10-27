@@ -1,0 +1,548 @@
+[
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "מרים הנביאה",
+            "number": "21"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "136",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, מרים הנביאה 21"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "נופרים",
+            "street": "נחשול",
+            "number": "2"
+        },
+        "price": "5850",
+        "room_count": "5",
+        "square_meters": "150",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, נופרים, נחשול 2"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "אליהו הנביא",
+            "number": "25"
+        },
+        "price": "5900",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, אליהו הנביא 25"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "אליהו הנביא",
+            "number": "N/A"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, אליהו הנביא"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "רמב\"ם",
+            "street": "סעדיה גאון",
+            "number": "40"
+        },
+        "price": "4600",
+        "room_count": "6",
+        "square_meters": "480",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, רמב\"ם, סעדיה גאון 40"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "אליהו הנביא",
+            "number": "27"
+        },
+        "price": "6650",
+        "room_count": "5",
+        "square_meters": "144",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, אליהו הנביא 27"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "רמב\"ם",
+            "street": "המוביל הארצי",
+            "number": "2"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, רמב\"ם, המוביל הארצי 2"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "אליהו הנביא",
+            "number": "46"
+        },
+        "price": "6600",
+        "room_count": "5",
+        "square_meters": "134",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, אליהו הנביא 46"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "אליהו הנביא",
+            "number": "56"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "79",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, אליהו הנביא 56"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "הרקפות",
+            "street": "הסנהדרין",
+            "number": "90"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, הרקפות, הסנהדרין 90"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "יונתן רטוש",
+            "number": "16"
+        },
+        "price": "6900",
+        "room_count": "5",
+        "square_meters": "134",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, יונתן רטוש 16"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "אליהו הנביא",
+            "number": "44"
+        },
+        "price": "6500",
+        "room_count": "5",
+        "square_meters": "154",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, אליהו הנביא 44"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "אליהו הנביא",
+            "number": "23"
+        },
+        "price": "6600",
+        "room_count": "4",
+        "square_meters": "130",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, אליהו הנביא 23"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "נווה אפק",
+            "street": "עוגב",
+            "number": "4"
+        },
+        "price": "5200",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, נווה אפק, עוגב 4"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "אביב",
+            "street": "הטייס",
+            "number": "74"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, אביב, הטייס 74"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "שמואל הנביא",
+            "number": "13"
+        },
+        "price": "",
+        "room_count": "4.5",
+        "square_meters": "125",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, שמואל הנביא 13"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "רמב\"ם",
+            "street": "העצמאות",
+            "number": "20"
+        },
+        "price": "5800",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, רמב\"ם, העצמאות 20"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "זכריה הנביא",
+            "number": "12"
+        },
+        "price": "6300",
+        "room_count": "4",
+        "square_meters": "105",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, זכריה הנביא 12"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "גולדה  מאיר",
+            "number": "34"
+        },
+        "price": "6000",
+        "room_count": "5",
+        "square_meters": "125",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, גולדה  מאיר 34"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "יפה ירקוני",
+            "number": "4"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, יפה ירקוני 4"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "יפה ירקוני",
+            "number": "4"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, יפה ירקוני 4"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "נווה אפק",
+            "street": "עוגב",
+            "number": "4"
+        },
+        "price": "5200",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, נווה אפק, עוגב 4"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "חיים הרצוג",
+            "number": "9"
+        },
+        "price": "5900",
+        "room_count": "3",
+        "square_meters": "94",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, חיים הרצוג 9"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "נופרים",
+            "street": "נחשול",
+            "number": "4"
+        },
+        "price": "6600",
+        "room_count": "5",
+        "square_meters": "142",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, נופרים, נחשול 4"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "חיים הרצוג",
+            "number": "22"
+        },
+        "price": "7400",
+        "room_count": "6",
+        "square_meters": "173",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, חיים הרצוג 22"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "אביב",
+            "street": "שבזי",
+            "number": "37"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "62",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, אביב, שבזי 37"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "גולדה  מאיר",
+            "number": "15"
+        },
+        "price": "6200",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, גולדה  מאיר 15"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "חיים הרצוג",
+            "number": "22"
+        },
+        "price": "7400",
+        "room_count": "6",
+        "square_meters": "173",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, חיים הרצוג 22"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "פול סמואלסון",
+            "number": "15"
+        },
+        "price": "6500",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, פול סמואלסון 15"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "אליהו הנביא",
+            "number": "35"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "130",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, אליהו הנביא 35"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "חיים הרצוג",
+            "number": "31"
+        },
+        "price": "6400",
+        "room_count": "4",
+        "square_meters": "122",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, חיים הרצוג 31"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "אליהו הנביא",
+            "number": "25"
+        },
+        "price": "5900",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, אליהו הנביא 25"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "רמב\"ם",
+            "street": "רמב\"ם",
+            "number": "14"
+        },
+        "price": "3600",
+        "room_count": "2",
+        "square_meters": "54",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, רמב\"ם, רמב\"ם 14"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "יואל",
+            "number": "13"
+        },
+        "price": "6400",
+        "room_count": "4",
+        "square_meters": "143",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, יואל 13"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "גולדה  מאיר",
+            "number": "15"
+        },
+        "price": "6200",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, גולדה  מאיר 15"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "גולדה  מאיר",
+            "number": "32"
+        },
+        "price": "6900",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, גולדה  מאיר 32"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "אליהו הנביא",
+            "number": "25"
+        },
+        "price": "5900",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, אליהו הנביא 25"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "גולדה  מאיר",
+            "number": "15"
+        },
+        "price": "6200",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, גולדה  מאיר 15"
+    },
+    {
+        "location": {
+            "city": "ראש העין",
+            "area": "פסגות אפק",
+            "street": "יוסי בנאי",
+            "number": "75"
+        },
+        "price": "5000",
+        "room_count": "4",
+        "square_meters": "130",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "ראש העין, פסגות אפק, יוסי בנאי 75"
+    }
+]

@@ -1,0 +1,1500 @@
+[
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "קריית הרצוג",
+            "street": "הרב מצליח",
+            "number": "12"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "86",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, קריית הרצוג, הרב מצליח 12"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "קריית הרצוג",
+            "street": "אביעד",
+            "number": "7"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, קריית הרצוג, אביעד 7"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "ז’o;בוטינסקי",
+            "number": "89"
+        },
+        "price": "4600",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, ז’o;בוטינסקי 89"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שיכון ג",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "4400",
+        "room_count": "2.5",
+        "square_meters": "66",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שיכון ג"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "לח\"י",
+            "street": "לח\"י",
+            "number": "24"
+        },
+        "price": "5500",
+        "room_count": "4.5",
+        "square_meters": "120",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, לח\"י, לח\"י 24"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "בני ברק צפון",
+            "street": "לח\"י",
+            "number": "25"
+        },
+        "price": "5499",
+        "room_count": "4.5",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, בני ברק צפון, לח\"י 25"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "בני ברק צפון",
+            "street": "לח\"י",
+            "number": "15"
+        },
+        "price": "5800",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, בני ברק צפון, לח\"י 15"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "בני ברק צפון",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "5000",
+        "room_count": "4",
+        "square_meters": "113",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, בני ברק צפון"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "מנחם בגין",
+            "number": "34"
+        },
+        "price": "3300",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, מנחם בגין 34"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "בני ברק צפון",
+            "street": "לח\"י",
+            "number": "N/A"
+        },
+        "price": "5300",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, בני ברק צפון, לח\"י"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "הר שלום",
+            "street": "רבי עקיבא",
+            "number": "22"
+        },
+        "price": "4599",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, הר שלום, רבי עקיבא 22"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "לח\"י",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "5950",
+        "room_count": "4",
+        "square_meters": "105",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, לח\"י"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "לח\"י",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "97",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, לח\"י"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "אזור תעשיה צפון",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "5950",
+        "room_count": "5",
+        "square_meters": "118",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, אזור תעשיה צפון"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "רמת אלחנן",
+            "street": "הרב כהנמן",
+            "number": "101"
+        },
+        "price": "6900",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, רמת אלחנן, הרב כהנמן 101"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "17"
+        },
+        "price": "6400",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 17"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "הר שלום",
+            "street": "האדמו\"ר מקוצק",
+            "number": "22"
+        },
+        "price": "4400",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, הר שלום, האדמו\"ר מקוצק 22"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "מרכז העיר",
+            "street": "רש\"י",
+            "number": "28"
+        },
+        "price": "4200",
+        "room_count": "2.5",
+        "square_meters": "45",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, מרכז העיר, רש\"י 28"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "הר שלום",
+            "street": "הרב קוק",
+            "number": "24"
+        },
+        "price": "3800",
+        "room_count": "2.5",
+        "square_meters": "45",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, הר שלום, הרב קוק 24"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "הרב ברוט",
+            "number": "9"
+        },
+        "price": "4100",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, הרב ברוט 9"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "נווה און",
+            "street": "הרב עוזיאל",
+            "number": "51"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, נווה און, הרב עוזיאל 51"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "תל גיבורים",
+            "street": "יונתן",
+            "number": "16"
+        },
+        "price": "5600",
+        "room_count": "3.5",
+        "square_meters": "76",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, תל גיבורים, יונתן 16"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "הר שלום",
+            "street": "בן גוריון דוד",
+            "number": "33"
+        },
+        "price": "4300",
+        "room_count": "2",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, הר שלום, בן גוריון דוד 33"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "נחלת שמעון",
+            "street": "השר אלון יגאל",
+            "number": "24"
+        },
+        "price": "4100",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, נחלת שמעון, השר אלון יגאל 24"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "קריית הרצוג",
+            "street": "קובלסקי",
+            "number": "22"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, קריית הרצוג, קובלסקי 22"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "ביאליק",
+            "number": "20"
+        },
+        "price": "4500",
+        "room_count": "2.5",
+        "square_meters": "62",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, ביאליק 20"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "17"
+        },
+        "price": "5800",
+        "room_count": "4",
+        "square_meters": "91",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 17"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "אבו חצירא ישראל",
+            "number": "29"
+        },
+        "price": "3750",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, אבו חצירא ישראל 29"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "תל גיבורים",
+            "street": "יונתן",
+            "number": "9"
+        },
+        "price": "5100",
+        "room_count": "4",
+        "square_meters": "78",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, תל גיבורים, יונתן 9"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "קריית הרצוג",
+            "street": "קובלסקי",
+            "number": "30"
+        },
+        "price": "6000",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, קריית הרצוג, קובלסקי 30"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "ז’o;בוטינסקי",
+            "number": "61"
+        },
+        "price": "1650",
+        "room_count": "3",
+        "square_meters": "150",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, ז’o;בוטינסקי 61"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "גבעת סוקולוב",
+            "street": "שבטי ישראל",
+            "number": "16"
+        },
+        "price": "5900",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, גבעת סוקולוב, שבטי ישראל 16"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "טרומפלדור",
+            "number": "26"
+        },
+        "price": "4700",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, טרומפלדור 26"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "נווה אחיעזר א",
+            "street": "אורליאן",
+            "number": "22"
+        },
+        "price": "3900",
+        "room_count": "2",
+        "square_meters": "27",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, נווה אחיעזר א, אורליאן 22"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "הפועל המזרחי ג",
+            "street": "שמחוני",
+            "number": "3"
+        },
+        "price": "5800",
+        "room_count": "3.5",
+        "square_meters": "88",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, הפועל המזרחי ג, שמחוני 3"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "25"
+        },
+        "price": "6000",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 25"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "13"
+        },
+        "price": "5500",
+        "room_count": "4.5",
+        "square_meters": "96",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 13"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "אפשטיין פנחס",
+            "number": "7"
+        },
+        "price": "4100",
+        "room_count": "3.5",
+        "square_meters": "97",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, אפשטיין פנחס 7"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "קריית הרצוג",
+            "street": "נויפלד",
+            "number": "17"
+        },
+        "price": "5600",
+        "room_count": "4",
+        "square_meters": "85",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, קריית הרצוג, נויפלד 17"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "בגין מנחם",
+            "number": "42"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, בגין מנחם 42"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "החלוצים",
+            "number": "7"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, החלוצים 7"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "דנגור",
+            "number": "22"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, דנגור 22"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "החלוצים",
+            "number": "7"
+        },
+        "price": "",
+        "room_count": "3.5",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, החלוצים 7"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "נווה אחיעזר א",
+            "street": "בירנבוים",
+            "number": "39"
+        },
+        "price": "5800",
+        "room_count": "4",
+        "square_meters": "95",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, נווה אחיעזר א, בירנבוים 39"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "מרכז העיר",
+            "street": "הרב כהנמן",
+            "number": "16"
+        },
+        "price": "3000",
+        "room_count": "1.5",
+        "square_meters": "30",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, מרכז העיר, הרב כהנמן 16"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "קריית הרצוג",
+            "street": "אביעד",
+            "number": "3"
+        },
+        "price": "3700",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, קריית הרצוג, אביעד 3"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "ז’o;בוטינסק",
+            "number": "99"
+        },
+        "price": "4300",
+        "room_count": "2.5",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, ז’o;בוטינסק 99"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "31"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 31"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "13"
+        },
+        "price": "7000",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 13"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "אזור תעשיה צפון",
+            "street": "בר כוכבא",
+            "number": "13"
+        },
+        "price": "3500",
+        "room_count": "2.5",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, אזור תעשיה צפון, בר כוכבא 13"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "הירקון",
+            "number": "40"
+        },
+        "price": "6900",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, הירקון 40"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "26"
+        },
+        "price": "6000",
+        "room_count": "5.5",
+        "square_meters": "132",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 26"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "נחלת שמעון",
+            "street": "פדרמן דוזיה",
+            "number": "5"
+        },
+        "price": "6000",
+        "room_count": "5",
+        "square_meters": "110",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, נחלת שמעון, פדרמן דוזיה 5"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "בורוכוב",
+            "number": "25"
+        },
+        "price": "5500",
+        "room_count": "4.5",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, בורוכוב 25"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "תל גיבורים",
+            "street": "הרב שמש דוד",
+            "number": "6"
+        },
+        "price": "4750",
+        "room_count": "3",
+        "square_meters": "84",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, תל גיבורים, הרב שמש דוד 6"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "נחלת שמעון",
+            "street": "השר אלון יגאל",
+            "number": "18"
+        },
+        "price": "5400",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, נחלת שמעון, השר אלון יגאל 18"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "הרב ברוט",
+            "number": "16"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, הרב ברוט 16"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "מרכז העיר",
+            "street": "הירדן",
+            "number": "19"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, מרכז העיר, הירדן 19"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "נחלת שמעון",
+            "street": "השר אלון יגאל",
+            "number": "23"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "97",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, נחלת שמעון, השר אלון יגאל 23"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "תל גיבורים",
+            "street": "ז’o;בוטינסק",
+            "number": "49"
+        },
+        "price": "4300",
+        "room_count": "2.5",
+        "square_meters": "45",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, תל גיבורים, ז’o;בוטינסק 49"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "ביאליק",
+            "number": "26"
+        },
+        "price": "3600",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, ביאליק 26"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "רמת אהרן",
+            "street": "רוזנהיים",
+            "number": "10"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, רמת אהרן, רוזנהיים 10"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "ביאליק",
+            "number": "2"
+        },
+        "price": "3900",
+        "room_count": "2",
+        "square_meters": "63",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, ביאליק 2"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "הפועל המזרחי ה",
+            "street": "ז’o;בוטינסק",
+            "number": "172"
+        },
+        "price": "2400",
+        "room_count": "1",
+        "square_meters": "20",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, הפועל המזרחי ה, ז’o;בוטינסק 172"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "25"
+        },
+        "price": "5400",
+        "room_count": "3",
+        "square_meters": "84",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 25"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "קרית ויז",
+            "street": "הרב עוזיאל",
+            "number": "29"
+        },
+        "price": "5200",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, קרית ויז, הרב עוזיאל 29"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "הר שלום",
+            "street": "בן גוריון דוד",
+            "number": "29"
+        },
+        "price": "5000",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, הר שלום, בן גוריון דוד 29"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "רמת אהרן",
+            "street": "שמעון הצדיק",
+            "number": "2"
+        },
+        "price": "5000",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, רמת אהרן, שמעון הצדיק 2"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "קריית הרצוג",
+            "street": "גרינברג",
+            "number": "1"
+        },
+        "price": "2550",
+        "room_count": "1.5",
+        "square_meters": "40",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, קריית הרצוג, גרינברג 1"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "הרצל",
+            "number": "91"
+        },
+        "price": "2900",
+        "room_count": "2",
+        "square_meters": "1",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, הרצל 91"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "ביאליק",
+            "number": "4"
+        },
+        "price": "4750",
+        "room_count": "3.5",
+        "square_meters": "82",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, ביאליק 4"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "ז’o;בוטינסק",
+            "number": "117"
+        },
+        "price": "3800",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, ז’o;בוטינסק 117"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "בן יוסף שלמה",
+            "number": "14"
+        },
+        "price": "3700",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, בן יוסף שלמה 14"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "גבעת סוקולוב",
+            "street": "אבן גבירול",
+            "number": "28"
+        },
+        "price": "2900",
+        "room_count": "1",
+        "square_meters": "30",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, גבעת סוקולוב, אבן גבירול 28"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "הר שלום",
+            "street": "ז’o;בוטינסק",
+            "number": "4"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, הר שלום, ז’o;בוטינסק 4"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "26"
+        },
+        "price": "5450",
+        "room_count": "4",
+        "square_meters": "98",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 26"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "המכבים",
+            "number": "66"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, המכבים 66"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "תל גיבורים",
+            "street": "ז’o;בוטינסק",
+            "number": "51"
+        },
+        "price": "4500",
+        "room_count": "2.5",
+        "square_meters": "45",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, תל גיבורים, ז’o;בוטינסק 51"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "דנגור",
+            "number": "8"
+        },
+        "price": "3300",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, דנגור 8"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "15"
+        },
+        "price": "5000",
+        "room_count": "4",
+        "square_meters": "116",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 15"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "11"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "110",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 11"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "נחלת שמעון",
+            "street": "חי טייב",
+            "number": "4"
+        },
+        "price": "3800",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, נחלת שמעון, חי טייב 4"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "הר שלום",
+            "street": "ישעיהו",
+            "number": "12"
+        },
+        "price": "5000",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, הר שלום, ישעיהו 12"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "קרית ויז",
+            "street": "קבוץ גלויות",
+            "number": "18"
+        },
+        "price": "3950",
+        "room_count": "2.5",
+        "square_meters": "42",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, קרית ויז, קבוץ גלויות 18"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "הפועל המזרחי ה",
+            "street": "בר אילן",
+            "number": "38"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, הפועל המזרחי ה, בר אילן 38"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "קרית ויז",
+            "street": "קבוץ גלויות",
+            "number": "18"
+        },
+        "price": "3950",
+        "room_count": "2.5",
+        "square_meters": "42",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, קרית ויז, קבוץ גלויות 18"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "תל גיבורים",
+            "street": "יונתן",
+            "number": "7"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, תל גיבורים, יונתן 7"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "נורדאו",
+            "number": "47"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, נורדאו 47"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "29"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "12",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 29"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "29"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "12",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 29"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "הפועל המזרחי ג",
+            "street": "בארי",
+            "number": "6"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, הפועל המזרחי ג, בארי 6"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "קריית הרצוג",
+            "street": "הרב מצליח",
+            "number": "12"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "85",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, קריית הרצוג, הרב מצליח 12"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "15"
+        },
+        "price": "5000",
+        "room_count": "4",
+        "square_meters": "116",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 15"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "טרומפלדור",
+            "number": "42"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, טרומפלדור 42"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "נחלת שמעון",
+            "street": "חי טייב",
+            "number": "4"
+        },
+        "price": "3900",
+        "room_count": "2.5",
+        "square_meters": "45",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, נחלת שמעון, חי טייב 4"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "נחלת שמעון",
+            "street": "חי טייב",
+            "number": "4"
+        },
+        "price": "3900",
+        "room_count": "2.5",
+        "square_meters": "45",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, נחלת שמעון, חי טייב 4"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "גבעת רוקח",
+            "street": "פרל חיים",
+            "number": "9"
+        },
+        "price": "4800",
+        "room_count": "3.5",
+        "square_meters": "83",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, גבעת רוקח, פרל חיים 9"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "הר שלום",
+            "street": "בן גוריון דוד",
+            "number": "33"
+        },
+        "price": "4300",
+        "room_count": "2",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, הר שלום, בן גוריון דוד 33"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "פרדס כץ",
+            "street": "טרומפלדור",
+            "number": "42"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, פרדס כץ, טרומפלדור 42"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "שאר העיר חולון",
+            "street": "לח\"י",
+            "number": "29"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "12",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, שאר העיר חולון, לח\"י 29"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "מרכז העיר",
+            "street": "רבי עקיבא",
+            "number": "154"
+        },
+        "price": "4900",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, מרכז העיר, רבי עקיבא 154"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "גבעת סוקולוב",
+            "street": "סוקולוב",
+            "number": "59"
+        },
+        "price": "3600",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, גבעת סוקולוב, סוקולוב 59"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "מרכז העיר",
+            "street": "רבי עקיבא",
+            "number": "154"
+        },
+        "price": "4900",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, מרכז העיר, רבי עקיבא 154"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "מרכז העיר",
+            "street": "רבי עקיבא",
+            "number": "154"
+        },
+        "price": "4900",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, מרכז העיר, רבי עקיבא 154"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "תל גיבורים",
+            "street": "בגין מנחם",
+            "number": "28"
+        },
+        "price": "4800",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, תל גיבורים, בגין מנחם 28"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "תל גיבורים",
+            "street": "בגין מנחם",
+            "number": "28"
+        },
+        "price": "4800",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, תל גיבורים, בגין מנחם 28"
+    },
+    {
+        "location": {
+            "city": "בני ברק",
+            "area": "תל גיבורים",
+            "street": "בגין מנחם",
+            "number": "28"
+        },
+        "price": "4800",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "בני ברק, תל גיבורים, בגין מנחם 28"
+    }
+]

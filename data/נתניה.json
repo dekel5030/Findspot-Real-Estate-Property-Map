@@ -1,0 +1,2802 @@
+[
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נוף הטיילת",
+            "street": "פייר קניג",
+            "number": "11"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "150",
+        "floor": "17",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נוף הטיילת, פייר קניג 11"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "הגליל",
+            "number": "10"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, הגליל 10"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "טרומפלדור",
+            "number": "18"
+        },
+        "price": "3900",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, טרומפלדור 18"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת אפריים",
+            "street": "טיומקין",
+            "number": "5"
+        },
+        "price": "5000",
+        "room_count": "4",
+        "square_meters": "106",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת אפריים, טיומקין 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "סלע",
+            "street": "גיורא יוספטל",
+            "number": "9"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, סלע, גיורא יוספטל 9"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "הרצל",
+            "number": "42"
+        },
+        "price": "3900",
+        "room_count": "2.5",
+        "square_meters": "61",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, הרצל 42"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "בן יהודה",
+            "number": "33"
+        },
+        "price": "4900",
+        "room_count": "3.5",
+        "square_meters": "90",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, בן יהודה 33"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נוף הטיילת",
+            "street": "אמנון ליפקין שחק",
+            "number": "1"
+        },
+        "price": "9000",
+        "room_count": "5",
+        "square_meters": "133",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נוף הטיילת, אמנון ליפקין שחק 1"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "ביאליק",
+            "number": "N/A"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "80",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, ביאליק"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קריית נורדאו",
+            "street": "קצנלסון יצחק",
+            "number": "N/A"
+        },
+        "price": "3300",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קריית נורדאו, קצנלסון יצחק"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שדרות בנימין",
+            "number": "61"
+        },
+        "price": "4600",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שדרות בנימין 61"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "אהרון ברט",
+            "number": "3"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, אהרון ברט 3"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "רזיאל",
+            "number": "25"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, רזיאל 25"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "עיר ימים",
+            "street": "אריק לביא",
+            "number": "16"
+        },
+        "price": "9500",
+        "room_count": "5",
+        "square_meters": "127",
+        "floor": "10",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, עיר ימים, אריק לביא 16"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שטמפפר",
+            "number": "5"
+        },
+        "price": "2400",
+        "room_count": "1",
+        "square_meters": "20",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שטמפפר 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "סלומון יואל",
+            "number": "14"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "107",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, סלומון יואל 14"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "42"
+        },
+        "price": "3900",
+        "room_count": "2.5",
+        "square_meters": "61",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, הרצל 42"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שד בנימין",
+            "number": "50"
+        },
+        "price": "5400",
+        "room_count": "3.5",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שד בנימין 50"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "אוסישקין",
+            "number": "5"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "107",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, אוסישקין 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קריית נורדאו",
+            "street": "קצנלסון יצחק",
+            "number": "14"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קריית נורדאו, קצנלסון יצחק 14"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "יוסף ספיר",
+            "number": "5"
+        },
+        "price": "2800",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, יוסף ספיר 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "הרב קוק",
+            "number": "17"
+        },
+        "price": "5200",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, הרב קוק 17"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "הרב קוק",
+            "number": "11"
+        },
+        "price": "5200",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, הרב קוק 11"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות גנים / שיכ",
+            "street": "בוסל",
+            "number": "52"
+        },
+        "price": "3400",
+        "room_count": "2",
+        "square_meters": "75",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות גנים / שיכ, בוסל 52"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "סמילנסקי",
+            "number": "37"
+        },
+        "price": "4600",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, סמילנסקי 37"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "גורדון",
+            "number": "18"
+        },
+        "price": "4200",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, גורדון 18"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות הרצל",
+            "street": "הוז דב",
+            "number": "23"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "185",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות הרצל, הוז דב 23"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "42"
+        },
+        "price": "3900",
+        "room_count": "2.5",
+        "square_meters": "61",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, הרצל 42"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "סמילנסקי",
+            "number": "9"
+        },
+        "price": "5000",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, סמילנסקי 9"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "בן יהודה",
+            "number": "5"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, בן יהודה 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "הרב קוק",
+            "number": "17"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "82",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, הרב קוק 17"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שטמפפר",
+            "number": "13"
+        },
+        "price": "3500",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שטמפפר 13"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "שפרינצק",
+            "number": "5"
+        },
+        "price": "2500",
+        "room_count": "1.5",
+        "square_meters": "25",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, שפרינצק 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "מאירוביץ",
+            "number": "6"
+        },
+        "price": "4900",
+        "room_count": "3",
+        "square_meters": "120",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, מאירוביץ 6"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שד בנימין",
+            "number": "48"
+        },
+        "price": "4800",
+        "room_count": "3.5",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שד בנימין 48"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "בן יהודה",
+            "number": "12"
+        },
+        "price": "4800",
+        "room_count": "2.5",
+        "square_meters": "78",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, בן יהודה 12"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "יהודה הלוי",
+            "number": "7"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, יהודה הלוי 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "דיזנגוף",
+            "number": "39"
+        },
+        "price": "3700",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, דיזנגוף 39"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "פרדס הגדוד",
+            "street": "רבי עקיבא",
+            "number": "52"
+        },
+        "price": "3800",
+        "room_count": "3.5",
+        "square_meters": "69",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, פרדס הגדוד, רבי עקיבא 52"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת אפריים",
+            "street": "פתח תקוה",
+            "number": "41"
+        },
+        "price": "5000",
+        "room_count": "3.5",
+        "square_meters": "113",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת אפריים, פתח תקוה 41"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "בקמן",
+            "number": "4"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, בקמן 4"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "שפרינצק",
+            "number": "14"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, שפרינצק 14"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות הרצל",
+            "street": "הרב ריינס",
+            "number": "6"
+        },
+        "price": "4100",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות הרצל, הרב ריינס 6"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "בן אליעזר",
+            "number": "5"
+        },
+        "price": "5600",
+        "room_count": "5",
+        "square_meters": "104",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, בן אליעזר 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת ידין",
+            "street": "ירמיהו",
+            "number": "19"
+        },
+        "price": "3800",
+        "room_count": "3.5",
+        "square_meters": "76",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת ידין, ירמיהו 19"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נוף הטיילת",
+            "street": "אמנון ליפקין שח",
+            "number": "1"
+        },
+        "price": "9000",
+        "room_count": "5",
+        "square_meters": "162",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נוף הטיילת, אמנון ליפקין שח 1"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "פרדס הגדוד",
+            "street": "סוקולוב",
+            "number": "45"
+        },
+        "price": "3700",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, פרדס הגדוד, סוקולוב 45"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת ידין",
+            "street": "נחום",
+            "number": "21"
+        },
+        "price": "3600",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת ידין, נחום 21"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת ידין",
+            "street": "עליה",
+            "number": "7"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת ידין, עליה 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת ידין",
+            "street": "ועידת הלסינקי",
+            "number": "8"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת ידין, ועידת הלסינקי 8"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "אברהם שפירא",
+            "number": "10"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, אברהם שפירא 10"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "סמילנסקי",
+            "number": "79"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "128",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, סמילנסקי 79"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "סמילנסקי",
+            "number": "7"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, סמילנסקי 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "בארי",
+            "number": "55"
+        },
+        "price": "6800",
+        "room_count": "5",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, בארי 55"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "עיר ימים",
+            "street": "שז\"ר זלמן",
+            "number": "3"
+        },
+        "price": "9200",
+        "room_count": "4.5",
+        "square_meters": "150",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, עיר ימים, שז\"ר זלמן 3"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "זמנהוף",
+            "number": "12"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "38",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, זמנהוף 12"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "סמילנסקי",
+            "number": "22"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "137",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, סמילנסקי 22"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "עין התכלת",
+            "street": "השקד",
+            "number": "14"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, עין התכלת, השקד 14"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "בן ציון",
+            "street": "רד\"ק",
+            "number": "7"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "92",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, בן ציון, רד\"ק 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "ראשון לציון",
+            "number": "4"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, ראשון לציון 4"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות שקד",
+            "street": "רחבת מרואני מכלוף",
+            "number": "10"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות שקד, רחבת מרואני מכלוף 10"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "יהודה הנשיא",
+            "number": "7"
+        },
+        "price": "3300",
+        "room_count": "2.5",
+        "square_meters": "65",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, יהודה הנשיא 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "כוכב הצפון",
+            "street": "התנאים",
+            "number": "13"
+        },
+        "price": "4200",
+        "room_count": "2",
+        "square_meters": "73",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, כוכב הצפון, התנאים 13"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "בקמן",
+            "number": "7"
+        },
+        "price": "4500",
+        "room_count": "3.5",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, בקמן 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "זמנהוף",
+            "number": "8"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "125",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, זמנהוף 8"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות שקד",
+            "street": "שד בן צבי",
+            "number": "60"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות שקד, שד בן צבי 60"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "יוסף ספיר",
+            "number": "6"
+        },
+        "price": "3400",
+        "room_count": "3.5",
+        "square_meters": "68",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, יוסף ספיר 6"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "אלון צבי",
+            "number": "10"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, אלון צבי 10"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נוף הטיילת",
+            "street": "אמנון ליפקין שחק",
+            "number": "1"
+        },
+        "price": "11500",
+        "room_count": "5",
+        "square_meters": "137",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נוף הטיילת, אמנון ליפקין שחק 1"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "ד\"ר אבו שדיד אברה",
+            "number": "31"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, ד\"ר אבו שדיד אברה 31"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות הרצל",
+            "street": "עמק חפר",
+            "number": "N/A"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות הרצל, עמק חפר"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "בארי",
+            "number": "27"
+        },
+        "price": "5300",
+        "room_count": "4.5",
+        "square_meters": "120",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, בארי 27"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שד בנימין",
+            "number": "42"
+        },
+        "price": "6120",
+        "room_count": "3",
+        "square_meters": "N/A",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שד בנימין 42"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "שפרינצק",
+            "number": "7"
+        },
+        "price": "2500",
+        "room_count": "1.5",
+        "square_meters": "48",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, שפרינצק 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "שדה יצחק",
+            "number": "7"
+        },
+        "price": "3250",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, שדה יצחק 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "שדרות בנימין",
+            "number": "16"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "30",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, שדרות בנימין 16"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קרל פופר 5",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "7300",
+        "room_count": "4",
+        "square_meters": "114",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קרל פופר 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת ידין",
+            "street": "הנביאים",
+            "number": "7"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת ידין, הנביאים 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "בן ציון",
+            "street": "האר\"י",
+            "number": "22"
+        },
+        "price": "5250",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, בן ציון, האר\"י 22"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נוף הטיילת",
+            "street": "אמנון ליפקין שחק",
+            "number": "1"
+        },
+        "price": "8800",
+        "room_count": "5",
+        "square_meters": "128",
+        "floor": "15",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נוף הטיילת, אמנון ליפקין שחק 1"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "גלי ים",
+            "street": "בני בנימין",
+            "number": "13"
+        },
+        "price": "9000",
+        "room_count": "4",
+        "square_meters": "124",
+        "floor": "13",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, גלי ים, בני בנימין 13"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "בן ציון",
+            "street": "הקליר",
+            "number": "24"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "141",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, בן ציון, הקליר 24"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "בן אליעזר",
+            "number": "46"
+        },
+        "price": "5300",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, בן אליעזר 46"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "19"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "56",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, הרצל 19"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות גנים / שיכ",
+            "street": "ארלוזורוב",
+            "number": "37"
+        },
+        "price": "4000",
+        "room_count": "2.5",
+        "square_meters": "85",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות גנים / שיכ, ארלוזורוב 37"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "ראשון לציון",
+            "number": "32"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "87",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, ראשון לציון 32"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "ראשון לציון",
+            "number": "28"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, ראשון לציון 28"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שמואל הנציב",
+            "number": "42"
+        },
+        "price": "3800",
+        "room_count": "2.5",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שמואל הנציב 42"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות הרצל",
+            "street": "פיירברג",
+            "number": "2"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות הרצל, פיירברג 2"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "אגמים",
+            "street": "דווייט דייוויד",
+            "number": "1"
+        },
+        "price": "7900",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, אגמים, דווייט דייוויד  1"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "גלי ים",
+            "street": "לוי אשכול",
+            "number": "4"
+        },
+        "price": "6700",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, גלי ים, לוי אשכול 4"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קריית נורדאו",
+            "street": "השר בכור שטרית",
+            "number": "13"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קריית נורדאו, השר בכור שטרית 13"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "בן ציון",
+            "street": "פתח תקוה",
+            "number": "81"
+        },
+        "price": "3600",
+        "room_count": "3",
+        "square_meters": "64",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, בן ציון, פתח תקוה 81"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נוף הטיילת",
+            "street": "אמנון ליפקין שח",
+            "number": "1"
+        },
+        "price": "9500",
+        "room_count": "5",
+        "square_meters": "158",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נוף הטיילת, אמנון ליפקין שח 1"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת אפריים",
+            "street": "פתח תקוה",
+            "number": "57"
+        },
+        "price": "3900",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת אפריים, פתח תקוה 57"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נוף הטיילת",
+            "street": "שד עובד בן עמי",
+            "number": "2"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נוף הטיילת, שד עובד בן עמי 2"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות הרצל",
+            "street": "אליהו הגלעדי",
+            "number": "8"
+        },
+        "price": "6500",
+        "room_count": "6",
+        "square_meters": "140",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות הרצל, אליהו הגלעדי 8"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שלמה המלך",
+            "number": "1"
+        },
+        "price": "2800",
+        "room_count": "5",
+        "square_meters": "N/A",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שלמה המלך 1"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת ידין",
+            "street": "הנביאים",
+            "number": "7"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת ידין, הנביאים 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "שוהם",
+            "number": "25"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, שוהם 25"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות הרצל",
+            "street": "עולי הגרדום",
+            "number": "18"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות הרצל, עולי הגרדום 18"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נוף הטיילת",
+            "street": "מרשל פייר קניג",
+            "number": "9"
+        },
+        "price": "8000",
+        "room_count": "5",
+        "square_meters": "158",
+        "floor": "10",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נוף הטיילת, מרשל פייר קניג 9"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "מלחמת ששת הימים",
+            "number": "36"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, מלחמת ששת הימים 36"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "הלפרין ירמיהו",
+            "number": "6"
+        },
+        "price": "7000",
+        "room_count": "4",
+        "square_meters": "95",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, הלפרין ירמיהו 6"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "שד ויצמן",
+            "number": "4"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "28",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, שד ויצמן 4"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות שקד",
+            "street": "שד בן צבי",
+            "number": "90"
+        },
+        "price": "4000",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות שקד, שד בן צבי 90"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קריית נורדאו",
+            "street": "שד גולדה מאיר",
+            "number": "21"
+        },
+        "price": "2400",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קריית נורדאו, שד גולדה מאיר 21"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות הרצל",
+            "street": "ניסנבוים",
+            "number": "16"
+        },
+        "price": "2600",
+        "room_count": "1.5",
+        "square_meters": "36",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות הרצל, ניסנבוים 16"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "בן אליעזר",
+            "number": "35"
+        },
+        "price": "4400",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, בן אליעזר 35"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות שקד",
+            "street": "גרינבוים",
+            "number": "33"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות שקד, גרינבוים 33"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "ברקת ראובן",
+            "number": "9"
+        },
+        "price": "2500",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, ברקת ראובן 9"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת ידין",
+            "street": "יחזקאל",
+            "number": "48"
+        },
+        "price": "3000",
+        "room_count": "2.5",
+        "square_meters": "52",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת ידין, יחזקאל 48"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "לבונטין",
+            "number": "2"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, לבונטין 2"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "עיר ימים",
+            "street": "דודו דותן",
+            "number": "2"
+        },
+        "price": "3490",
+        "room_count": "2",
+        "square_meters": "137",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, עיר ימים, דודו דותן 2"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "שד ויצמן",
+            "number": "4"
+        },
+        "price": "2500",
+        "room_count": "1",
+        "square_meters": "35",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, שד ויצמן 4"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות שקד",
+            "street": "רחבת מרואני מכל",
+            "number": "2"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות שקד, רחבת מרואני מכל 2"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "טשרניחובסקי",
+            "number": "11"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, טשרניחובסקי 11"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות שקד",
+            "street": "שד בן צבי",
+            "number": "68"
+        },
+        "price": "3700",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות שקד, שד בן צבי 68"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת פולג",
+            "street": "אמנון ותמר",
+            "number": "28"
+        },
+        "price": "7000",
+        "room_count": "5",
+        "square_meters": "135",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת פולג, אמנון ותמר 28"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "ז’o;בוטינסק",
+            "number": "10"
+        },
+        "price": "7900",
+        "room_count": "5",
+        "square_meters": "141",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, ז’o;בוטינסק 10"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "הרב קוק",
+            "number": "44"
+        },
+        "price": "4700",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, הרב קוק 44"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת אפריים",
+            "street": "הפורצים",
+            "number": "19"
+        },
+        "price": "3900",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת אפריים, הפורצים 19"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שד ירושלים",
+            "number": "29"
+        },
+        "price": "3100",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שד ירושלים 29"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שד בנימין",
+            "number": "61"
+        },
+        "price": "4750",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שד בנימין 61"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת ידין",
+            "street": "ועידת הלסינקי",
+            "number": "7"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת ידין, ועידת הלסינקי 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "בארי",
+            "number": "68"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, בארי 68"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "שפירא משה",
+            "number": "3"
+        },
+        "price": "",
+        "room_count": "5",
+        "square_meters": "110",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, שפירא משה 3"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "המתמיד",
+            "number": "5"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, המתמיד 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קריית נורדאו",
+            "street": "השר בכור שטרית",
+            "number": "15"
+        },
+        "price": "4150",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קריית נורדאו, השר בכור שטרית 15"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "הרב קוק",
+            "number": "17"
+        },
+        "price": "3950",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, הרב קוק 17"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "טשרניחובסקי",
+            "number": "13"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, טשרניחובסקי 13"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "זומרשטיין",
+            "number": "20"
+        },
+        "price": "3800",
+        "room_count": "2",
+        "square_meters": "36",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, זומרשטיין 20"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "סלומון יואל",
+            "number": "15"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, סלומון יואל 15"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "ראשון לציון",
+            "number": "22"
+        },
+        "price": "6900",
+        "room_count": "4.5",
+        "square_meters": "110",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, ראשון לציון 22"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שדרות ניצה",
+            "number": "1"
+        },
+        "price": "8500",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שדרות ניצה 1"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "יוסף ספיר",
+            "number": "2"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, יוסף ספיר 2"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קריית נורדאו",
+            "street": "רוטנברג",
+            "number": "3"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קריית נורדאו, רוטנברג 3"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "מלחמת ששת הימים",
+            "number": "38"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, מלחמת ששת הימים 38"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "הכובשים",
+            "number": "5"
+        },
+        "price": "3700",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, הכובשים 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "סמילנסקי",
+            "number": "24"
+        },
+        "price": "7500",
+        "room_count": "5.5",
+        "square_meters": "130",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, סמילנסקי 24"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "הכובשים",
+            "number": "5"
+        },
+        "price": "3700",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, הכובשים 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נוף הטיילת",
+            "street": "שד עובד בן עמי",
+            "number": "2"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נוף הטיילת, שד עובד בן עמי 2"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קריית נורדאו",
+            "street": "שד גולדה מאיר",
+            "number": "20"
+        },
+        "price": "5300",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קריית נורדאו, שד גולדה מאיר 20"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת ידין",
+            "street": "ירמיהו",
+            "number": "3"
+        },
+        "price": "3600",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת ידין, ירמיהו 3"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "סמילנסקי",
+            "number": "1"
+        },
+        "price": "2600",
+        "room_count": "1",
+        "square_meters": "25",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, סמילנסקי 1"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שד בן אב\"י",
+            "number": "1"
+        },
+        "price": "4000",
+        "room_count": "2.5",
+        "square_meters": "70",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שד בן אב\"י 1"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קריית נורדאו",
+            "street": "שניאור זלמן",
+            "number": "7"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קריית נורדאו, שניאור זלמן 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "בארי",
+            "number": "55"
+        },
+        "price": "7200",
+        "room_count": "5",
+        "square_meters": "127",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, בארי 55"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קריית נורדאו",
+            "street": "אריה לייב יפה",
+            "number": "7"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קריית נורדאו, אריה לייב יפה 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קריית צאנז",
+            "street": "המלכים",
+            "number": "10"
+        },
+        "price": "9000",
+        "room_count": "3",
+        "square_meters": "104",
+        "floor": "14",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קריית צאנז, המלכים 10"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שער הגיא",
+            "number": "10"
+        },
+        "price": "3000",
+        "room_count": "1",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שער הגיא 10"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "בן אליעזר",
+            "number": "46"
+        },
+        "price": "5300",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, בן אליעזר 46"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "בן אליעזר",
+            "number": "46"
+        },
+        "price": "5300",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, בן אליעזר 46"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שד ירושלים",
+            "number": "5"
+        },
+        "price": "6500",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שד ירושלים 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "זומרשטיין",
+            "number": "20"
+        },
+        "price": "3800",
+        "room_count": "2",
+        "square_meters": "36",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, זומרשטיין 20"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קרל פופר 5",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "7900",
+        "room_count": "5",
+        "square_meters": "155",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קרל פופר 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "שד ויצמן",
+            "number": "30"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "63",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, שד ויצמן 30"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת ידין",
+            "street": "נחום",
+            "number": "9"
+        },
+        "price": "3400",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת ידין, נחום 9"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "בארי",
+            "number": "68"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, בארי 68"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "החשמונאים",
+            "number": "28"
+        },
+        "price": "6300",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, החשמונאים 28"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "הרב קוק",
+            "number": "10"
+        },
+        "price": "2100",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, הרב קוק 10"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "הר ציון",
+            "number": "1"
+        },
+        "price": "4600",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, הר ציון 1"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "אגמים",
+            "street": "דווייט דייוויד איזנהאואר",
+            "number": "5"
+        },
+        "price": "7800",
+        "room_count": "4",
+        "square_meters": "130",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, אגמים, דווייט דייוויד איזנהאואר 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "אגמים",
+            "street": "דווייט דייוויד איזנהאואר",
+            "number": "5"
+        },
+        "price": "7800",
+        "room_count": "4",
+        "square_meters": "130",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, אגמים, דווייט דייוויד איזנהאואר 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות הרצל",
+            "street": "מינץ",
+            "number": "12"
+        },
+        "price": "2750",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות הרצל, מינץ 12"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "הגליל",
+            "number": "24"
+        },
+        "price": "4100",
+        "room_count": "2.5",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, הגליל 24"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "שרת",
+            "number": "25"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, שרת 25"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נוף הטיילת",
+            "street": "אמנון ליפקין שחק",
+            "number": "1"
+        },
+        "price": "9500",
+        "room_count": "5",
+        "square_meters": "158",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נוף הטיילת, אמנון ליפקין שחק 1"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "2500",
+        "room_count": "1",
+        "square_meters": "27",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "כוכב הים",
+            "street": "היהלומן אברהמס",
+            "number": "1"
+        },
+        "price": "8000",
+        "room_count": "5",
+        "square_meters": "141",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, כוכב הים, היהלומן אברהמס 1"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "ראשון לציון",
+            "number": "6"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, ראשון לציון 6"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "פרדס הגדוד",
+            "street": "התנועה הציונית",
+            "number": "10"
+        },
+        "price": "2900",
+        "room_count": "2",
+        "square_meters": "48",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, פרדס הגדוד, התנועה הציונית 10"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "יוסף ספיר",
+            "number": "5"
+        },
+        "price": "2800",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, יוסף ספיר 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "ראשון לציון",
+            "number": "32"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "87",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, ראשון לציון 32"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "פרדס הגדוד",
+            "street": "אנטוורפן",
+            "number": "21"
+        },
+        "price": "4900",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, פרדס הגדוד, אנטוורפן 21"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קרל פופר 5",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "8500",
+        "room_count": "5",
+        "square_meters": "150",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קרל פופר 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "שפירא משה",
+            "number": "51"
+        },
+        "price": "4500",
+        "room_count": "2.5",
+        "square_meters": "120",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, שפירא משה 51"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז",
+            "street": "שפרינצק",
+            "number": "14"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "64",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז, שפרינצק 14"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "רמת פולג",
+            "street": "אמנון ותמר",
+            "number": "11"
+        },
+        "price": "5800",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, רמת פולג, אמנון ותמר 11"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שמואל הנציב",
+            "number": "10"
+        },
+        "price": "3300",
+        "room_count": "3",
+        "square_meters": "72",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שמואל הנציב 10"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קרית רבין",
+            "street": "החסידה",
+            "number": "6"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קרית רבין, החסידה 6"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "בן ציון",
+            "street": "הקליר",
+            "number": "24"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "141",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, בן ציון, הקליר 24"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות גנים / שיכון ותיקים",
+            "street": "ארלוזורוב",
+            "number": "3"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות גנים / שיכון ותיקים, ארלוזורוב 3"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות גנים / שיכון ותיקים",
+            "street": "ארלוזורוב",
+            "number": "3"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות גנים / שיכון ותיקים, ארלוזורוב 3"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "גלי ים",
+            "street": "דורי יעקב",
+            "number": "6"
+        },
+        "price": "6600",
+        "room_count": "4",
+        "square_meters": "112",
+        "floor": "16",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, גלי ים, דורי יעקב 6"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קרית רבין",
+            "street": "החסידה",
+            "number": "6"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קרית רבין, החסידה 6"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות הרצל",
+            "street": "יהושע בן נון",
+            "number": "5"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות הרצל, יהושע בן נון 5"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "גבעת האירוסים",
+            "street": "חבצלת החוף",
+            "number": "8"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, גבעת האירוסים, חבצלת החוף 8"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות גנים / שיכון ותיקים",
+            "street": "ארלוזורוב",
+            "number": "3"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות גנים / שיכון ותיקים, ארלוזורוב 3"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קריית נורדאו",
+            "street": "שניאור זלמן",
+            "number": "7"
+        },
+        "price": "3400",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קריית נורדאו, שניאור זלמן 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קריית נורדאו",
+            "street": "שניאור זלמן",
+            "number": "7"
+        },
+        "price": "3400",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קריית נורדאו, שניאור זלמן 7"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "גלי ים",
+            "street": "דורי יעקב",
+            "number": "6"
+        },
+        "price": "6600",
+        "room_count": "4",
+        "square_meters": "112",
+        "floor": "16",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, גלי ים, דורי יעקב 6"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קריית נורדאו",
+            "street": "נתן המשורר",
+            "number": "2"
+        },
+        "price": "5500",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קריית נורדאו, נתן המשורר 2"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות גנים / שיכון ותיקים",
+            "street": "ארלוזורוב",
+            "number": "3"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות גנים / שיכון ותיקים, ארלוזורוב 3"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נוף השרון",
+            "street": "הטורים",
+            "number": "3"
+        },
+        "price": "6400",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נוף השרון, הטורים 3"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "קריית נורדאו",
+            "street": "נתן המשורר",
+            "number": "2"
+        },
+        "price": "5500",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, קריית נורדאו, נתן המשורר 2"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "דיזנגוף",
+            "number": "48"
+        },
+        "price": "13500",
+        "room_count": "6",
+        "square_meters": "136",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, דיזנגוף 48"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שדרות ניצה",
+            "number": "8"
+        },
+        "price": "6100",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שדרות ניצה 8"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "מרכז העיר",
+            "street": "שלמה המלך",
+            "number": "56"
+        },
+        "price": "5800",
+        "room_count": "4",
+        "square_meters": "101",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, מרכז העיר, שלמה המלך 56"
+    },
+    {
+        "location": {
+            "city": "נתניה",
+            "area": "נאות הרצל",
+            "street": "יהושע בן נון",
+            "number": "5"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נתניה, נאות הרצל, יהושע בן נון 5"
+    }
+]

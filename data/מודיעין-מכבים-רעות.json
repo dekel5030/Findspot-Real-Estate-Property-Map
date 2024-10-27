@@ -1,0 +1,520 @@
+[
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "משואה",
+            "street": "מגדל הלבנון",
+            "number": "16"
+        },
+        "price": "6300",
+        "room_count": "3",
+        "square_meters": "92",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, משואה, מגדל הלבנון 16"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "אבני חן",
+            "street": "אבני החושן",
+            "number": "11"
+        },
+        "price": "7700",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, אבני חן, אבני החושן 11"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הנביאים",
+            "street": "הנביאים",
+            "number": "6"
+        },
+        "price": "5800",
+        "room_count": "4",
+        "square_meters": "140",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הנביאים, הנביאים 6"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "נופים",
+            "street": "יער בן שמן",
+            "number": "27"
+        },
+        "price": "8500",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, נופים, יער בן שמן 27"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הכרמים",
+            "street": "שבט",
+            "number": "49"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "117",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הכרמים, שבט 49"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "נופים",
+            "street": "יער בן שמן",
+            "number": "19"
+        },
+        "price": "8600",
+        "room_count": "5",
+        "square_meters": "12",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, נופים, יער בן שמן 19"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "שאר העיר",
+            "street": "שד יצחק רבין",
+            "number": "N/A"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, שאר העיר, שד יצחק רבין"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "מורשת",
+            "street": "חיים ויצמן",
+            "number": "9"
+        },
+        "price": "8000",
+        "room_count": "5",
+        "square_meters": "135",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, מורשת, חיים ויצמן 9"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "מורשת",
+            "street": "חיים ויצמן",
+            "number": "7"
+        },
+        "price": "6800",
+        "room_count": "4",
+        "square_meters": "119",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, מורשת, חיים ויצמן 7"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "מורשת",
+            "street": "חיים ויצמן",
+            "number": "7"
+        },
+        "price": "6200",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, מורשת, חיים ויצמן 7"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הנחלים",
+            "street": "עמק יזרעאל",
+            "number": "3"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הנחלים, עמק יזרעאל 3"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הפרחים",
+            "street": "דפנה",
+            "number": "12"
+        },
+        "price": "10500",
+        "room_count": "6",
+        "square_meters": "130",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הפרחים, דפנה 12"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "מורשת",
+            "street": "משה שרת",
+            "number": "20"
+        },
+        "price": "6700",
+        "room_count": "4",
+        "square_meters": "134",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, מורשת, משה שרת 20"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הכרמים",
+            "street": "הלוח העברי",
+            "number": "15"
+        },
+        "price": "6800",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הכרמים, הלוח העברי 15"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הנחלים",
+            "street": "עמק דותן",
+            "number": "57"
+        },
+        "price": "7400",
+        "room_count": "4",
+        "square_meters": "127",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הנחלים, עמק דותן 57"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "מורשת",
+            "street": "גולדה מאיר",
+            "number": "46"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "115",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, מורשת, גולדה מאיר 46"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "נופים",
+            "street": "יער בן שמן",
+            "number": "36"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "126",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, נופים, יער בן שמן 36"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "מוריה",
+            "street": "לאה אמנו",
+            "number": "34"
+        },
+        "price": "8500",
+        "room_count": "4",
+        "square_meters": "210",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, מוריה, לאה אמנו 34"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הכרמים",
+            "street": "שבט",
+            "number": "36"
+        },
+        "price": "6800",
+        "room_count": "4",
+        "square_meters": "113",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הכרמים, שבט 36"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "מורשת",
+            "street": "יצחק שמיר",
+            "number": "1"
+        },
+        "price": "6800",
+        "room_count": "4",
+        "square_meters": "144",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, מורשת, יצחק שמיר 1"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הכרמים",
+            "street": "הלוח העברי",
+            "number": "15"
+        },
+        "price": "6800",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הכרמים, הלוח העברי 15"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הנביאים",
+            "street": "אלישע הנביא",
+            "number": "22"
+        },
+        "price": "7700",
+        "room_count": "5",
+        "square_meters": "171",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הנביאים, אלישע הנביא 22"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "נופים",
+            "street": "יער בן שמן",
+            "number": "19"
+        },
+        "price": "7400",
+        "room_count": "5",
+        "square_meters": "125",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, נופים, יער בן שמן 19"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "אבני חן",
+            "street": "אבני החושן",
+            "number": "11"
+        },
+        "price": "7700",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, אבני חן, אבני החושן 11"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "מורשת",
+            "street": "לוי אשכול",
+            "number": "6"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "188",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, מורשת, לוי אשכול 6"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "מורשת",
+            "street": "אפרים",
+            "number": "10"
+        },
+        "price": "6200",
+        "room_count": "3",
+        "square_meters": "108",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, מורשת, אפרים 10"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הכרמים",
+            "street": "שבט",
+            "number": "49"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "117",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הכרמים, שבט 49"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הכרמים",
+            "street": "עמק האלה",
+            "number": "14"
+        },
+        "price": "6100",
+        "room_count": "3.5",
+        "square_meters": "101",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הכרמים, עמק האלה 14"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "מוריה",
+            "street": "שד בגין מנחם",
+            "number": "72"
+        },
+        "price": "7300",
+        "room_count": "4",
+        "square_meters": "130",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, מוריה, שד בגין מנחם 72"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הכרמים",
+            "street": "עמק האלה",
+            "number": "14"
+        },
+        "price": "6100",
+        "room_count": "3.5",
+        "square_meters": "101",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הכרמים, עמק האלה 14"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "מוריה",
+            "street": "שרה אמנו",
+            "number": "138"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "105",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, מוריה, שרה אמנו 138"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "משואה",
+            "street": "מגדל הלבנון",
+            "number": "16"
+        },
+        "price": "6300",
+        "room_count": "3",
+        "square_meters": "92",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, משואה, מגדל הלבנון 16"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "אבני חן",
+            "street": "אבני החושן",
+            "number": "11"
+        },
+        "price": "7700",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, אבני חן, אבני החושן 11"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הנביאים",
+            "street": "הנביאים",
+            "number": "6"
+        },
+        "price": "5800",
+        "room_count": "4",
+        "square_meters": "140",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הנביאים, הנביאים 6"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הכרמים",
+            "street": "עמק האלה",
+            "number": "14"
+        },
+        "price": "6100",
+        "room_count": "3.5",
+        "square_meters": "101",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הכרמים, עמק האלה 14"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הנחלים",
+            "street": "נחל הירקון",
+            "number": "2"
+        },
+        "price": "5300",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הנחלים, נחל הירקון 2"
+    },
+    {
+        "location": {
+            "city": "מודיעין-מכבים-רעות",
+            "area": "הכרמים",
+            "street": "טבת",
+            "number": "16"
+        },
+        "price": "7000",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "מודיעין-מכבים-רעות, הכרמים, טבת 16"
+    }
+]

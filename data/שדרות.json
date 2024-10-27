@@ -1,0 +1,366 @@
+[
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות יצחק רבין",
+            "street": "מוצקין",
+            "number": "1"
+        },
+        "price": "",
+        "room_count": "5.5",
+        "square_meters": "150",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות יצחק רבין, מוצקין 1"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "בן גוריון",
+            "street": "הרב מימון",
+            "number": "1"
+        },
+        "price": "2200",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, בן גוריון, הרב מימון 1"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות הדקל",
+            "street": "יערה",
+            "number": "1"
+        },
+        "price": "3250",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות הדקל, יערה 1"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות אשכול",
+            "street": "אבן גבירול",
+            "number": "6"
+        },
+        "price": "1100",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות אשכול, אבן גבירול 6"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות אביב",
+            "street": "חצב",
+            "number": "405"
+        },
+        "price": "3000",
+        "room_count": "5.5",
+        "square_meters": "130",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות אביב, חצב 405"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות המייסדים",
+            "street": "השומר",
+            "number": "9"
+        },
+        "price": "3300",
+        "room_count": "3.5",
+        "square_meters": "150",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות המייסדים, השומר 9"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות אשכול",
+            "street": "ברית ערים",
+            "number": "1"
+        },
+        "price": "2700",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות אשכול, ברית ערים 1"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות יצחק רבין",
+            "street": "דגניה",
+            "number": "31"
+        },
+        "price": "3300",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות יצחק רבין, דגניה 31"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "כלניות",
+            "street": "יהושע בן נון",
+            "number": "3"
+        },
+        "price": "2500",
+        "room_count": "5",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, כלניות, יהושע בן נון 3"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות המייסדים",
+            "street": "הורד",
+            "number": "44"
+        },
+        "price": "2500",
+        "room_count": "3.5",
+        "square_meters": "66",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות המייסדים, הורד 44"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות אשכול",
+            "street": "ברית ערים",
+            "number": "3"
+        },
+        "price": "2700",
+        "room_count": "4",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות אשכול, ברית ערים 3"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות המייסדים",
+            "street": "הורד",
+            "number": "N/A"
+        },
+        "price": "2750",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות המייסדים, הורד"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות אביב",
+            "street": "חצב",
+            "number": "2"
+        },
+        "price": "2400",
+        "room_count": "4",
+        "square_meters": "73",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות אביב, חצב 2"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות אשכול",
+            "street": "דרך מנחם בגין",
+            "number": "23"
+        },
+        "price": "2350",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות אשכול, דרך מנחם בגין 23"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "שדרות בפארק",
+            "street": "אבו חצירה",
+            "number": "1"
+        },
+        "price": "3990",
+        "room_count": "3",
+        "square_meters": "106",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, שדרות בפארק, אבו חצירה 1"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "בן גוריון",
+            "street": "חללי אגוז",
+            "number": "2"
+        },
+        "price": "1500",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, בן גוריון, חללי אגוז 2"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "בן גוריון",
+            "street": "הרב מימון",
+            "number": "1"
+        },
+        "price": "2200",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, בן גוריון, הרב מימון 1"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות אשכול",
+            "street": "דרך מנחם בגין",
+            "number": "25"
+        },
+        "price": "2300",
+        "room_count": "4",
+        "square_meters": "105",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות אשכול, דרך מנחם בגין 25"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות אשכול",
+            "street": "יהדות איטליה",
+            "number": "10"
+        },
+        "price": "900",
+        "room_count": "4",
+        "square_meters": "84",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות אשכול, יהדות איטליה 10"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות אשכול",
+            "street": "אהבת ציון",
+            "number": "4"
+        },
+        "price": "2500",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות אשכול, אהבת ציון 4"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות אביב",
+            "street": "חצב",
+            "number": "2"
+        },
+        "price": "2400",
+        "room_count": "4",
+        "square_meters": "73",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות אביב, חצב 2"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "שדרות בפארק",
+            "street": "אבו חצירה",
+            "number": "1"
+        },
+        "price": "3990",
+        "room_count": "3",
+        "square_meters": "106",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, שדרות בפארק, אבו חצירה 1"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות אשכול",
+            "street": "יהדות איטליה",
+            "number": "14"
+        },
+        "price": "2850",
+        "room_count": "4",
+        "square_meters": "85",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות אשכול, יהדות איטליה 14"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "בן גוריון",
+            "street": "הרב מימון",
+            "number": "1"
+        },
+        "price": "2200",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, בן גוריון, הרב מימון 1"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות יצחק רבין",
+            "street": "מקווה ישראל",
+            "number": "4"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "74",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות יצחק רבין, מקווה ישראל 4"
+    },
+    {
+        "location": {
+            "city": "שדרות",
+            "area": "נאות יצחק רבין",
+            "street": "מקווה ישראל",
+            "number": "4"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "74",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "שדרות, נאות יצחק רבין, מקווה ישראל 4"
+    }
+]

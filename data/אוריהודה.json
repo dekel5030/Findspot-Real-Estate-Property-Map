@@ -1,0 +1,492 @@
+[
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "הראשונים",
+            "street": "יחזקאל קזז",
+            "number": "4"
+        },
+        "price": "5200",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, הראשונים, יחזקאל קזז 4"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "ההסתדרות",
+            "street": "דקלה",
+            "number": "17"
+        },
+        "price": "4300",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, ההסתדרות, דקלה 17"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "ההסתדרות",
+            "street": "ירושלים",
+            "number": "15"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, ההסתדרות, ירושלים 15"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "בית בפארק",
+            "street": "פרדס בחסכון",
+            "number": "N/A"
+        },
+        "price": "6900",
+        "room_count": "4",
+        "square_meters": "128",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, בית בפארק ,פרדס בחסכון, חרמון 13"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "אזור תעשיה ב’o;",
+            "street": "דגניה",
+            "number": "9"
+        },
+        "price": "2350",
+        "room_count": "1",
+        "square_meters": "29",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, אזור תעשיה ב’o;, דגניה 9"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "ההסתדרות",
+            "street": "דקלה",
+            "number": "17"
+        },
+        "price": "4300",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, ההסתדרות, דקלה 17"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "בית בפארק",
+            "street": "פרדס בחסכון",
+            "number": "N/A"
+        },
+        "price": "6900",
+        "room_count": "4",
+        "square_meters": "128",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, בית בפארק ,פרדס בחסכון, חרמון 13"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "בית בפארק",
+            "street": "פרדס בחסכון",
+            "number": "N/A"
+        },
+        "price": "6900",
+        "room_count": "4",
+        "square_meters": "128",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, בית בפארק ,פרדס בחסכון, חרמון 13"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "ההסתדרות",
+            "street": "דקלה",
+            "number": "17"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, ההסתדרות, דקלה 17"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "ההסתדרות",
+            "street": "ז’o;בוטינסקי",
+            "number": "28"
+        },
+        "price": "2350",
+        "room_count": "1",
+        "square_meters": "30",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, ההסתדרות, ז’o;בוטינסקי 28"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "בית בפארק",
+            "street": "פרדס בחסכון",
+            "number": "N/A"
+        },
+        "price": "7000",
+        "room_count": "4.5",
+        "square_meters": "123",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, בית בפארק ,פרדס בחסכון, תבור 10"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "ההסתדרות",
+            "street": "יהדות קנדה",
+            "number": "46"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "40",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, ההסתדרות, יהדות קנדה 46"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "נווה רבין",
+            "street": "ניצן",
+            "number": "17"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, נווה רבין, ניצן 17"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "רמת פנקס",
+            "street": "הרב כמוס עגיב",
+            "number": "4"
+        },
+        "price": "6850",
+        "room_count": "5",
+        "square_meters": "125",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, רמת פנקס, הרב כמוס עגיב 4"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "ההסתדרות",
+            "street": "דגניה",
+            "number": "20"
+        },
+        "price": "",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, ההסתדרות, דגניה 20"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "בית בפארק",
+            "street": "פרדס",
+            "number": "N/A"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "130",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, בית בפארק ,פרדס, כרמל 1"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "ההסתדרות",
+            "street": "איילת השחר",
+            "number": "1"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "113",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, ההסתדרות, איילת השחר 1"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "רמת פנקס",
+            "street": "לנדאו רמת פנקס",
+            "number": "21"
+        },
+        "price": "5650",
+        "room_count": "3",
+        "square_meters": "88",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, רמת פנקס, לנדאו רמת פנקס 21"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "בית בפארק",
+            "street": "פרדס",
+            "number": "N/A"
+        },
+        "price": "7100",
+        "room_count": "3",
+        "square_meters": "88",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, בית בפארק ,פרדס, כרמל 1"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "עמידר",
+            "street": "סיני",
+            "number": "13"
+        },
+        "price": "4000",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, עמידר, סיני 13"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "עמידר",
+            "street": "סיני",
+            "number": "13"
+        },
+        "price": "4000",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, עמידר, סיני 13"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "ההסתדרות",
+            "street": "כצנלסון",
+            "number": "6"
+        },
+        "price": "4600",
+        "room_count": "3",
+        "square_meters": "68",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, ההסתדרות, כצנלסון 6"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "בית בפארק",
+            "street": "פרדס",
+            "number": "N/A"
+        },
+        "price": "7400",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, בית בפארק ,פרדס, כרמל 1"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "עמידר",
+            "street": "סיני",
+            "number": "12"
+        },
+        "price": "4700",
+        "room_count": "4.5",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, עמידר, סיני 12"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "לנדאו רמת פנקס 2",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, לנדאו רמת פנקס 2"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "ההסתדרות",
+            "street": "ירושלים",
+            "number": "15"
+        },
+        "price": "5000",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, ההסתדרות, ירושלים 15"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "קריית גיורא",
+            "street": "העצמאות",
+            "number": "99"
+        },
+        "price": "4600",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, קריית גיורא, העצמאות 99"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "ההסתדרות",
+            "street": "כצנלסון",
+            "number": "2"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, ההסתדרות, כצנלסון 2"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "בית בפארק",
+            "street": "פרדס בחסכון",
+            "number": "N/A"
+        },
+        "price": "8500",
+        "room_count": "5",
+        "square_meters": "145",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, בית בפארק ,פרדס בחסכון, כנען 5"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "ההסתדרות",
+            "street": "ירושלים",
+            "number": "15"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, ההסתדרות, ירושלים 15"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "לנדאו רמת פנקס 2",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, לנדאו רמת פנקס 2"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "ההסתדרות",
+            "street": "חכם יוסף חיים ר",
+            "number": "1"
+        },
+        "price": "3300",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, ההסתדרות, חכם יוסף חיים ר 1"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "ההסתדרות",
+            "street": "אסירי ציון",
+            "number": "28"
+        },
+        "price": "4900",
+        "room_count": "3",
+        "square_meters": "77",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, ההסתדרות, אסירי ציון 28"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "הראשונים",
+            "street": "יחזקאל קזז",
+            "number": "4"
+        },
+        "price": "5200",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, הראשונים, יחזקאל קזז 4"
+    },
+    {
+        "location": {
+            "city": "אור יהודה",
+            "area": "יהלום",
+            "street": "המלאכה",
+            "number": "6"
+        },
+        "price": "3800",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור יהודה, יהלום, המלאכה 6"
+    }
+]

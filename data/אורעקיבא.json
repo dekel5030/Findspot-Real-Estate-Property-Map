@@ -1,0 +1,394 @@
+[
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "שדרות דוד המלך",
+            "number": "26"
+        },
+        "price": "4620",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, שדרות דוד המלך 26"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "אילות השדה",
+            "number": "5"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, אילות השדה 5"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "אילות השדה",
+            "number": "3"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "119",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, אילות השדה 3"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "השולמית",
+            "number": "8"
+        },
+        "price": "6500",
+        "room_count": "5",
+        "square_meters": "148",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, השולמית 8"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "נוף ים - מע&quo",
+            "street": "השיקמים",
+            "number": "5"
+        },
+        "price": "5400",
+        "room_count": "5",
+        "square_meters": "130",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, נוף ים - מע&quo, השיקמים 5"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "אילות השדה",
+            "number": "3"
+        },
+        "price": "5490",
+        "room_count": "4",
+        "square_meters": "111",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, אילות השדה 3"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "לבונה",
+            "number": "20"
+        },
+        "price": "5200",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, לבונה 20"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "נווה אלון",
+            "street": "שד הנשיא וייצמן",
+            "number": "651"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "62",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, נווה אלון, שד הנשיא וייצמן 651"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "אילות השדה",
+            "number": "3"
+        },
+        "price": "6000",
+        "room_count": "5",
+        "square_meters": "124",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, אילות השדה 3"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אורות",
+            "street": "שדרות דוד המלך",
+            "number": "48"
+        },
+        "price": "5450",
+        "room_count": "4",
+        "square_meters": "124",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אורות, שדרות דוד המלך 48"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "שדרות דוד המלך",
+            "number": "46"
+        },
+        "price": "5250",
+        "room_count": "4",
+        "square_meters": "124",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, שדרות דוד המלך 46"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "שדרות דוד המלך",
+            "number": "26"
+        },
+        "price": "4620",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, שדרות דוד המלך 26"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "שז\"ר",
+            "street": "שזר",
+            "number": "803"
+        },
+        "price": "3250",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, שז\"ר, שזר 803"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "אילות השדה",
+            "number": "5"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "112",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, אילות השדה 5"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "שז\"ר",
+            "street": "שזר",
+            "number": "823"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, שז\"ר, שזר 823"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "היובל",
+            "street": "החרמון",
+            "number": "28"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "81",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, היובל, החרמון 28"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "היובל",
+            "street": "החרמון",
+            "number": "28"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "81",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, היובל, החרמון 28"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "לבונה",
+            "number": "17"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "10",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, לבונה 17"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "שז\"ר",
+            "street": "שזר",
+            "number": "823"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, שז\"ר, שזר 823"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "מור",
+            "number": "2"
+        },
+        "price": "4900",
+        "room_count": "4",
+        "square_meters": "92",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, מור 2"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "שז\"ר",
+            "street": "שזר",
+            "number": "803"
+        },
+        "price": "3250",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, שז\"ר, שזר 803"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "מור",
+            "number": "2"
+        },
+        "price": "4900",
+        "room_count": "4",
+        "square_meters": "92",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, מור 2"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "לבונה",
+            "number": "17"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "10",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, לבונה 17"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "אור ים",
+            "street": "אילות השדה",
+            "number": "5"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "112",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, אור ים, אילות השדה 5"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "רבין",
+            "street": "שדרות דוד המלך",
+            "number": "561"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "96",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, רבין, שדרות דוד המלך 561"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "רבין",
+            "street": "שדרות דוד המלך",
+            "number": "561"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "96",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, רבין, שדרות דוד המלך 561"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "רבין",
+            "street": "שדרות דוד המלך",
+            "number": "561"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "96",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, רבין, שדרות דוד המלך 561"
+    },
+    {
+        "location": {
+            "city": "אור עקיבא",
+            "area": "רבין",
+            "street": "שדרות דוד המלך",
+            "number": "561"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "96",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "אור עקיבא, רבין, שדרות דוד המלך 561"
+    }
+]

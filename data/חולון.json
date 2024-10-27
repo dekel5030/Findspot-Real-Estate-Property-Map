@@ -1,0 +1,2802 @@
+[
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "אילת",
+            "number": "8"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "68",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, אילת 8"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו א",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו א"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית עבודה",
+            "street": "ויצמן",
+            "number": "N/A"
+        },
+        "price": "5450",
+        "room_count": "5",
+        "square_meters": "107",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית עבודה, ויצמן"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "הבעש\"ט",
+            "number": "N/A"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, הבעש\"ט"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "ז’o;בוטינסקי",
+            "number": "N/A"
+        },
+        "price": "3700",
+        "room_count": "2",
+        "square_meters": "57",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, ז’o;בוטינסקי"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "שנקר",
+            "number": "30"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, שנקר 30"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית עבודה",
+            "street": "סוקולוב",
+            "number": "N/A"
+        },
+        "price": "2000",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית עבודה, סוקולוב"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "אילת",
+            "number": "24"
+        },
+        "price": "4500",
+        "room_count": "3.5",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, אילת 24"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "בעל שם טוב",
+            "number": "8"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, בעל שם טוב 8"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "סוקולוב",
+            "number": "51"
+        },
+        "price": "5100",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, סוקולוב 51"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו ב",
+            "street": "בית שערים",
+            "number": "6"
+        },
+        "price": "3800",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו ב, בית שערים 6"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קרית פנחס אילון",
+            "street": "מוטה גור",
+            "number": "3"
+        },
+        "price": "7900",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קרית פנחס אילון, מוטה גור 3"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו א",
+            "street": "אחד העם",
+            "number": "3"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו א, אחד העם 3"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נווה רמז",
+            "street": "אילת",
+            "number": "45"
+        },
+        "price": "5200",
+        "room_count": "4.5",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נווה רמז, אילת 45"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "שד קוגל",
+            "number": "32"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, שד קוגל 32"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "סוקולוב",
+            "number": "23"
+        },
+        "price": "4300",
+        "room_count": "2.5",
+        "square_meters": "40",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, סוקולוב 23"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נווה רמז",
+            "street": "קציר אהרון",
+            "number": "5"
+        },
+        "price": "4900",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נווה רמז, קציר אהרון 5"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "שד קוגל",
+            "number": "40"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, שד קוגל 40"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "מונטיפיורי",
+            "number": "37"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "97",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, מונטיפיורי 37"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "הבנים",
+            "number": "21"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "75",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, הבנים 21"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "ארבע ארצות",
+            "number": "13"
+        },
+        "price": "5200",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, ארבע ארצות 13"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "קלישר",
+            "number": "14"
+        },
+        "price": "3700",
+        "room_count": "3.5",
+        "square_meters": "105",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, קלישר 14"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "שד קוגל",
+            "number": "32"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, שד קוגל 32"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "סוקולוב",
+            "number": "23"
+        },
+        "price": "4300",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, סוקולוב 23"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "שד קוגל",
+            "number": "40"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, שד קוגל 40"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ההסתדרות",
+            "number": "85"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "78",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ההסתדרות 85"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית שרת",
+            "street": "ששת הימים",
+            "number": "20"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית שרת, ששת הימים 20"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו א",
+            "street": "מוהליבר",
+            "number": "33"
+        },
+        "price": "5300",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו א, מוהליבר 33"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו א",
+            "street": "קראוזה",
+            "number": "68"
+        },
+        "price": "5400",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו א, קראוזה 68"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נווה רמז",
+            "street": "אילת",
+            "number": "55"
+        },
+        "price": "4800",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נווה רמז, אילת 55"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ההסתדרות",
+            "number": "60"
+        },
+        "price": "6300",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ההסתדרות 60"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית שרת",
+            "street": "אלופי צה\"ל",
+            "number": "49"
+        },
+        "price": "3900",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית שרת, אלופי צה\"ל 49"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "בלום לאון",
+            "number": "60"
+        },
+        "price": "3900",
+        "room_count": "2.5",
+        "square_meters": "47",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, בלום לאון 60"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "שפירא צבי",
+            "number": "4"
+        },
+        "price": "5500",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, שפירא צבי 4"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ביאליק",
+            "number": "90"
+        },
+        "price": "6700",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ביאליק 90"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "אילת",
+            "number": "30"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "130",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, אילת 30"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית שרת",
+            "street": "שרת משה",
+            "number": "29"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית שרת, שרת משה 29"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "קדושי קהיר",
+            "number": "13"
+        },
+        "price": "4600",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, קדושי קהיר 13"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "הערבה",
+            "number": "29"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "54",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, הערבה 29"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "יפה אליעזר",
+            "number": "4"
+        },
+        "price": "4700",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, יפה אליעזר 4"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "חומה ומגדל",
+            "number": "43"
+        },
+        "price": "4200",
+        "room_count": "2.5",
+        "square_meters": "63",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, חומה ומגדל 43"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "שפירא צבי",
+            "number": "4"
+        },
+        "price": "5500",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, שפירא צבי 4"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו ב",
+            "street": "בר כוכבא",
+            "number": "3"
+        },
+        "price": "3600",
+        "room_count": "2.5",
+        "square_meters": "58",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו ב, בר כוכבא 3"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "רוטשילד",
+            "number": "3"
+        },
+        "price": "5900",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, רוטשילד 3"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נווה רמז",
+            "street": "גורדון",
+            "number": "16"
+        },
+        "price": "2800",
+        "room_count": "1",
+        "square_meters": "37",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נווה רמז, גורדון 16"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "העבודה",
+            "number": "9"
+        },
+        "price": "4600",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, העבודה 9"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "עין גדי",
+            "number": "2"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, עין גדי 2"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "מזא\"ה",
+            "number": "8"
+        },
+        "price": "1700",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, מזא\"ה 8"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "ארבע ארצות",
+            "number": "26"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "75",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, ארבע ארצות 26"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "מקוה ישראל",
+            "number": "4"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "51",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, מקוה ישראל 4"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "הערבה",
+            "number": "35"
+        },
+        "price": "3200",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, הערבה 35"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית שרת",
+            "street": "דורי יעקב",
+            "number": "4"
+        },
+        "price": "5800",
+        "room_count": "4",
+        "square_meters": "87",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית שרת, דורי יעקב 4"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מפדה",
+            "street": "דובנוב",
+            "number": "1"
+        },
+        "price": "4850",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מפדה, דובנוב 1"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נווה רמז",
+            "street": "ביאליק",
+            "number": "156"
+        },
+        "price": "4300",
+        "room_count": "4",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נווה רמז, ביאליק 156"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "אילת",
+            "number": "24"
+        },
+        "price": "4500",
+        "room_count": "3.5",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, אילת 24"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "יצחק הלוי",
+            "number": "4"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, יצחק הלוי 4"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "הטייסים",
+            "number": "15"
+        },
+        "price": "3600",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, הטייסים 15"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "זמנהוף",
+            "number": "27"
+        },
+        "price": "4000",
+        "room_count": "2.5",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, זמנהוף 27"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "קפאח",
+            "number": "7"
+        },
+        "price": "4100",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, קפאח 7"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "הערבה",
+            "number": "29"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "54",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, הערבה 29"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "שד הוז דב",
+            "number": "21"
+        },
+        "price": "5000",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, שד הוז דב 21"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "המתמיד",
+            "number": "4"
+        },
+        "price": "5000",
+        "room_count": "4.5",
+        "square_meters": "120",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, המתמיד 4"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "ש\"ץ צבי",
+            "number": "13"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "58",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, ש\"ץ צבי 13"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "נחשון",
+            "number": "1"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, נחשון 1"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "אהל שרה",
+            "number": "3"
+        },
+        "price": "4900",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, אהל שרה 3"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "נחשון",
+            "number": "1"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, נחשון 1"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית בן גוריון",
+            "street": "חיים לנדאו",
+            "number": "1"
+        },
+        "price": "7800",
+        "room_count": "5",
+        "square_meters": "135",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית בן גוריון, חיים לנדאו 1"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "קראוזה",
+            "number": "35"
+        },
+        "price": "3800",
+        "room_count": "3.5",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, קראוזה 35"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "הגר\"א",
+            "number": "7"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, הגר\"א 7"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית בן גוריון",
+            "street": "לנדאו חיים",
+            "number": "1"
+        },
+        "price": "7800",
+        "room_count": "5",
+        "square_meters": "2",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית בן גוריון, לנדאו חיים 1"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "שיכון ותיקים",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "2300",
+        "room_count": "1",
+        "square_meters": "25",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, שיכון ותיקים"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית שרת",
+            "street": "צפת",
+            "number": "13"
+        },
+        "price": "5900",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית שרת, צפת 13"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "הגר\"א",
+            "number": "15"
+        },
+        "price": "4600",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, הגר\"א 15"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית עבודה",
+            "street": "סוקולוב",
+            "number": "70"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית עבודה, סוקולוב 70"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות יהודית",
+            "street": "ירמיהו",
+            "number": "9"
+        },
+        "price": "4900",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות יהודית, ירמיהו 9"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "הערבה",
+            "number": "35"
+        },
+        "price": "3200",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, הערבה 35"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "עין יהב",
+            "number": "10"
+        },
+        "price": "3200",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, עין יהב 10"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית שרת",
+            "street": "הר הצופים",
+            "number": "1"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית שרת, הר הצופים 1"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "נחשון",
+            "number": "1"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, נחשון 1"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "הערבה",
+            "number": "19"
+        },
+        "price": "3900",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, הערבה 19"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "שד קוגל",
+            "number": "15"
+        },
+        "price": "4450",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, שד קוגל 15"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "הפלמ\"ח",
+            "number": "21"
+        },
+        "price": "4450",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, הפלמ\"ח 21"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "שד הוז דב",
+            "number": "21"
+        },
+        "price": "5000",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, שד הוז דב 21"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "שנקר",
+            "number": "28"
+        },
+        "price": "6300",
+        "room_count": "4",
+        "square_meters": "88",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, שנקר 28"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ויצמן",
+            "number": "72"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ויצמן 72"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "הערבה",
+            "number": "19"
+        },
+        "price": "100",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, הערבה 19"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית שרת",
+            "street": "שער ציון",
+            "number": "16"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית שרת, שער ציון 16"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ביאליק",
+            "number": "15"
+        },
+        "price": "6200",
+        "room_count": "5",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ביאליק 15"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "גבעתי",
+            "number": "7"
+        },
+        "price": "2450",
+        "room_count": "1",
+        "square_meters": "27",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, גבעתי 7"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "קלישר",
+            "number": "14"
+        },
+        "price": "3700",
+        "room_count": "3.5",
+        "square_meters": "105",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, קלישר 14"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "התנאים",
+            "number": "13"
+        },
+        "price": "5200",
+        "room_count": "5",
+        "square_meters": "72",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, התנאים 13"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ויצמן",
+            "number": "60"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ויצמן 60"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "ז’o;בוטינסק",
+            "number": "36"
+        },
+        "price": "2000",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, ז’o;בוטינסק 36"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "קראוזה",
+            "number": "38"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, קראוזה 38"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "שיכון ותיקים",
+            "street": "אהרונוביץ",
+            "number": "66"
+        },
+        "price": "3600",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, שיכון ותיקים, אהרונוביץ 66"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו ב",
+            "street": "הכנסת",
+            "number": "2"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "49",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו ב, הכנסת 2"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "מונטיפיורי",
+            "number": "46"
+        },
+        "price": "4800",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, מונטיפיורי 46"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "הערבה",
+            "number": "19"
+        },
+        "price": "3900",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, הערבה 19"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "זלמן ארן",
+            "number": "59"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, זלמן ארן 59"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "חומה ומגדל",
+            "number": "50"
+        },
+        "price": "2800",
+        "room_count": "1.5",
+        "square_meters": "30",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, חומה ומגדל 50"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "הערבה",
+            "number": "15"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, הערבה 15"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "חנקין",
+            "number": "20"
+        },
+        "price": "4000",
+        "room_count": "2.5",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, חנקין 20"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "הגר\"א",
+            "number": "21"
+        },
+        "price": "5100",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, הגר\"א 21"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "המתמיד",
+            "number": "7"
+        },
+        "price": "",
+        "room_count": "1",
+        "square_meters": "25",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, המתמיד 7"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ויצמן",
+            "number": "72"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ויצמן 72"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו ב",
+            "street": "ההסתדרות",
+            "number": "205"
+        },
+        "price": "3900",
+        "room_count": "3",
+        "square_meters": "47",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו ב, ההסתדרות 205"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "קלישר",
+            "number": "4"
+        },
+        "price": "3400",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, קלישר 4"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "בעל שם טוב",
+            "number": "25"
+        },
+        "price": "5200",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, בעל שם טוב 25"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות שושנים",
+            "street": "התחיה",
+            "number": "28"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות שושנים, התחיה 28"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ויצמן",
+            "number": "11"
+        },
+        "price": "3800",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ויצמן 11"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "יפה אליעזר",
+            "number": "4"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, יפה אליעזר 4"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית שרת",
+            "street": "קרן קיימת",
+            "number": "8"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "92",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית שרת, קרן קיימת 8"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ארלוזורוב",
+            "number": "82"
+        },
+        "price": "6800",
+        "room_count": "4",
+        "square_meters": "109",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ארלוזורוב 82"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "חנקין",
+            "number": "7"
+        },
+        "price": "4650",
+        "room_count": "2.5",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, חנקין 7"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "שנקר",
+            "number": "7"
+        },
+        "price": "3900",
+        "room_count": "3",
+        "square_meters": "64",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, שנקר 7"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית שרת",
+            "street": "השילוח",
+            "number": "20"
+        },
+        "price": "4100",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית שרת, השילוח 20"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קרית פנחס אילון",
+            "street": "חנקין",
+            "number": "96"
+        },
+        "price": "1800",
+        "room_count": "4",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קרית פנחס אילון, חנקין 96"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "גוש עציון",
+            "number": "3"
+        },
+        "price": "2450",
+        "room_count": "1",
+        "square_meters": "24",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, גוש עציון 3"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו א",
+            "street": "אחד העם",
+            "number": "7"
+        },
+        "price": "5900",
+        "room_count": "4",
+        "square_meters": "105",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו א, אחד העם 7"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות יהודית",
+            "street": "מרבד הקסמים",
+            "number": "6"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות יהודית, מרבד הקסמים 6"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו א",
+            "street": "הרב הרצוג",
+            "number": "1"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "117",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו א, הרב הרצוג 1"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "אוסישקין",
+            "number": "12"
+        },
+        "price": "8500",
+        "room_count": "8",
+        "square_meters": "140",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, אוסישקין 12"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קרית פנחס אילון",
+            "street": "האלוף תמרי נחמי",
+            "number": "6"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "89",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קרית פנחס אילון, האלוף תמרי נחמי 6"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו א",
+            "street": "קראוזה",
+            "number": "54"
+        },
+        "price": "4200",
+        "room_count": "2.5",
+        "square_meters": "64",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו א, קראוזה 54"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "פתח תקוה",
+            "number": "10"
+        },
+        "price": "4200",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, פתח תקוה 10"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "חומה ומגדל",
+            "number": "41"
+        },
+        "price": "3700",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, חומה ומגדל 41"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מפדה",
+            "street": "שד ירושלים",
+            "number": "27"
+        },
+        "price": "4200",
+        "room_count": "1",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מפדה, שד ירושלים 27"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "הערבה",
+            "number": "12"
+        },
+        "price": "3650",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, הערבה 12"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "זאבי רחבעם",
+            "number": "34"
+        },
+        "price": "6200",
+        "room_count": "4.5",
+        "square_meters": "115",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, זאבי רחבעם 34"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו א",
+            "street": "קראוזה",
+            "number": "62"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו א, קראוזה 62"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "שד הוז דב",
+            "number": "50"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, שד הוז דב 50"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ויצמן",
+            "number": "34"
+        },
+        "price": "7200",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ויצמן 34"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו ב",
+            "street": "הכנסת",
+            "number": "1"
+        },
+        "price": "100",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו ב, הכנסת 1"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית שרת",
+            "street": "אלופי צה\"ל",
+            "number": "27"
+        },
+        "price": "5600",
+        "room_count": "4",
+        "square_meters": "92",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית שרת, אלופי צה\"ל 27"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו א",
+            "street": "ההסתדרות",
+            "number": "107"
+        },
+        "price": "3700",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו א, ההסתדרות 107"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "הופיין",
+            "number": "19"
+        },
+        "price": "3950",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, הופיין 19"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "השומרון",
+            "number": "7"
+        },
+        "price": "3700",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, השומרון 7"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ח-501",
+            "street": "דגניה",
+            "number": "8"
+        },
+        "price": "9000",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "15",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ח-501, דגניה 8"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "סוקולוב",
+            "number": "26"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "53",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, סוקולוב 26"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "כיכר וייצמן",
+            "number": "12"
+        },
+        "price": "3800",
+        "room_count": "1",
+        "square_meters": "35",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, כיכר וייצמן 12"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "המתמיד",
+            "number": "9"
+        },
+        "price": "3500",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, המתמיד 9"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו א",
+            "street": "סוקולוב",
+            "number": "102"
+        },
+        "price": "3200",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו א, סוקולוב 102"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ארלוזורוב",
+            "number": "4"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ארלוזורוב 4"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קרית פנחס אילון",
+            "street": "גאולים",
+            "number": "35"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קרית פנחס אילון, גאולים 35"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "החי\"ם",
+            "number": "18"
+        },
+        "price": "3600",
+        "room_count": "2",
+        "square_meters": "41",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, החי\"ם 18"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו א",
+            "street": "הקונגרס",
+            "number": "19"
+        },
+        "price": "4900",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו א, הקונגרס 19"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ביאליק",
+            "number": "84"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ביאליק 84"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו ב",
+            "street": "הכנסת",
+            "number": "2"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "49",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו ב, הכנסת 2"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "זלמן ארן",
+            "number": "17"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, זלמן ארן 17"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "י\"א באדר",
+            "number": "46"
+        },
+        "price": "5200",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, י\"א באדר 46"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "התנאים",
+            "number": "4"
+        },
+        "price": "4900",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, התנאים 4"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "ההגנה",
+            "number": "9"
+        },
+        "price": "3400",
+        "room_count": "2",
+        "square_meters": "35",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, ההגנה 9"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "החבצלת",
+            "number": "12"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "68",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, החבצלת 12"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "אוסישקין",
+            "number": "12"
+        },
+        "price": "8500",
+        "room_count": "8",
+        "square_meters": "140",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, אוסישקין 12"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית שרת",
+            "street": "הר הצופים",
+            "number": "47"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית שרת, הר הצופים 47"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית שרת",
+            "street": "שרת משה",
+            "number": "52"
+        },
+        "price": "5400",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית שרת, שרת משה 52"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו ב",
+            "street": "הכנסת",
+            "number": "1"
+        },
+        "price": "100",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו ב, הכנסת 1"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו ב",
+            "street": "בר כוכבא",
+            "number": "25"
+        },
+        "price": "6200",
+        "room_count": "4",
+        "square_meters": "140",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו ב, בר כוכבא 25"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "זאבי רחבעם",
+            "number": "34"
+        },
+        "price": "6200",
+        "room_count": "4.5",
+        "square_meters": "115",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, זאבי רחבעם 34"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית שרת",
+            "street": "שרת משה",
+            "number": "1"
+        },
+        "price": "5700",
+        "room_count": "4",
+        "square_meters": "94",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית שרת, שרת משה 1"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ארלוזורוב",
+            "number": "4"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ארלוזורוב 4"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "התנאים",
+            "number": "14"
+        },
+        "price": "4400",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, התנאים 14"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קרית פנחס אילון",
+            "street": "ליבנה",
+            "number": "3"
+        },
+        "price": "8900",
+        "room_count": "5",
+        "square_meters": "134",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קרית פנחס אילון, ליבנה 3"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ויצמן",
+            "number": "60"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ויצמן 60"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית רבין",
+            "street": "משה רינת",
+            "number": "2"
+        },
+        "price": "8500",
+        "room_count": "5",
+        "square_meters": "122",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית רבין, משה רינת 2"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "שנקר",
+            "number": "8"
+        },
+        "price": "3850",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, שנקר 8"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "אז\"ר",
+            "number": "5"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "106",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, אז\"ר 5"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "החי\"ם",
+            "number": "3"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, החי\"ם 3"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות יהודית",
+            "street": "ישעיהו",
+            "number": "28"
+        },
+        "price": "3600",
+        "room_count": "2.5",
+        "square_meters": "42",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות יהודית, ישעיהו 28"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "שלום עליכם",
+            "number": "16"
+        },
+        "price": "5200",
+        "room_count": "2.5",
+        "square_meters": "72",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, שלום עליכם 16"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "גרין",
+            "street": "שמואל הנגיד",
+            "number": "4"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "51",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, גרין, שמואל הנגיד 4"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "סוקולוב",
+            "number": "107"
+        },
+        "price": "5500",
+        "room_count": "4.5",
+        "square_meters": "110",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, סוקולוב 107"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "ג'סי כהן",
+            "street": "הערבה",
+            "number": "29"
+        },
+        "price": "3400",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, ג'סי כהן, הערבה 29"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קרית פנחס אילון",
+            "street": "חנקין",
+            "number": "112"
+        },
+        "price": "4000",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קרית פנחס אילון, חנקין 112"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ביאליק",
+            "number": "15"
+        },
+        "price": "6200",
+        "room_count": "5",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ביאליק 15"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "נטר קרל",
+            "number": "5"
+        },
+        "price": "7900",
+        "room_count": "5",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, נטר קרל 5"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "חומה ומגדל",
+            "number": "28"
+        },
+        "price": "2100",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, חומה ומגדל 28"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "ויצמן",
+            "number": "60"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, ויצמן 60"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "קראוזה",
+            "number": "23"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, קראוזה 23"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "שפרינצק",
+            "number": "33"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, שפרינצק 33"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קרית פנחס אילון",
+            "street": "חנקין",
+            "number": "102"
+        },
+        "price": "3200",
+        "room_count": "1.5",
+        "square_meters": "43",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קרית פנחס אילון, חנקין 102"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "המעפילים",
+            "number": "53"
+        },
+        "price": "4100",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, המעפילים 53"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו א",
+            "street": "קראוזה",
+            "number": "66"
+        },
+        "price": "5050",
+        "room_count": "3.5",
+        "square_meters": "87",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו א, קראוזה 66"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו א",
+            "street": "קראוזה",
+            "number": "66"
+        },
+        "price": "5050",
+        "room_count": "3.5",
+        "square_meters": "87",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו א, קראוזה 66"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "המעפילים",
+            "number": "53"
+        },
+        "price": "4100",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, המעפילים 53"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו ב",
+            "street": "קבוץ גלויות",
+            "number": "8"
+        },
+        "price": "2900",
+        "room_count": "3.5",
+        "square_meters": "87",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו ב, קבוץ גלויות 8"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קריית שרת",
+            "street": "התעלה",
+            "number": "9"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קריית שרת, התעלה 9"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קרית פנחס אילון",
+            "street": "חנקין",
+            "number": "102"
+        },
+        "price": "3200",
+        "room_count": "1.5",
+        "square_meters": "43",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קרית פנחס אילון, חנקין 102"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "שד קוגל",
+            "number": "27"
+        },
+        "price": "2100",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, שד קוגל 27"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "חומה ומגדל",
+            "number": "43"
+        },
+        "price": "4400",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, חומה ומגדל 43"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות שושנים",
+            "street": "ראש פנה",
+            "number": "5"
+        },
+        "price": "2600",
+        "room_count": "1",
+        "square_meters": "24",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות שושנים, ראש פנה 5"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "הפורצים",
+            "number": "35"
+        },
+        "price": "4100",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, הפורצים 35"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "אגרובנק",
+            "street": "שד קוגל",
+            "number": "27"
+        },
+        "price": "2100",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, אגרובנק, שד קוגל 27"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "המעפילים",
+            "number": "53"
+        },
+        "price": "4100",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, המעפילים 53"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "קרית פנחס אילון",
+            "street": "חנקין",
+            "number": "102"
+        },
+        "price": "3200",
+        "room_count": "1.5",
+        "square_meters": "43",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, קרית פנחס אילון, חנקין 102"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "רסקו א",
+            "street": "סוקולוב",
+            "number": "100"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "95",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, רסקו א, סוקולוב 100"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "הפורצים",
+            "number": "35"
+        },
+        "price": "4100",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, הפורצים 35"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "מרכז",
+            "street": "חומה ומגדל",
+            "number": "50"
+        },
+        "price": "2800",
+        "room_count": "1.5",
+        "square_meters": "30",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, מרכז, חומה ומגדל 50"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "תל גיבורים",
+            "street": "המעפילים",
+            "number": "53"
+        },
+        "price": "4100",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, תל גיבורים, המעפילים 53"
+    },
+    {
+        "location": {
+            "city": "חולון",
+            "area": "נאות רחל",
+            "street": "ההסתדרות",
+            "number": "12"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "73",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "חולון, נאות רחל, ההסתדרות 12"
+    }
+]

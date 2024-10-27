@@ -1,0 +1,534 @@
+[
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "הפרחים",
+            "street": "אבני חושן",
+            "number": "5"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "73",
+        "floor": "18",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, הפרחים, אבני חושן 5"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "מגדים",
+            "street": "הזית",
+            "number": "43"
+        },
+        "price": "3100",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, מגדים, הזית 43"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "כרמי גת",
+            "street": "אבני החושן",
+            "number": "5"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "18",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, כרמי גת, אבני החושן 5"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "בני ישראל",
+            "street": "ראובן",
+            "number": "11"
+        },
+        "price": "2800",
+        "room_count": "2.5",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, בני ישראל, ראובן 11"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "בני ישראל",
+            "street": "שד לכיש",
+            "number": "60"
+        },
+        "price": "3000",
+        "room_count": "3.5",
+        "square_meters": "74",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, בני ישראל, שד לכיש 60"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "הנביאים",
+            "street": "שד השופטים",
+            "number": "11"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, הנביאים, שד השופטים 11"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "בני ישראל",
+            "street": "שד לכיש",
+            "number": "60"
+        },
+        "price": "2700",
+        "room_count": "3.5",
+        "square_meters": "72",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, בני ישראל, שד לכיש 60"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "צהל",
+            "street": "אפרת",
+            "number": "3"
+        },
+        "price": "2250",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, צהל, אפרת 3"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "הנביאים",
+            "street": "אליהו הנביא",
+            "number": "12"
+        },
+        "price": "2500",
+        "room_count": "2",
+        "square_meters": "30",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, הנביאים, אליהו הנביא 12"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "בני ישראל",
+            "street": "משעול אשר",
+            "number": "5"
+        },
+        "price": "2300",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, בני ישראל, משעול אשר 5"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "הנביאים",
+            "street": "רחבת ירמיהו",
+            "number": "10"
+        },
+        "price": "2000",
+        "room_count": "2",
+        "square_meters": "44",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, הנביאים, רחבת ירמיהו 10"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "בני ישראל",
+            "street": "משעול אשר",
+            "number": "5"
+        },
+        "price": "2400",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, בני ישראל, משעול אשר 5"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "הנביאים",
+            "street": "שד השופטים",
+            "number": "13"
+        },
+        "price": "2700",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, הנביאים, שד השופטים 13"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "הנביאים",
+            "street": "שמואל הנביא",
+            "number": "11"
+        },
+        "price": "2100",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, הנביאים, שמואל הנביא 11"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "השופטים",
+            "street": "שד מלכי ישראל",
+            "number": "3"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, השופטים, שד מלכי ישראל 3"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "השופטים",
+            "street": "אהוד בן גרא",
+            "number": "10"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, השופטים, אהוד בן גרא 10"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "הקוממיות",
+            "street": "שדרות גת",
+            "number": "207"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, הקוממיות, שדרות גת 207"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "ההעפלה",
+            "street": "אדוריים",
+            "number": "241"
+        },
+        "price": "4200",
+        "room_count": "4",
+        "square_meters": "N/A",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, ההעפלה, אדוריים 241"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "הפרחים",
+            "street": "שד העצמאות",
+            "number": "94"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, הפרחים, שד העצמאות 94"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "כרמי גת",
+            "street": "שד לכיש",
+            "number": "181"
+        },
+        "price": "5500",
+        "room_count": "5",
+        "square_meters": "130",
+        "floor": "15",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, כרמי גת, שד לכיש 181"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "מגדים",
+            "street": "הרמון",
+            "number": "50"
+        },
+        "price": "2700",
+        "room_count": "3",
+        "square_meters": "54",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, מגדים, הרמון 50"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "הנביאים",
+            "street": "שדרות גת",
+            "number": "38"
+        },
+        "price": "2850",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, הנביאים, שדרות גת 38"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "כרמי גת",
+            "street": "הנרייטה סאלד",
+            "number": "4"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, כרמי גת, הנרייטה סאלד 4"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "ההעפלה",
+            "street": "אדוריים",
+            "number": "227"
+        },
+        "price": "4000",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, ההעפלה, אדוריים 227"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "כרמי גת",
+            "street": "נחל גוברין",
+            "number": "16"
+        },
+        "price": "5500",
+        "room_count": "5.5",
+        "square_meters": "125",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, כרמי גת, נחל גוברין 16"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "מגדים",
+            "street": "הזית",
+            "number": "43"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "88",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, מגדים, הזית 43"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "כרמי גת",
+            "street": "אסתר המלכה",
+            "number": "11"
+        },
+        "price": "5500",
+        "room_count": "5",
+        "square_meters": "136",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, כרמי גת, אסתר המלכה 11"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "כרמי גת",
+            "street": "נחל גוברין",
+            "number": "2"
+        },
+        "price": "5500",
+        "room_count": "5",
+        "square_meters": "130",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, כרמי גת, נחל גוברין 2"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "כרמי גת",
+            "street": "הנרייטה סאלד",
+            "number": "67"
+        },
+        "price": "4500",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, כרמי גת, הנרייטה סאלד 67"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "כרמי גת",
+            "street": "אסתר המלכה",
+            "number": "1"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, כרמי גת, אסתר המלכה 1"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "כרמי גת",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "4600",
+        "room_count": "5",
+        "square_meters": "107",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, כרמי גת"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "כרמי גת",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "4600",
+        "room_count": "5",
+        "square_meters": "107",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, כרמי גת"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "גליקסון",
+            "street": "רחבת הר הזיתים",
+            "number": "1"
+        },
+        "price": "2600",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, גליקסון, רחבת הר הזיתים 1"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "כרמי גת",
+            "street": "הנרייטה סאלד",
+            "number": "67"
+        },
+        "price": "4500",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, כרמי גת, הנרייטה סאלד 67"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "כרמי גת",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "4600",
+        "room_count": "5",
+        "square_meters": "107",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, כרמי גת"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "כרמי גת",
+            "street": "אסתר המלכה",
+            "number": "7"
+        },
+        "price": "5500",
+        "room_count": "5",
+        "square_meters": "138",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, כרמי גת, אסתר המלכה 7"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "השופטים",
+            "street": "שד השופטים",
+            "number": "12"
+        },
+        "price": "2100",
+        "room_count": "2",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, השופטים, שד השופטים 12"
+    },
+    {
+        "location": {
+            "city": "קריית גת",
+            "area": "כרמי גת",
+            "street": "נחל הירקון",
+            "number": "36"
+        },
+        "price": "5000",
+        "room_count": "5",
+        "square_meters": "130",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית גת, כרמי גת, נחל הירקון 36"
+    }
+]

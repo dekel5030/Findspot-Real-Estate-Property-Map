@@ -1,0 +1,800 @@
+[
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "קיראון",
+            "street": "עגנון",
+            "number": "N/A"
+        },
+        "price": "7500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, קיראון, עגנון"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "קיראון",
+            "street": "רקפת",
+            "number": "2"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, קיראון, רקפת 2"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "6600",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "הותיקה",
+            "street": "קפלן",
+            "number": "1"
+        },
+        "price": "7000",
+        "room_count": "4",
+        "square_meters": "102",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, הותיקה, קפלן 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "פסגת אונו",
+            "street": "ביאליק",
+            "number": "4"
+        },
+        "price": "8200",
+        "room_count": "5",
+        "square_meters": "124",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, פסגת אונו, ביאליק 4"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "קיראון",
+            "street": "החבצלת",
+            "number": "15"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, קיראון, החבצלת 15"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "נאות אריאל שרון",
+            "street": "יצחק נבון",
+            "number": "N/A"
+        },
+        "price": "8500",
+        "room_count": "6",
+        "square_meters": "145",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, נאות אריאל שרון, יצחק נבון"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "מגדל המים",
+            "street": "ישעיהו",
+            "number": "7"
+        },
+        "price": "2700000",
+        "room_count": "5",
+        "square_meters": "125",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, מגדל המים, ישעיהו 7"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "פרדס רייספלד",
+            "street": "קרית אונו החדשה",
+            "number": "N/A"
+        },
+        "price": "8200",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, פרדס רייספלד, קרית אונו החדשה, נאוה סמל 8"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "פסגת אונו",
+            "street": "נאוה סמל",
+            "number": "8"
+        },
+        "price": "8200",
+        "room_count": "6",
+        "square_meters": "140",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, פסגת אונו, נאוה סמל 8"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "נאות אריאל שרון",
+            "street": "יצחק נבון",
+            "number": "17"
+        },
+        "price": "8000",
+        "room_count": "4",
+        "square_meters": "108",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, נאות אריאל שרון, יצחק נבון 17"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "קיראון",
+            "street": "החבצלת",
+            "number": "15"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, קיראון, החבצלת 15"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "הותיקה",
+            "street": "ביאליק",
+            "number": "7"
+        },
+        "price": "10800",
+        "room_count": "5",
+        "square_meters": "240",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, הותיקה, ביאליק 7"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "קיראון",
+            "street": "איריס",
+            "number": "14"
+        },
+        "price": "5350",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, קיראון, איריס 14"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "83",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "7200",
+        "room_count": "4",
+        "square_meters": "111",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "8300",
+        "room_count": "6",
+        "square_meters": "155",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "8200",
+        "room_count": "6",
+        "square_meters": "155",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "N/A",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "המרכז",
+            "street": "הכלנית",
+            "number": "13"
+        },
+        "price": "5500",
+        "room_count": "2",
+        "square_meters": "75",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, המרכז, הכלנית 13"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "N/A",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "8300",
+        "room_count": "6",
+        "square_meters": "155",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "7200",
+        "room_count": "4",
+        "square_meters": "111",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "83",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "גני אילן",
+            "street": "מצדה",
+            "number": "1"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "670",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, גני אילן, מצדה 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "קיראון",
+            "street": "רקפת",
+            "number": "2"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, קיראון, רקפת 2"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "קיראון",
+            "street": "רקפת",
+            "number": "18"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "66",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, קיראון, רקפת 18"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "רימון",
+            "street": "המעגל",
+            "number": "32"
+        },
+        "price": "6200",
+        "room_count": "4",
+        "square_meters": "105",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, רימון, המעגל 32"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "הותיקה",
+            "street": "הברוש",
+            "number": "6"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, הותיקה, הברוש 6"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "גני אילן",
+            "street": "ביאליק",
+            "number": "9"
+        },
+        "price": "8000",
+        "room_count": "5",
+        "square_meters": "142",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, גני אילן, ביאליק 9"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "קיראון",
+            "street": "רקפת",
+            "number": "2"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, קיראון, רקפת 2"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "שיכון רסקו",
+            "street": "עגנון",
+            "number": "1"
+        },
+        "price": "7100",
+        "room_count": "3",
+        "square_meters": "88",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, שיכון רסקו, עגנון 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "קיראון",
+            "street": "רקפת",
+            "number": "18"
+        },
+        "price": "4650",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, קיראון, רקפת 18"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "קיראון",
+            "street": "רקפת",
+            "number": "2"
+        },
+        "price": "4300",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, קיראון, רקפת 2"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "7800",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "8300",
+        "room_count": "6",
+        "square_meters": "155",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "7700",
+        "room_count": "4",
+        "square_meters": "114",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "גני אילן",
+            "street": "אלון יגאל",
+            "number": "9"
+        },
+        "price": "7500",
+        "room_count": "4.5",
+        "square_meters": "100",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, גני אילן, אלון יגאל 9"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "",
+        "room_count": "3",
+        "square_meters": "83",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "8300",
+        "room_count": "6",
+        "square_meters": "155",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "7900",
+        "room_count": "6",
+        "square_meters": "140",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "קיראון",
+            "street": "צה\"ל",
+            "number": "1"
+        },
+        "price": "4600",
+        "room_count": "3.5",
+        "square_meters": "85",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, קיראון, צה\"ל 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "6700",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "8300",
+        "room_count": "6",
+        "square_meters": "155",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "7200",
+        "room_count": "4",
+        "square_meters": "111",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "רימון",
+            "street": "המעגל",
+            "number": "32"
+        },
+        "price": "5600",
+        "room_count": "3",
+        "square_meters": "74",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, רימון, המעגל 32"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "6500",
+        "room_count": "3",
+        "square_meters": "85",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "רימון",
+            "street": "המעגל",
+            "number": "32"
+        },
+        "price": "5600",
+        "room_count": "3",
+        "square_meters": "74",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, רימון, המעגל 32"
+    },
+    {
+        "location": {
+            "city": "קריית אונו",
+            "area": "צומת סביון",
+            "street": "לוחמי האש",
+            "number": "1"
+        },
+        "price": "8200",
+        "room_count": "6",
+        "square_meters": "155",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית אונו, צומת סביון, לוחמי האש 1"
+    }
+]

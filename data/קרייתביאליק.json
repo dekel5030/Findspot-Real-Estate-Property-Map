@@ -1,0 +1,744 @@
+[
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "גבעת הרקפות",
+            "street": "יצחק שמיר",
+            "number": "1"
+        },
+        "price": "5400",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, גבעת הרקפות, יצחק שמיר 1"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "סביניה הותיקה",
+            "street": "הנרקיסים",
+            "number": "40"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, סביניה הותיקה, הנרקיסים 40"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "סביניה הותיקה",
+            "street": "הנרקיסים",
+            "number": "42"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, סביניה הותיקה, הנרקיסים 42"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "נאות אפק",
+            "street": "אפקה",
+            "number": "N/A"
+        },
+        "price": "6500",
+        "room_count": "5",
+        "square_meters": "1",
+        "floor": "17",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, נאות אפק, אפקה, שושנה דמארי 2"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביני",
+            "street": "אילון",
+            "number": "7"
+        },
+        "price": "4800",
+        "room_count": "4",
+        "square_meters": "140",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביני, אילון 7"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "סביניה",
+            "street": "קרן היסוד",
+            "number": "71"
+        },
+        "price": "4300",
+        "room_count": "4",
+        "square_meters": "112",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, סביניה, קרן היסוד 71"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביניה",
+            "street": "קרן היסוד",
+            "number": "71"
+        },
+        "price": "4300",
+        "room_count": "4",
+        "square_meters": "112",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביניה, קרן היסוד 71"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "סביניה",
+            "street": "דפנה",
+            "number": "48"
+        },
+        "price": "3600",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, סביניה, דפנה 48"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביניה",
+            "street": "דפנה",
+            "number": "48"
+        },
+        "price": "3600",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביניה, דפנה 48"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "סביניה הותיקה",
+            "street": "קרן היסוד",
+            "number": "112"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, סביניה הותיקה, קרן היסוד 112"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "ביאליק דרום",
+            "street": "כנען",
+            "number": "N/A"
+        },
+        "price": "2950",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, ביאליק דרום, כנען"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביניה",
+            "street": "דפנה",
+            "number": "62"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביניה, דפנה 62"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביניה",
+            "street": "קרן היסוד",
+            "number": "71"
+        },
+        "price": "4300",
+        "room_count": "4",
+        "square_meters": "112",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביניה, קרן היסוד 71"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביניה",
+            "street": "שד ירושלים",
+            "number": "16"
+        },
+        "price": "3350",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביניה, שד ירושלים 16"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "הפרפר",
+            "street": "השומר",
+            "number": "68"
+        },
+        "price": "5300",
+        "room_count": "5",
+        "square_meters": "135",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, הפרפר, השומר 68"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "צור שלום",
+            "street": "ברנר",
+            "number": "1"
+        },
+        "price": "2600",
+        "room_count": "2.5",
+        "square_meters": "58",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, צור שלום, ברנר 1"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "אפק",
+            "street": "עפרוני",
+            "number": "20"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, אפק, עפרוני 20"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "צור שלום",
+            "street": "הפרטיזנים",
+            "number": "9"
+        },
+        "price": "2000",
+        "room_count": "2",
+        "square_meters": "45",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, צור שלום, הפרטיזנים 9"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "ביאליק דרום",
+            "street": "העמקים",
+            "number": "13"
+        },
+        "price": "2500",
+        "room_count": "3",
+        "square_meters": "77",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, ביאליק דרום, העמקים 13"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "צור שלום",
+            "street": "יוספטל גיורא",
+            "number": "14"
+        },
+        "price": "2700",
+        "room_count": "3.5",
+        "square_meters": "72",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, צור שלום, יוספטל גיורא 14"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "הפרפר",
+            "street": "השומר",
+            "number": "68"
+        },
+        "price": "5300",
+        "room_count": "5",
+        "square_meters": "135",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, הפרפר, השומר 68"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביני",
+            "street": "לנדאור",
+            "number": "12"
+        },
+        "price": "3000",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביני, לנדאור 12"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביני",
+            "street": "דרך עכו",
+            "number": "40"
+        },
+        "price": "3250",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביני, דרך עכו 40"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "הפרפר",
+            "street": "שד הבנים",
+            "number": "4"
+        },
+        "price": "3300",
+        "room_count": "2.5",
+        "square_meters": "80",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, הפרפר, שד הבנים 4"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "צור שלום",
+            "street": "ז’o;בוטינסק",
+            "number": "18"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, צור שלום, ז’o;בוטינסק 18"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביני",
+            "street": "התאנים",
+            "number": "1"
+        },
+        "price": "3400",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביני, התאנים 1"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביני",
+            "street": "העצמאות",
+            "number": "25"
+        },
+        "price": "2300",
+        "room_count": "2",
+        "square_meters": "39",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביני, העצמאות 25"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "גבעת הרקפות",
+            "street": "יצחק שמיר",
+            "number": "1"
+        },
+        "price": "5600",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "15",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, גבעת הרקפות, יצחק שמיר 1"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביני",
+            "street": "העצמאות",
+            "number": "24"
+        },
+        "price": "1500",
+        "room_count": "2",
+        "square_meters": "25",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביני, העצמאות 24"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביני",
+            "street": "אילון",
+            "number": "2"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביני, אילון 2"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "אפק",
+            "street": "יהונתן",
+            "number": "1"
+        },
+        "price": "3500",
+        "room_count": "4",
+        "square_meters": "85",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, אפק, יהונתן 1"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביני",
+            "street": "קרן היסוד",
+            "number": "61"
+        },
+        "price": "5000",
+        "room_count": "4",
+        "square_meters": "114",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביני, קרן היסוד 61"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביני",
+            "street": "דפנה",
+            "number": "43"
+        },
+        "price": "4350",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביני, דפנה 43"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "נאות אפק",
+            "street": "אפקה",
+            "number": "N/A"
+        },
+        "price": "6500",
+        "room_count": "5",
+        "square_meters": "1",
+        "floor": "17",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, נאות אפק, אפקה, שושנה דמארי 2"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביני",
+            "street": "הדקלים",
+            "number": "23"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביני, הדקלים 23"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "צור שלום",
+            "street": "חיים",
+            "number": "95"
+        },
+        "price": "2500",
+        "room_count": "1",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, צור שלום, חיים 95"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביני",
+            "street": "דרך עכו",
+            "number": "84"
+        },
+        "price": "4500",
+        "room_count": "3.5",
+        "square_meters": "87",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביני, דרך עכו 84"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "צור שלום",
+            "street": "יוספטל גיורא",
+            "number": "12"
+        },
+        "price": "2200",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, צור שלום, יוספטל גיורא 12"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "צור שלום",
+            "street": "יוספטל גיורא",
+            "number": "1"
+        },
+        "price": "",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, צור שלום, יוספטל גיורא 1"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "צור שלום",
+            "street": "שלום עליכם",
+            "number": "7"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, צור שלום, שלום עליכם 7"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "גבעת הרקפות",
+            "street": "יצחק שמיר",
+            "number": "6"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, גבעת הרקפות, יצחק שמיר 6"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "גבעת הרקפות",
+            "street": "יצחק שמיר",
+            "number": "6"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, גבעת הרקפות, יצחק שמיר 6"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "ביאליק דרום",
+            "street": "קרן קיימת לישראל",
+            "number": "67"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, ביאליק דרום, קרן קיימת לישראל 67"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "אפק",
+            "street": "התל",
+            "number": "7"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, אפק, התל 7"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "גבעת הרקפות",
+            "street": "יצחק שמיר",
+            "number": "1"
+        },
+        "price": "5400",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, גבעת הרקפות, יצחק שמיר 1"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביניה",
+            "street": "הברושים",
+            "number": "21"
+        },
+        "price": "2700",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביניה, הברושים 21"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "גבעת הרקפות",
+            "street": "יצחק שמיר",
+            "number": "6"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, גבעת הרקפות, יצחק שמיר 6"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "צור שלום",
+            "street": "עגנון ש\"י",
+            "number": "9"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, צור שלום, עגנון ש\"י 9"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביניה",
+            "street": "הברושים",
+            "number": "21"
+        },
+        "price": "2700",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביניה, הברושים 21"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "אפק",
+            "street": "יהונתן",
+            "number": "1"
+        },
+        "price": "3500",
+        "room_count": "4",
+        "square_meters": "85",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, אפק, יהונתן 1"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "מרכז העיר סביני",
+            "street": "העצמאות",
+            "number": "24"
+        },
+        "price": "1500",
+        "room_count": "2",
+        "square_meters": "25",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, מרכז העיר סביני, העצמאות 24"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "גבעת הרקפות",
+            "street": "יצחק שמיר",
+            "number": "1"
+        },
+        "price": "5400",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, גבעת הרקפות, יצחק שמיר 1"
+    },
+    {
+        "location": {
+            "city": "קריית ביאליק",
+            "area": "גבעת הרקפות",
+            "street": "יצחק שמיר",
+            "number": "6"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "12",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית ביאליק, גבעת הרקפות, יצחק שמיר 6"
+    }
+]

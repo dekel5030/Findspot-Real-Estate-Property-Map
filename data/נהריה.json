@@ -1,0 +1,1458 @@
+[
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "N/A"
+        },
+        "price": "3200",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, הרצל"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "ויצמן",
+            "number": "111"
+        },
+        "price": "4400",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, ויצמן 111"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עיר דרום",
+            "street": "בלפור",
+            "number": "N/A"
+        },
+        "price": "3750",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עיר דרום, בלפור"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "יוספטל",
+            "street": "הנגב",
+            "number": "2"
+        },
+        "price": "150",
+        "room_count": "3.5",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, יוספטל, הנגב 2"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת טרומפלדור",
+            "street": "יהודה המכבי",
+            "number": "20"
+        },
+        "price": "2100",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת טרומפלדור, יהודה המכבי 20"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "רסקו",
+            "street": "קק\"ל",
+            "number": "3"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, רסקו, קק\"ל 3"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "36"
+        },
+        "price": "3400",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, הרצל 36"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "ויצמן",
+            "number": "32"
+        },
+        "price": "2995",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, ויצמן 32"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "קרן היסוד",
+            "number": "43"
+        },
+        "price": "3300",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, קרן היסוד 43"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "24"
+        },
+        "price": "5500",
+        "room_count": "5",
+        "square_meters": "128",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, הרצל 24"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת שרת",
+            "street": "קבוץ גלויות",
+            "number": "3"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "74",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת שרת, קבוץ גלויות 3"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת שרת",
+            "street": "קבוץ גלויות",
+            "number": "74"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת שרת, קבוץ גלויות 74"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת טרומפלדור",
+            "street": "החלוץ",
+            "number": "41"
+        },
+        "price": "2700",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת טרומפלדור, החלוץ 41"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת טרומפלדור",
+            "street": "החלוץ",
+            "number": "61"
+        },
+        "price": "2600",
+        "room_count": "3",
+        "square_meters": "64",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת טרומפלדור, החלוץ 61"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "קרן היסוד",
+            "number": "36"
+        },
+        "price": "3900",
+        "room_count": "2",
+        "square_meters": "65",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, קרן היסוד 36"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "חיים לבב 1",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "5000",
+        "room_count": "5",
+        "square_meters": "137",
+        "floor": "17",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, חיים לבב 1"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עמידר",
+            "street": "העליה",
+            "number": "65"
+        },
+        "price": "4000",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עמידר, העליה 65"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת שרה",
+            "street": "קבוץ גלויות",
+            "number": "76"
+        },
+        "price": "3500",
+        "room_count": "3.5",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת שרה, קבוץ גלויות 76"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת אוסישקין",
+            "street": "שפרינצק",
+            "number": "27"
+        },
+        "price": "3000",
+        "room_count": "3.5",
+        "square_meters": "75",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת אוסישקין, שפרינצק 27"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת טרומפלדור",
+            "street": "החלוץ",
+            "number": "6"
+        },
+        "price": "2400",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת טרומפלדור, החלוץ 6"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עמידר",
+            "street": "העליה",
+            "number": "65"
+        },
+        "price": "4000",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עמידר, העליה 65"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "וולפסון",
+            "number": "56"
+        },
+        "price": "3850",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, וולפסון 56"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "אחד העם",
+            "number": "21"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, אחד העם 21"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת שרה",
+            "street": "נחלת אשר",
+            "number": "41"
+        },
+        "price": "1300",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת שרה, נחלת אשר 41"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "אכזיב",
+            "street": "המעגן",
+            "number": "7"
+        },
+        "price": "4700",
+        "room_count": "4",
+        "square_meters": "122",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, אכזיב, המעגן 7"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת שרה",
+            "street": "נחלת אשר",
+            "number": "28"
+        },
+        "price": "2700",
+        "room_count": "3.5",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת שרה, נחלת אשר 28"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "19"
+        },
+        "price": "4800",
+        "room_count": "5",
+        "square_meters": "125",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, הרצל 19"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "115"
+        },
+        "price": "3600",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, הרצל 115"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "וולפסון",
+            "number": "50"
+        },
+        "price": "5300",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, וולפסון 50"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "קרן היסוד",
+            "number": "43"
+        },
+        "price": "3300",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, קרן היסוד 43"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת כצנלסון",
+            "street": "רמב\"ם",
+            "number": "19"
+        },
+        "price": "4200",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת כצנלסון, רמב\"ם 19"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עין שרה",
+            "street": "המגינים",
+            "number": "12"
+        },
+        "price": "3200",
+        "room_count": "4",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עין שרה, המגינים 12"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "סוסקין",
+            "number": "11"
+        },
+        "price": "3900",
+        "room_count": "3",
+        "square_meters": "125",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, סוסקין 11"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "ויצמן",
+            "number": "13"
+        },
+        "price": "3000",
+        "room_count": "4.5",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, ויצמן 13"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "האצטדיון",
+            "street": "החזון",
+            "number": "1"
+        },
+        "price": "6000",
+        "room_count": "5",
+        "square_meters": "140",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, האצטדיון, החזון 1"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "82"
+        },
+        "price": "3500",
+        "room_count": "4",
+        "square_meters": "95",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, הרצל 82"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "13"
+        },
+        "price": "3400",
+        "room_count": "3",
+        "square_meters": "1",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, הרצל 13"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "האצטדיון",
+            "street": "החזון",
+            "number": "1"
+        },
+        "price": "4700",
+        "room_count": "4",
+        "square_meters": "124",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, האצטדיון, החזון 1"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "אכזיב",
+            "street": "דוגית",
+            "number": "4"
+        },
+        "price": "4800",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, אכזיב, דוגית 4"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת כצנלסון",
+            "street": "נחלת אשר",
+            "number": "16"
+        },
+        "price": "2300",
+        "room_count": "1.5",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת כצנלסון, נחלת אשר 16"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת שרה",
+            "street": "קבוץ גלויות",
+            "number": "67"
+        },
+        "price": "3000",
+        "room_count": "3.5",
+        "square_meters": "76",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת שרה, קבוץ גלויות 67"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עין שרה",
+            "street": "קפלן",
+            "number": "15"
+        },
+        "price": "3200",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עין שרה, קפלן 15"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "האצטדיון",
+            "street": "דרך השלום",
+            "number": "12"
+        },
+        "price": "4800",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, האצטדיון, דרך השלום 12"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "שטינמץ מקס",
+            "number": "7"
+        },
+        "price": "3500",
+        "room_count": "4",
+        "square_meters": "94",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, שטינמץ מקס 7"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "אכזיב",
+            "street": "אלמוג",
+            "number": "8"
+        },
+        "price": "4700",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, אכזיב, אלמוג 8"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת אוסישקין",
+            "street": "המלך דוד",
+            "number": "23"
+        },
+        "price": "3200",
+        "room_count": "3",
+        "square_meters": "73",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת אוסישקין, המלך דוד 23"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "רסקו",
+            "street": "קק\"ל",
+            "number": "1"
+        },
+        "price": "3600",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, רסקו, קק\"ל 1"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עמידר",
+            "street": "ההגנה",
+            "number": "46"
+        },
+        "price": "4000",
+        "room_count": "4.5",
+        "square_meters": "104",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עמידר, ההגנה 46"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עין שרה",
+            "street": "שדרות זלמן שז&q",
+            "number": "55"
+        },
+        "price": "3200",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עין שרה, שדרות זלמן שז&q 55"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "גרינבוים",
+            "number": "9"
+        },
+        "price": "5500",
+        "room_count": "5",
+        "square_meters": "124",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, גרינבוים 9"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "ויצמן",
+            "number": "5"
+        },
+        "price": "2850",
+        "room_count": "4.5",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, ויצמן 5"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עמידר",
+            "street": "בורוכוב",
+            "number": "11"
+        },
+        "price": "3600",
+        "room_count": "4",
+        "square_meters": "106",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עמידר, בורוכוב 11"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עמידר",
+            "street": "העליה",
+            "number": "65"
+        },
+        "price": "4900",
+        "room_count": "3.5",
+        "square_meters": "118",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עמידר, העליה 65"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עמידר",
+            "street": "ההגנה",
+            "number": "46"
+        },
+        "price": "3800",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עמידר, ההגנה 46"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "חניתה",
+            "number": "13"
+        },
+        "price": "4300",
+        "room_count": "4.5",
+        "square_meters": "105",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, חניתה 13"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת כצנלסון",
+            "street": "נחלת אשר",
+            "number": "16"
+        },
+        "price": "2300",
+        "room_count": "1.5",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת כצנלסון, נחלת אשר 16"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת אוסישקין",
+            "street": "יפה נוף",
+            "number": "43"
+        },
+        "price": "3390",
+        "room_count": "4",
+        "square_meters": "121",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת אוסישקין, יפה נוף 43"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת טרומפלדור",
+            "street": "החלוץ",
+            "number": "1"
+        },
+        "price": "2300",
+        "room_count": "3",
+        "square_meters": "100",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת טרומפלדור, החלוץ 1"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "אכזיב",
+            "street": "המעגן",
+            "number": "7"
+        },
+        "price": "5400",
+        "room_count": "4",
+        "square_meters": "122",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, אכזיב, המעגן 7"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "אכזיב",
+            "street": "המעגן",
+            "number": "7"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, אכזיב, המעגן 7"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "יוספטל",
+            "street": "וייסבורג",
+            "number": "5"
+        },
+        "price": "3300",
+        "room_count": "4",
+        "square_meters": "83",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, יוספטל, וייסבורג 5"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת כצנלסון",
+            "street": "דרך סטרומה",
+            "number": "9"
+        },
+        "price": "3200",
+        "room_count": "2",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת כצנלסון, דרך סטרומה 9"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "ז’o;בוטינסקי",
+            "number": "61"
+        },
+        "price": "3700",
+        "room_count": "4.5",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, ז’o;בוטינסקי 61"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת שרה",
+            "street": "קבוץ גלויות",
+            "number": "74"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת שרה, קבוץ גלויות 74"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת אוסישקין",
+            "street": "יפה נוף",
+            "number": "5"
+        },
+        "price": "2200",
+        "room_count": "1",
+        "square_meters": "45",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת אוסישקין, יפה נוף 5"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת כצנלסון",
+            "street": "שביל הכרם",
+            "number": "3"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת כצנלסון, שביל הכרם 3"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת טרומפלדור",
+            "street": "זמנהוף",
+            "number": "5"
+        },
+        "price": "2500",
+        "room_count": "2.5",
+        "square_meters": "50",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת טרומפלדור, זמנהוף 5"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "וולפסון",
+            "number": "11"
+        },
+        "price": "3800",
+        "room_count": "4.5",
+        "square_meters": "107",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, וולפסון 11"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "אכזיב",
+            "street": "אלמוג",
+            "number": "10"
+        },
+        "price": "4900",
+        "room_count": "4",
+        "square_meters": "122",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, אכזיב, אלמוג 10"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "25"
+        },
+        "price": "3900",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, הרצל 25"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עין שרה",
+            "street": "הרצל",
+            "number": "114"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עין שרה, הרצל 114"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עין שרה",
+            "street": "המגינים",
+            "number": "2"
+        },
+        "price": "3400",
+        "room_count": "3",
+        "square_meters": "69",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עין שרה, המגינים 2"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת כצנלסון",
+            "street": "זיסו",
+            "number": "3"
+        },
+        "price": "2200",
+        "room_count": "1.5",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת כצנלסון, זיסו 3"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "ויצמן",
+            "number": "28"
+        },
+        "price": "5500",
+        "room_count": "5",
+        "square_meters": "124",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, ויצמן 28"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "רמז",
+            "number": "33"
+        },
+        "price": "3000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, רמז 33"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "57"
+        },
+        "price": "3200",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, הרצל 57"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עמידר",
+            "street": "חניתה",
+            "number": "4"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "95",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עמידר, חניתה 4"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת אוסישקין",
+            "street": "שד אשכול",
+            "number": "29"
+        },
+        "price": "3200",
+        "room_count": "3",
+        "square_meters": "76",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת אוסישקין, שד אשכול 29"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת שרה",
+            "street": "נחלת אשר",
+            "number": "45"
+        },
+        "price": "2550",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת שרה, נחלת אשר 45"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "המיסדים",
+            "number": "22"
+        },
+        "price": "3250",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, המיסדים 22"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עין שרה",
+            "street": "הרצל",
+            "number": "114"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עין שרה, הרצל 114"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת כצנלסון",
+            "street": "דרך השיירה",
+            "number": "8"
+        },
+        "price": "3500",
+        "room_count": "4.5",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת כצנלסון, דרך השיירה 8"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עין שרה",
+            "street": "שדרות זלמן שז&q",
+            "number": "35"
+        },
+        "price": "",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עין שרה, שדרות זלמן שז&q 35"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "26"
+        },
+        "price": "2850",
+        "room_count": "2",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, הרצל 26"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת כצנלסון",
+            "street": "שביל הכרם",
+            "number": "3"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת כצנלסון, שביל הכרם 3"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "55"
+        },
+        "price": "2400",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, הרצל 55"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת אוסישקין",
+            "street": "יפה נוף",
+            "number": "5"
+        },
+        "price": "2200",
+        "room_count": "1",
+        "square_meters": "45",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת אוסישקין, יפה נוף 5"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עמידר",
+            "street": "ההגנה",
+            "number": "38"
+        },
+        "price": "3900",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עמידר, ההגנה 38"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "יוספטל",
+            "street": "הנגב",
+            "number": "2"
+        },
+        "price": "150",
+        "room_count": "3.5",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, יוספטל, הנגב 2"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "ז’o;בוטינסקי",
+            "number": "68"
+        },
+        "price": "3300",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, ז’o;בוטינסקי 68"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "וולפסון",
+            "number": "58"
+        },
+        "price": "3500",
+        "room_count": "4",
+        "square_meters": "79",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, וולפסון 58"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "גבעת כצנלסון",
+            "street": "שביל הכרם",
+            "number": "3"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, גבעת כצנלסון, שביל הכרם 3"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "לוי יוסף",
+            "number": "1"
+        },
+        "price": "3500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, לוי יוסף 1"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "יוספטל",
+            "street": "הנגב",
+            "number": "2"
+        },
+        "price": "150",
+        "room_count": "3.5",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, יוספטל, הנגב 2"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "31"
+        },
+        "price": "3500",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, הרצל 31"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "סוקולוב",
+            "number": "49"
+        },
+        "price": "5500",
+        "room_count": "4.5",
+        "square_meters": "134",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, סוקולוב 49"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "סוסקין",
+            "number": "11"
+        },
+        "price": "3500",
+        "room_count": "4",
+        "square_meters": "134",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, סוסקין 11"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "המיסדים",
+            "number": "22"
+        },
+        "price": "3250",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, המיסדים 22"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "שטינמץ מקס",
+            "number": "8"
+        },
+        "price": "2900",
+        "room_count": "3.5",
+        "square_meters": "95",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, שטינמץ מקס 8"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "הרצל",
+            "number": "62"
+        },
+        "price": "4000",
+        "room_count": "5.5",
+        "square_meters": "145",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, הרצל 62"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "מרכז העיר",
+            "street": "סוסקין",
+            "number": "11"
+        },
+        "price": "3500",
+        "room_count": "4",
+        "square_meters": "134",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, מרכז העיר, סוסקין 11"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עין שרה",
+            "street": "שדרות זלמן שז\"ר",
+            "number": "13"
+        },
+        "price": "3000",
+        "room_count": "2.5",
+        "square_meters": "48",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עין שרה, שדרות זלמן שז\"ר 13"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עין שרה",
+            "street": "שדרות זלמן שז\"ר",
+            "number": "13"
+        },
+        "price": "3000",
+        "room_count": "2.5",
+        "square_meters": "48",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עין שרה, שדרות זלמן שז\"ר 13"
+    },
+    {
+        "location": {
+            "city": "נהריה",
+            "area": "עמידר",
+            "street": "ההגנה",
+            "number": "38"
+        },
+        "price": "3900",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "נהריה, עמידר, ההגנה 38"
+    }
+]

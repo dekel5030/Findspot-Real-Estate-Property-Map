@@ -1,0 +1,646 @@
+[
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "שד ויצמן",
+            "number": "14"
+        },
+        "price": "2450",
+        "room_count": "2.5",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, שד ויצמן 14"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "משכנות האומנים",
+            "street": "נעמי שמר",
+            "number": "12"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "135",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, משכנות האומנים, נעמי שמר 12"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "נווה גנים",
+            "street": "אנילביץ מרדכי",
+            "number": "3"
+        },
+        "price": "4200",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, נווה גנים, אנילביץ מרדכי 3"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "יוספטל",
+            "number": "10"
+        },
+        "price": "4100",
+        "room_count": "4.5",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, יוספטל 10"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "סמ אורן",
+            "number": "13"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, סמ אורן 13"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "רסקו",
+            "street": "דרך עכו",
+            "number": "N/A"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "107",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, רסקו, דרך עכו"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "כצנלסון",
+            "number": "10"
+        },
+        "price": "3000",
+        "room_count": "2.5",
+        "square_meters": "76",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, כצנלסון 10"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "גורדון",
+            "number": "4"
+        },
+        "price": "3400",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, גורדון 4"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "יוספטל",
+            "number": "5"
+        },
+        "price": "2800",
+        "room_count": "3",
+        "square_meters": "74",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, יוספטל 5"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "גורדון",
+            "number": "1"
+        },
+        "price": "5600",
+        "room_count": "4.5",
+        "square_meters": "130",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, גורדון 1"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "דוד המלך",
+            "number": "13"
+        },
+        "price": "5500",
+        "room_count": "5",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, דוד המלך 13"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "הרב הרצוג",
+            "number": "3"
+        },
+        "price": "4000",
+        "room_count": "3.5",
+        "square_meters": "99",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, הרב הרצוג 3"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "סנש חנה",
+            "number": "7"
+        },
+        "price": "3100",
+        "room_count": "2",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, סנש חנה 7"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "לב מוצקין",
+            "street": "אלון יגאל",
+            "number": "13"
+        },
+        "price": "4600",
+        "room_count": "4.5",
+        "square_meters": "130",
+        "floor": "11",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, לב מוצקין, אלון יגאל 13"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "אוסישקין",
+            "number": "21"
+        },
+        "price": "2500",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, אוסישקין 21"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "שפרינצק",
+            "number": "9"
+        },
+        "price": "2000",
+        "room_count": "1",
+        "square_meters": "29",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, שפרינצק 9"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "לב מוצקין",
+            "street": "אלון יגאל",
+            "number": "13"
+        },
+        "price": "",
+        "room_count": "5.5",
+        "square_meters": "117",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, לב מוצקין, אלון יגאל 13"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "אביבים",
+            "street": "קדיש לוז",
+            "number": "28"
+        },
+        "price": "2200",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, אביבים, קדיש לוז 28"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "ההגנה",
+            "number": "24"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, ההגנה 24"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "שד גושן משה",
+            "number": "13"
+        },
+        "price": "3300",
+        "room_count": "3",
+        "square_meters": "N/A",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, שד גושן משה 13"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "לב מוצקין",
+            "street": "אלון יגאל",
+            "number": "13"
+        },
+        "price": "",
+        "room_count": "5.5",
+        "square_meters": "117",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, לב מוצקין, אלון יגאל 13"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "אוסישקין",
+            "number": "21"
+        },
+        "price": "2500",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, אוסישקין 21"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "סנש חנה",
+            "number": "7"
+        },
+        "price": "3100",
+        "room_count": "2",
+        "square_meters": "70",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, סנש חנה 7"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "הרקפת",
+            "number": "7"
+        },
+        "price": "2500",
+        "room_count": "2.5",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, הרקפת 7"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "שד ויצמן",
+            "number": "48"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, שד ויצמן 48"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "שדרות קק\"ל",
+            "number": "6"
+        },
+        "price": "4100",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, שדרות קק\"ל 6"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "יוספטל",
+            "number": "29"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "80",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, יוספטל 29"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "אביבים",
+            "street": "דרך עכו",
+            "number": "235"
+        },
+        "price": "3600",
+        "room_count": "3.5",
+        "square_meters": "87",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, אביבים, דרך עכו 235"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "לב מוצקין",
+            "street": "ספיר פנחס",
+            "number": "20"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, לב מוצקין, ספיר פנחס 20"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "אביבים",
+            "street": "דרך עכו",
+            "number": "197"
+        },
+        "price": "3150",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, אביבים, דרך עכו 197"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "הירדן",
+            "number": "11"
+        },
+        "price": "2500",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, הירדן 11"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "הירדן",
+            "number": "7"
+        },
+        "price": "2400",
+        "room_count": "1.5",
+        "square_meters": "35",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, הירדן 7"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "יעל",
+            "number": "12"
+        },
+        "price": "2500",
+        "room_count": "1",
+        "square_meters": "38",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, יעל 12"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "אביבים",
+            "street": "דרך עכו",
+            "number": "183"
+        },
+        "price": "3400",
+        "room_count": "2",
+        "square_meters": "50",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, אביבים, דרך עכו 183"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "אירוס",
+            "number": "4"
+        },
+        "price": "1800",
+        "room_count": "1.5",
+        "square_meters": "29",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, אירוס 4"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "לב מוצקין",
+            "street": "אלון יגאל",
+            "number": "13"
+        },
+        "price": "5200",
+        "room_count": "5.5",
+        "square_meters": "120",
+        "floor": "9",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, לב מוצקין, אלון יגאל 13"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "מודיעין",
+            "number": "2"
+        },
+        "price": "3500",
+        "room_count": "3.5",
+        "square_meters": "76",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, מודיעין 2"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "סנש חנה",
+            "number": "14"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, סנש חנה 14"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "נתיב העלייה",
+            "number": "3"
+        },
+        "price": "2500",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, נתיב העלייה 3"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "ציפורן",
+            "number": "2"
+        },
+        "price": "1900",
+        "room_count": "1",
+        "square_meters": "28",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, ציפורן 2"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "שד ויצמן",
+            "number": "48"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, שד ויצמן 48"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "לב מוצקין",
+            "street": "ספיר פנחס",
+            "number": "20"
+        },
+        "price": "4500",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, לב מוצקין, ספיר פנחס 20"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "הילדים",
+            "number": "16"
+        },
+        "price": "1500",
+        "room_count": "1.5",
+        "square_meters": "30",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, הילדים 16"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "סנש חנה",
+            "number": "14"
+        },
+        "price": "2900",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, סנש חנה 14"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "יעל",
+            "number": "12"
+        },
+        "price": "2500",
+        "room_count": "1",
+        "square_meters": "38",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, יעל 12"
+    },
+    {
+        "location": {
+            "city": "קריית מוצקין",
+            "area": "מוצקין הותיקה",
+            "street": "מסדה",
+            "number": "18"
+        },
+        "price": "3500",
+        "room_count": "2.5",
+        "square_meters": "160",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "קריית מוצקין, מוצקין הותיקה, מסדה 18"
+    }
+]

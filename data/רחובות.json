@@ -1,0 +1,1542 @@
+[
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "מרכז העיר",
+            "street": "בית הפועלים",
+            "number": "6"
+        },
+        "price": "4700",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, מרכז העיר, בית הפועלים 6"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "אושיות",
+            "street": "ההסתדרות",
+            "number": "60"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, אושיות, ההסתדרות 60"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "מיליצ’o;ן",
+            "street": "משה מזרחי",
+            "number": "12"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "77",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, מיליצ’o;ן, משה מזרחי 12"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון מזרח העיר",
+            "street": "הרב הרצוג",
+            "number": "21"
+        },
+        "price": "6900",
+        "room_count": "4.5",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון מזרח העיר, הרב הרצוג 21"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון מזרח העיר",
+            "street": "אייזנברג",
+            "number": "31"
+        },
+        "price": "4450",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון מזרח העיר, אייזנברג 31"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "נווה יהודה",
+            "street": "החיטה",
+            "number": "5"
+        },
+        "price": "3300",
+        "room_count": "2",
+        "square_meters": "30",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, נווה יהודה, החיטה 5"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "בנימין 14",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "4700",
+        "room_count": "3.5",
+        "square_meters": "81",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, בנימין 14"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון מזרח העיר",
+            "street": "לוצקי חוה",
+            "number": "12"
+        },
+        "price": "1785",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון מזרח העיר, לוצקי חוה 12"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "הבנים 18",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "4800",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, הבנים 18"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "רחובות הצעירה",
+            "street": "חזון אי\"ש",
+            "number": "26"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "142",
+        "floor": "7",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, רחובות הצעירה, חזון אי\"ש 26"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "שעריים",
+            "street": "בר כוכבא",
+            "number": "7"
+        },
+        "price": "3750",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, שעריים, בר כוכבא 7"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "הבנים 18",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "4900",
+        "room_count": "3.5",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, הבנים 18"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "בנימין 39",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "5800",
+        "room_count": "4.5",
+        "square_meters": "120",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, בנימין 39"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "קריית דוד",
+            "street": "גוש עציון",
+            "number": "25"
+        },
+        "price": "3800",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, קריית דוד, גוש עציון 25"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "רחובות ההולנדית",
+            "street": "הר הצופים",
+            "number": "9"
+        },
+        "price": "5300",
+        "room_count": "3",
+        "square_meters": "77",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, רחובות ההולנדית, הר הצופים 9"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "קריית דוד",
+            "street": "מגיני הגליל",
+            "number": "53"
+        },
+        "price": "6800",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, קריית דוד, מגיני הגליל 53"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "מיליצ’o;ן",
+            "street": "מזרחי משה",
+            "number": "14"
+        },
+        "price": "3900",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, מיליצ’o;ן, מזרחי משה 14"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "קריית משה",
+            "street": "הורוביץ צבי",
+            "number": "153"
+        },
+        "price": "3600",
+        "room_count": "3",
+        "square_meters": "N/A",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, קריית משה, הורוביץ צבי 153"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון מזרח העיר",
+            "street": "איזנברג",
+            "number": "40"
+        },
+        "price": "4100",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון מזרח העיר, איזנברג 40"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ב’o; / צפון",
+            "street": "סמילנסקי",
+            "number": "20"
+        },
+        "price": "4900",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ב’o; / צפון, סמילנסקי 20"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "מרמורק",
+            "street": "ארלוזורוב",
+            "number": "14"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, מרמורק, ארלוזורוב 14"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "קריית דוד",
+            "street": "גוש עציון",
+            "number": "25"
+        },
+        "price": "3800",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, קריית דוד, גוש עציון 25"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ב’o; / צפון",
+            "street": "סמילנסקי",
+            "number": "20"
+        },
+        "price": "4900",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ב’o; / צפון, סמילנסקי 20"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "קריית משה",
+            "street": "הורוביץ צבי",
+            "number": "153"
+        },
+        "price": "3600",
+        "room_count": "3",
+        "square_meters": "N/A",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, קריית משה, הורוביץ צבי 153"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "חצרות המושבה",
+            "street": "יעקב תמרי",
+            "number": "3"
+        },
+        "price": "6500",
+        "room_count": "4",
+        "square_meters": "120",
+        "floor": "10",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, חצרות המושבה, יעקב תמרי 3"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "מרמורק",
+            "street": "העליה",
+            "number": "9"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "75",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, מרמורק, העליה 9"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "אושיות",
+            "street": "טרומפלדור",
+            "number": "1"
+        },
+        "price": "2100",
+        "room_count": "1",
+        "square_meters": "3",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, אושיות, טרומפלדור 1"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "המדע",
+            "street": "הקציר",
+            "number": "25"
+        },
+        "price": "7900",
+        "room_count": "5",
+        "square_meters": "144",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, המדע, הקציר 25"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "שעריים",
+            "street": "האמוראים",
+            "number": "8"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, שעריים, האמוראים 8"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ב’o; / צפון",
+            "street": "דרך יבנה",
+            "number": "16"
+        },
+        "price": "",
+        "room_count": "4",
+        "square_meters": "110",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ב’o; / צפון, דרך יבנה 16"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "אזור תעשייה רכט",
+            "street": "נחושתן",
+            "number": "10"
+        },
+        "price": "6000",
+        "room_count": "5",
+        "square_meters": "100",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, אזור תעשייה רכט, נחושתן 10"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "נווה יהודה",
+            "street": "רופין",
+            "number": "30"
+        },
+        "price": "3100",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, נווה יהודה, רופין 30"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "מרמורק",
+            "street": "קובנר",
+            "number": "2"
+        },
+        "price": "3700",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, מרמורק, קובנר 2"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "שעריים",
+            "street": "קפרא מנשה",
+            "number": "59"
+        },
+        "price": "100",
+        "room_count": "5",
+        "square_meters": "120",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, שעריים, קפרא מנשה 59"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "אושיות",
+            "street": "שדרת הקבוצים",
+            "number": "22"
+        },
+        "price": "3500",
+        "room_count": "3",
+        "square_meters": "65",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, אושיות, שדרת הקבוצים 22"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "חצרות המושבה",
+            "street": "יעקב תמרי",
+            "number": "10"
+        },
+        "price": "6600",
+        "room_count": "4",
+        "square_meters": "105",
+        "floor": "15",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, חצרות המושבה, יעקב תמרי 10"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "נווה יהודה",
+            "street": "דרך אצ\"ל",
+            "number": "8"
+        },
+        "price": "3500",
+        "room_count": "3.5",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, נווה יהודה, דרך אצ\"ל 8"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "נווה יהודה",
+            "street": "בארי",
+            "number": "8"
+        },
+        "price": "3800",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, נווה יהודה, בארי 8"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "שקולניק אהרן 3",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "3700",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, שקולניק אהרן 3"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "סלע",
+            "street": "פוגל בן ציון",
+            "number": "15"
+        },
+        "price": "3300",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, סלע, פוגל בן ציון 15"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "שעריים",
+            "street": "קפרא מנשה",
+            "number": "8"
+        },
+        "price": "3900",
+        "room_count": "1",
+        "square_meters": "115",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, שעריים, קפרא מנשה 8"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "מכון ויצמן",
+            "street": "פינסקר",
+            "number": "21"
+        },
+        "price": "4300",
+        "room_count": "2",
+        "square_meters": "60",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, מכון ויצמן, פינסקר 21"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "רחובות ההולנדית",
+            "street": "הר הצופים",
+            "number": "9"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "105",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, רחובות ההולנדית, הר הצופים 9"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ב’o; / צפון",
+            "street": "גלוסקין",
+            "number": "16"
+        },
+        "price": "5600",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ב’o; / צפון, גלוסקין 16"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "המדע",
+            "street": "הקציר",
+            "number": "25"
+        },
+        "price": "7900",
+        "room_count": "5",
+        "square_meters": "144",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, המדע, הקציר 25"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "שעריים",
+            "street": "ארלוזורוב",
+            "number": "32"
+        },
+        "price": "3000",
+        "room_count": "1.5",
+        "square_meters": "40",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, שעריים, ארלוזורוב 32"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון",
+            "street": "יעבץ",
+            "number": "6"
+        },
+        "price": "4300",
+        "room_count": "2.5",
+        "square_meters": "67",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון, יעבץ 6"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ב’o; / צפון",
+            "street": "רמז",
+            "number": "61"
+        },
+        "price": "4400",
+        "room_count": "3",
+        "square_meters": "84",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ב’o; / צפון, רמז 61"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "אחוזת הנשיא",
+            "street": "כרמל",
+            "number": "15"
+        },
+        "price": "6900",
+        "room_count": "3.5",
+        "square_meters": "89",
+        "floor": "13",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, אחוזת הנשיא, כרמל 15"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ד’o; / מערב",
+            "street": "הרשנזון",
+            "number": "45"
+        },
+        "price": "5600",
+        "room_count": "5",
+        "square_meters": "110",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ד’o; / מערב, הרשנזון 45"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "שעריים",
+            "street": "רמב\"ם",
+            "number": "109"
+        },
+        "price": "5500",
+        "room_count": "3",
+        "square_meters": "92",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, שעריים, רמב\"ם 109"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ד’o; / מערב",
+            "street": "הרשנזון",
+            "number": "55"
+        },
+        "price": "4100",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ד’o; / מערב, הרשנזון 55"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ב’o; / צפון",
+            "street": "הרצל",
+            "number": "203"
+        },
+        "price": "3800",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ב’o; / צפון, הרצל 203"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ב’o; / צפון",
+            "street": "הרצל",
+            "number": "217"
+        },
+        "price": "6200",
+        "room_count": "5",
+        "square_meters": "150",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ב’o; / צפון, הרצל 217"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "אליעזר יעקבסון 11",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "4500",
+        "room_count": "3.5",
+        "square_meters": "94",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, אליעזר יעקבסון 11"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "אושיות",
+            "street": "קאופמן חיים",
+            "number": "8"
+        },
+        "price": "7990",
+        "room_count": "5",
+        "square_meters": "132",
+        "floor": "8",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, אושיות, קאופמן חיים 8"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "חצרות המושבה",
+            "street": "יעקב תמרי",
+            "number": "16"
+        },
+        "price": "7900",
+        "room_count": "5",
+        "square_meters": "124",
+        "floor": "14",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, חצרות המושבה, יעקב תמרי 16"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "שעריים",
+            "street": "טשרניחובסקי",
+            "number": "54"
+        },
+        "price": "3500",
+        "room_count": "2",
+        "square_meters": "95",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, שעריים, טשרניחובסקי 54"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון",
+            "street": "הרצל",
+            "number": "208"
+        },
+        "price": "6000",
+        "room_count": "4",
+        "square_meters": "132",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון, הרצל 208"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון",
+            "street": "הנשיא הראשון",
+            "number": "41"
+        },
+        "price": "5300",
+        "room_count": "4",
+        "square_meters": "115",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון, הנשיא הראשון 41"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "נווה יהודה",
+            "street": "השעורה",
+            "number": "4"
+        },
+        "price": "4000",
+        "room_count": "3.5",
+        "square_meters": "60",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, נווה יהודה, השעורה 4"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון מזרח העיר",
+            "street": "בן יהודה",
+            "number": "9"
+        },
+        "price": "7250",
+        "room_count": "4.5",
+        "square_meters": "110",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון מזרח העיר, בן יהודה 9"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "קריית דוד",
+            "street": "גוש עציון",
+            "number": "25"
+        },
+        "price": "3800",
+        "room_count": "2.5",
+        "square_meters": "55",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, קריית דוד, גוש עציון 25"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "רחובות ההולנדית",
+            "street": "בן גוריון",
+            "number": "11"
+        },
+        "price": "8000",
+        "room_count": "5",
+        "square_meters": "132",
+        "floor": "14",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, רחובות ההולנדית, בן גוריון 11"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "דניה",
+            "street": "לח\"י",
+            "number": "57"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, דניה, לח\"י 57"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון",
+            "street": "בוסתנאי",
+            "number": "10"
+        },
+        "price": "1600",
+        "room_count": "4",
+        "square_meters": "15",
+        "floor": "6",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון, בוסתנאי 10"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "סלע",
+            "street": "ששת הימים",
+            "number": "97"
+        },
+        "price": "7500",
+        "room_count": "5",
+        "square_meters": "135",
+        "floor": "15",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, סלע, ששת הימים 97"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון",
+            "street": "הנשיא הראשון",
+            "number": "21"
+        },
+        "price": "4800",
+        "room_count": "2.5",
+        "square_meters": "65",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון, הנשיא הראשון 21"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "רחובות ההולנדית",
+            "street": "בן גוריון",
+            "number": "11"
+        },
+        "price": "8000",
+        "room_count": "5",
+        "square_meters": "132",
+        "floor": "14",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, רחובות ההולנדית, בן גוריון 11"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון",
+            "street": "גורודיסקי",
+            "number": "15"
+        },
+        "price": "6400",
+        "room_count": "3",
+        "square_meters": "79",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון, גורודיסקי 15"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ב’o; / צפון מערב העיר",
+            "street": "דרך יבנה",
+            "number": "42"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ב’o; / צפון מערב העיר, דרך יבנה 42"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון",
+            "street": "מנוחה ונחלה",
+            "number": "49"
+        },
+        "price": "3000",
+        "room_count": "1.5",
+        "square_meters": "35",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון, מנוחה ונחלה 49"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון",
+            "street": "אהרוני ישראל",
+            "number": "7"
+        },
+        "price": "5500",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון, אהרוני ישראל 7"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "אושיות",
+            "street": "פורר יהושע",
+            "number": "185"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, אושיות, פורר יהושע 185"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ב’o; / צפון",
+            "street": "בית הפועלים",
+            "number": "4"
+        },
+        "price": "4500",
+        "room_count": "3",
+        "square_meters": "90",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ב’o; / צפון, בית הפועלים 4"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון מזרח העיר",
+            "street": "הנשיא הראשון",
+            "number": "18"
+        },
+        "price": "4150",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון מזרח העיר, הנשיא הראשון 18"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "רחובות ההולנדית",
+            "street": "דוד אלעזר",
+            "number": "25"
+        },
+        "price": "4000",
+        "room_count": "3",
+        "square_meters": "60",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, רחובות ההולנדית, דוד אלעזר 25"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון",
+            "street": "מילר טובה וטובי",
+            "number": "15"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון, מילר טובה וטובי 15"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון מזרח העיר",
+            "street": "הנשיא הראשון",
+            "number": "18"
+        },
+        "price": "4150",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון מזרח העיר, הנשיא הראשון 18"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "מיליצ’o;ן",
+            "street": "מילצן חיים אליע",
+            "number": "20"
+        },
+        "price": "3500",
+        "room_count": "3.5",
+        "square_meters": "90",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, מיליצ’o;ן, מילצן חיים אליע 20"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "הבנים 2",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, הבנים 2"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "נווה יהודה",
+            "street": "דרך יבנה",
+            "number": "11"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, נווה יהודה, דרך יבנה 11"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "סלע",
+            "street": "ששת הימים",
+            "number": "97"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "86",
+        "floor": "15",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, סלע, ששת הימים 97"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון מזרח העיר",
+            "street": "הגר\"א",
+            "number": "8"
+        },
+        "price": "4900",
+        "room_count": "4",
+        "square_meters": "94",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון מזרח העיר, הגר\"א 8"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ב’o; / צפון מערב העיר",
+            "street": "דרך יבנה",
+            "number": "42"
+        },
+        "price": "4500",
+        "room_count": "2",
+        "square_meters": "40",
+        "floor": "5",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ב’o; / צפון מערב העיר, דרך יבנה 42"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "רחובות ההולנדית",
+            "street": "בן גוריון",
+            "number": "11"
+        },
+        "price": "8000",
+        "room_count": "5",
+        "square_meters": "132",
+        "floor": "14",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, רחובות ההולנדית, בן גוריון 11"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון מזרח העיר",
+            "street": "הגר\"א",
+            "number": "8"
+        },
+        "price": "4900",
+        "room_count": "4",
+        "square_meters": "94",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון מזרח העיר, הגר\"א 8"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "אושיות",
+            "street": "לדיז’o;ינסקי",
+            "number": "3"
+        },
+        "price": "3450",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, אושיות, לדיז’o;ינסקי 3"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "רחובות ההולנדית",
+            "street": "בן גוריון",
+            "number": "11"
+        },
+        "price": "8000",
+        "room_count": "5",
+        "square_meters": "132",
+        "floor": "14",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, רחובות ההולנדית, בן גוריון 11"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "סלע",
+            "street": "ששת הימים",
+            "number": "97"
+        },
+        "price": "6000",
+        "room_count": "3",
+        "square_meters": "86",
+        "floor": "15",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, סלע, ששת הימים 97"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "שעריים",
+            "street": "רמב\"ם",
+            "number": "71"
+        },
+        "price": "3700",
+        "room_count": "3",
+        "square_meters": "55",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, שעריים, רמב\"ם 71"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "אושיות",
+            "street": "לדיז’o;ינסקי",
+            "number": "3"
+        },
+        "price": "3450",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, אושיות, לדיז’o;ינסקי 3"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "נווה יהודה",
+            "street": "דרך יבנה",
+            "number": "11"
+        },
+        "price": "5000",
+        "room_count": "3",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, נווה יהודה, דרך יבנה 11"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ב’o; / צפון מערב העיר",
+            "street": "גלוסקין",
+            "number": "16"
+        },
+        "price": "5800",
+        "room_count": "4",
+        "square_meters": "98",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ב’o; / צפון מערב העיר, גלוסקין 16"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון מזרח העיר",
+            "street": "הגר\"א",
+            "number": "8"
+        },
+        "price": "4900",
+        "room_count": "4",
+        "square_meters": "94",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון מזרח העיר, הגר\"א 8"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "סלע",
+            "street": "פוגל בן ציון",
+            "number": "15"
+        },
+        "price": "3100",
+        "room_count": "1.5",
+        "square_meters": "37",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, סלע, פוגל בן ציון 15"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון",
+            "street": "מילר טובה וטובי",
+            "number": "15"
+        },
+        "price": "4200",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון, מילר טובה וטובי 15"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "מרמורק",
+            "street": "רמב\"ם",
+            "number": "1"
+        },
+        "price": "3000",
+        "room_count": "1.5",
+        "square_meters": "70",
+        "floor": "1",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, מרמורק, רמב\"ם 1"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "סלע",
+            "street": "פוגל בן ציון",
+            "number": "15"
+        },
+        "price": "3100",
+        "room_count": "1.5",
+        "square_meters": "37",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, סלע, פוגל בן ציון 15"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון מזרח העיר",
+            "street": "הגר\"א",
+            "number": "8"
+        },
+        "price": "4900",
+        "room_count": "4",
+        "square_meters": "94",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון מזרח העיר, הגר\"א 8"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "שעריים",
+            "street": "בן אהרן יוסף",
+            "number": "17"
+        },
+        "price": "2600",
+        "room_count": "1",
+        "square_meters": "30",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, שעריים, בן אהרן יוסף 17"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "א’o; / צפון מזרח העיר",
+            "street": "איזנברג",
+            "number": "38"
+        },
+        "price": "4100",
+        "room_count": "3",
+        "square_meters": "80",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, א’o; / צפון מזרח העיר, איזנברג 38"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "שעריים",
+            "street": "בן אהרן יוסף",
+            "number": "17"
+        },
+        "price": "2600",
+        "room_count": "1",
+        "square_meters": "30",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, שעריים, בן אהרן יוסף 17"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "אושיות",
+            "street": "לדיז’o;ינסקי",
+            "number": "3"
+        },
+        "price": "3450",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, אושיות, לדיז’o;ינסקי 3"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "הבנים 2",
+            "street": "N/A",
+            "number": "N/A"
+        },
+        "price": "3800",
+        "room_count": "3",
+        "square_meters": "50",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, הבנים 2"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ב’o; / צפון מערב העיר",
+            "street": "שד חן",
+            "number": "33"
+        },
+        "price": "5800",
+        "room_count": "4",
+        "square_meters": "100",
+        "floor": "3",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ב’o; / צפון מערב העיר, שד חן 33"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "אושיות",
+            "street": "לדיז’o;ינסקי",
+            "number": "3"
+        },
+        "price": "3450",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, אושיות, לדיז’o;ינסקי 3"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "שעריים",
+            "street": "בן אהרן יוסף",
+            "number": "17"
+        },
+        "price": "2600",
+        "room_count": "1",
+        "square_meters": "30",
+        "floor": "N/A",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, שעריים, בן אהרן יוסף 17"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "ב’o; / צפון מערב העיר",
+            "street": "גלוסקין",
+            "number": "16"
+        },
+        "price": "5800",
+        "room_count": "4",
+        "square_meters": "98",
+        "floor": "2",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, ב’o; / צפון מערב העיר, גלוסקין 16"
+    },
+    {
+        "location": {
+            "city": "רחובות",
+            "area": "אושיות",
+            "street": "לדיז’o;ינסקי",
+            "number": "3"
+        },
+        "price": "3450",
+        "room_count": "3",
+        "square_meters": "67",
+        "floor": "4",
+        "image_url": "/media/images/house2.png",
+        "full_address": "רחובות, אושיות, לדיז’o;ינסקי 3"
+    }
+]
